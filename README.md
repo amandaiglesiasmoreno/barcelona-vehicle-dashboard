@@ -102,13 +102,10 @@ The application expects a CSV file with the following columns:
 The application can be configured through environment variables:
 
 - `DEBUG`: Enable/disable debug mode (default: `True`)
-- `HOST`: Host address (default: `0.0.0.0`)
-- `PORT`: Port number (default: `8050`)
 
 Example:
 ```bash
 export DEBUG=False
-export PORT=8080
 python run.py
 ```
 
@@ -131,49 +128,6 @@ The application follows a modular architecture:
 2. **New Charts**: Create chart functions in `src/callbacks/main_callbacks.py`
 3. **New KPIs**: Add KPI components in `src/components/kpis.py`
 4. **Styling**: Modify colors and styles in `config/settings.py`
-
-### Testing
-
-Run tests using pytest:
-```bash
-pip install pytest
-pytest tests/
-```
-
-## Deployment
-
-### Using Gunicorn
-
-For production deployment:
-
-```bash
-pip install gunicorn
-gunicorn --bind 0.0.0.0:8000 --workers 4 run:app.server
-```
-
-### Using Docker
-
-Create a `Dockerfile`:
-```dockerfile
-FROM python:3.9-slim
-
-WORKDIR /app
-COPY requirements.txt .
-RUN pip install -r requirements.txt
-
-COPY . .
-EXPOSE 8050
-
-CMD ["python", "run.py"]
-```
-
-### Environment Variables for Production
-
-```bash
-export DEBUG=False
-export HOST=0.0.0.0
-export PORT=8050
-```
 
 ## Contributing
 
