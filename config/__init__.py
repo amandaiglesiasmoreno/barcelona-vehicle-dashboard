@@ -1,0 +1,1 @@
+"""Configuration package for the Barcelona Vehicle Dashboard."""

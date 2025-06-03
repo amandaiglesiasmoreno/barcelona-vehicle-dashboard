@@ -1,0 +1,3282 @@
+year,district,neighborhood,type_of_propulsion,number
+2016,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Diesel,2456.0
+2016,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Electric,85.0
+2016,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Gasoline,5092.0
+2016,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Others,34.0
+2016,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Unknown,90.0
+2016,Ciutat Vella,el Gòtic,Diesel,5042.0
+2016,Ciutat Vella,el Gòtic,Electric,137.0
+2016,Ciutat Vella,el Gòtic,Gasoline,6990.0
+2016,Ciutat Vella,el Gòtic,Others,129.0
+2016,Ciutat Vella,el Gòtic,Unknown,144.0
+2016,Ciutat Vella,el Raval,Diesel,3810.0
+2016,Ciutat Vella,el Raval,Electric,28.0
+2016,Ciutat Vella,el Raval,Gasoline,7074.0
+2016,Ciutat Vella,el Raval,Others,127.0
+2016,Ciutat Vella,el Raval,Unknown,209.0
+2016,Ciutat Vella,la Barceloneta,Diesel,2178.0
+2016,Ciutat Vella,la Barceloneta,Electric,27.0
+2016,Ciutat Vella,la Barceloneta,Gasoline,3833.0
+2016,Ciutat Vella,la Barceloneta,Others,19.0
+2016,Ciutat Vella,la Barceloneta,Unknown,273.0
+2016,Eixample,Sant Antoni,Diesel,5643.0
+2016,Eixample,Sant Antoni,Electric,38.0
+2016,Eixample,Sant Antoni,Gasoline,10872.0
+2016,Eixample,Sant Antoni,Others,134.0
+2016,Eixample,Sant Antoni,Unknown,136.0
+2016,Eixample,el Fort Pienc,Diesel,5511.0
+2016,Eixample,el Fort Pienc,Electric,12.0
+2016,Eixample,el Fort Pienc,Gasoline,9473.0
+2016,Eixample,el Fort Pienc,Others,76.0
+2016,Eixample,el Fort Pienc,Unknown,162.0
+2016,Eixample,l'Antiga Esquerra de l'Eixample,Diesel,7252.0
+2016,Eixample,l'Antiga Esquerra de l'Eixample,Electric,38.0
+2016,Eixample,l'Antiga Esquerra de l'Eixample,Gasoline,15275.0
+2016,Eixample,l'Antiga Esquerra de l'Eixample,Others,68.0
+2016,Eixample,l'Antiga Esquerra de l'Eixample,Unknown,236.0
+2016,Eixample,la Dreta de l'Eixample,Diesel,11373.0
+2016,Eixample,la Dreta de l'Eixample,Electric,85.0
+2016,Eixample,la Dreta de l'Eixample,Gasoline,18545.0
+2016,Eixample,la Dreta de l'Eixample,Others,311.0
+2016,Eixample,la Dreta de l'Eixample,Unknown,405.0
+2016,Eixample,la Nova Esquerra de l'Eixample,Diesel,10228.0
+2016,Eixample,la Nova Esquerra de l'Eixample,Electric,34.0
+2016,Eixample,la Nova Esquerra de l'Eixample,Gasoline,19737.0
+2016,Eixample,la Nova Esquerra de l'Eixample,Others,128.0
+2016,Eixample,la Nova Esquerra de l'Eixample,Unknown,487.0
+2016,Eixample,la Sagrada Família,Diesel,7974.0
+2016,Eixample,la Sagrada Família,Electric,25.0
+2016,Eixample,la Sagrada Família,Gasoline,14972.0
+2016,Eixample,la Sagrada Família,Others,182.0
+2016,Eixample,la Sagrada Família,Unknown,196.0
+2016,Gràcia,Vallcarca i els Penitents,Diesel,2760.0
+2016,Gràcia,Vallcarca i els Penitents,Electric,7.0
+2016,Gràcia,Vallcarca i els Penitents,Gasoline,6138.0
+2016,Gràcia,Vallcarca i els Penitents,Others,37.0
+2016,Gràcia,Vallcarca i els Penitents,Unknown,76.0
+2016,Gràcia,Vila de Gràcia,Diesel,6807.0
+2016,Gràcia,Vila de Gràcia,Electric,41.0
+2016,Gràcia,Vila de Gràcia,Gasoline,15415.0
+2016,Gràcia,Vila de Gràcia,Others,124.0
+2016,Gràcia,Vila de Gràcia,Unknown,182.0
+2016,Gràcia,el Camp d'en Grassot i Gràcia Nova,Diesel,5463.0
+2016,Gràcia,el Camp d'en Grassot i Gràcia Nova,Electric,9.0
+2016,Gràcia,el Camp d'en Grassot i Gràcia Nova,Gasoline,11806.0
+2016,Gràcia,el Camp d'en Grassot i Gràcia Nova,Others,51.0
+2016,Gràcia,el Camp d'en Grassot i Gràcia Nova,Unknown,97.0
+2016,Gràcia,el Coll,Diesel,1197.0
+2016,Gràcia,el Coll,Electric,3.0
+2016,Gràcia,el Coll,Gasoline,2489.0
+2016,Gràcia,el Coll,Others,12.0
+2016,Gràcia,el Coll,Unknown,22.0
+2016,Gràcia,la Salut,Diesel,2311.0
+2016,Gràcia,la Salut,Electric,5.0
+2016,Gràcia,la Salut,Gasoline,5076.0
+2016,Gràcia,la Salut,Others,24.0
+2016,Gràcia,la Salut,Unknown,41.0
+2016,Horta-Guinardó,Can Baró,Diesel,1674.0
+2016,Horta-Guinardó,Can Baró,Electric,3.0
+2016,Horta-Guinardó,Can Baró,Gasoline,3246.0
+2016,Horta-Guinardó,Can Baró,Others,21.0
+2016,Horta-Guinardó,Can Baró,Unknown,35.0
+2016,Horta-Guinardó,Horta,Diesel,4892.0
+2016,Horta-Guinardó,Horta,Electric,0.0
+2016,Horta-Guinardó,Horta,Gasoline,8117.0
+2016,Horta-Guinardó,Horta,Others,70.0
+2016,Horta-Guinardó,Horta,Unknown,86.0
+2016,Horta-Guinardó,Montbau,Diesel,907.0
+2016,Horta-Guinardó,Montbau,Electric,1.0
+2016,Horta-Guinardó,Montbau,Gasoline,1392.0
+2016,Horta-Guinardó,Montbau,Others,12.0
+2016,Horta-Guinardó,Montbau,Unknown,10.0
+2016,Horta-Guinardó,Sant Genís dels Agudells,Diesel,1382.0
+2016,Horta-Guinardó,Sant Genís dels Agudells,Electric,3.0
+2016,Horta-Guinardó,Sant Genís dels Agudells,Gasoline,2223.0
+2016,Horta-Guinardó,Sant Genís dels Agudells,Others,18.0
+2016,Horta-Guinardó,Sant Genís dels Agudells,Unknown,22.0
+2016,Horta-Guinardó,el Baix Guinardó,Diesel,4204.0
+2016,Horta-Guinardó,el Baix Guinardó,Electric,10.0
+2016,Horta-Guinardó,el Baix Guinardó,Gasoline,8031.0
+2016,Horta-Guinardó,el Baix Guinardó,Others,64.0
+2016,Horta-Guinardó,el Baix Guinardó,Unknown,98.0
+2016,Horta-Guinardó,el Carmel,Diesel,5399.0
+2016,Horta-Guinardó,el Carmel,Electric,2.0
+2016,Horta-Guinardó,el Carmel,Gasoline,9242.0
+2016,Horta-Guinardó,el Carmel,Others,52.0
+2016,Horta-Guinardó,el Carmel,Unknown,103.0
+2016,Horta-Guinardó,el Guinardó,Diesel,6285.0
+2016,Horta-Guinardó,el Guinardó,Electric,9.0
+2016,Horta-Guinardó,el Guinardó,Gasoline,10985.0
+2016,Horta-Guinardó,el Guinardó,Others,77.0
+2016,Horta-Guinardó,el Guinardó,Unknown,107.0
+2016,Horta-Guinardó,la Clota,Diesel,147.0
+2016,Horta-Guinardó,la Clota,Electric,1.0
+2016,Horta-Guinardó,la Clota,Gasoline,168.0
+2016,Horta-Guinardó,la Clota,Others,1.0
+2016,Horta-Guinardó,la Clota,Unknown,3.0
+2016,Horta-Guinardó,la Font d'en Fargues,Diesel,2029.0
+2016,Horta-Guinardó,la Font d'en Fargues,Electric,2.0
+2016,Horta-Guinardó,la Font d'en Fargues,Gasoline,3976.0
+2016,Horta-Guinardó,la Font d'en Fargues,Others,39.0
+2016,Horta-Guinardó,la Font d'en Fargues,Unknown,37.0
+2016,Horta-Guinardó,la Teixonera,Diesel,2061.0
+2016,Horta-Guinardó,la Teixonera,Electric,2.0
+2016,Horta-Guinardó,la Teixonera,Gasoline,3617.0
+2016,Horta-Guinardó,la Teixonera,Others,22.0
+2016,Horta-Guinardó,la Teixonera,Unknown,34.0
+2016,Horta-Guinardó,la Vall d'Hebron,Diesel,1192.0
+2016,Horta-Guinardó,la Vall d'Hebron,Electric,0.0
+2016,Horta-Guinardó,la Vall d'Hebron,Gasoline,1657.0
+2016,Horta-Guinardó,la Vall d'Hebron,Others,11.0
+2016,Horta-Guinardó,la Vall d'Hebron,Unknown,24.0
+2016,Les Corts,Pedralbes,Diesel,2694.0
+2016,Les Corts,Pedralbes,Electric,23.0
+2016,Les Corts,Pedralbes,Gasoline,7142.0
+2016,Les Corts,Pedralbes,Others,43.0
+2016,Les Corts,Pedralbes,Unknown,72.0
+2016,Les Corts,la Maternitat i Sant Ramon,Diesel,4776.0
+2016,Les Corts,la Maternitat i Sant Ramon,Electric,18.0
+2016,Les Corts,la Maternitat i Sant Ramon,Gasoline,8928.0
+2016,Les Corts,la Maternitat i Sant Ramon,Others,62.0
+2016,Les Corts,la Maternitat i Sant Ramon,Unknown,126.0
+2016,Les Corts,les Corts,Diesel,10060.0
+2016,Les Corts,les Corts,Electric,80.0
+2016,Les Corts,les Corts,Gasoline,18814.0
+2016,Les Corts,les Corts,Others,123.0
+2016,Les Corts,les Corts,Unknown,198.0
+2016,Nou Barris,Can Peguera,Diesel,361.0
+2016,Nou Barris,Can Peguera,Electric,0.0
+2016,Nou Barris,Can Peguera,Gasoline,581.0
+2016,Nou Barris,Can Peguera,Others,5.0
+2016,Nou Barris,Can Peguera,Unknown,6.0
+2016,Nou Barris,Canyelles,Diesel,1756.0
+2016,Nou Barris,Canyelles,Electric,0.0
+2016,Nou Barris,Canyelles,Gasoline,1973.0
+2016,Nou Barris,Canyelles,Others,31.0
+2016,Nou Barris,Canyelles,Unknown,24.0
+2016,Nou Barris,Ciutat Meridiana,Diesel,1793.0
+2016,Nou Barris,Ciutat Meridiana,Electric,0.0
+2016,Nou Barris,Ciutat Meridiana,Gasoline,1879.0
+2016,Nou Barris,Ciutat Meridiana,Others,22.0
+2016,Nou Barris,Ciutat Meridiana,Unknown,33.0
+2016,Nou Barris,Porta,Diesel,4042.0
+2016,Nou Barris,Porta,Electric,1.0
+2016,Nou Barris,Porta,Gasoline,5761.0
+2016,Nou Barris,Porta,Others,48.0
+2016,Nou Barris,Porta,Unknown,74.0
+2016,Nou Barris,Torre Baró,Diesel,590.0
+2016,Nou Barris,Torre Baró,Electric,3.0
+2016,Nou Barris,Torre Baró,Gasoline,672.0
+2016,Nou Barris,Torre Baró,Others,9.0
+2016,Nou Barris,Torre Baró,Unknown,17.0
+2016,Nou Barris,Vallbona,Diesel,305.0
+2016,Nou Barris,Vallbona,Electric,1.0
+2016,Nou Barris,Vallbona,Gasoline,323.0
+2016,Nou Barris,Vallbona,Others,12.0
+2016,Nou Barris,Vallbona,Unknown,12.0
+2016,Nou Barris,Verdun,Diesel,2055.0
+2016,Nou Barris,Verdun,Electric,0.0
+2016,Nou Barris,Verdun,Gasoline,2658.0
+2016,Nou Barris,Verdun,Others,31.0
+2016,Nou Barris,Verdun,Unknown,38.0
+2016,Nou Barris,Vilapicina i la Torre Llobeta,Diesel,4489.0
+2016,Nou Barris,Vilapicina i la Torre Llobeta,Electric,6.0
+2016,Nou Barris,Vilapicina i la Torre Llobeta,Gasoline,6714.0
+2016,Nou Barris,Vilapicina i la Torre Llobeta,Others,63.0
+2016,Nou Barris,Vilapicina i la Torre Llobeta,Unknown,88.0
+2016,Nou Barris,el Turó de la Peira,Diesel,1977.0
+2016,Nou Barris,el Turó de la Peira,Electric,0.0
+2016,Nou Barris,el Turó de la Peira,Gasoline,3154.0
+2016,Nou Barris,el Turó de la Peira,Others,16.0
+2016,Nou Barris,el Turó de la Peira,Unknown,40.0
+2016,Nou Barris,la Guineueta,Diesel,2824.0
+2016,Nou Barris,la Guineueta,Electric,0.0
+2016,Nou Barris,la Guineueta,Gasoline,3817.0
+2016,Nou Barris,la Guineueta,Others,27.0
+2016,Nou Barris,la Guineueta,Unknown,57.0
+2016,Nou Barris,la Prosperitat,Diesel,4897.0
+2016,Nou Barris,la Prosperitat,Electric,7.0
+2016,Nou Barris,la Prosperitat,Gasoline,6312.0
+2016,Nou Barris,la Prosperitat,Others,64.0
+2016,Nou Barris,la Prosperitat,Unknown,84.0
+2016,Nou Barris,la Trinitat Nova,Diesel,1147.0
+2016,Nou Barris,la Trinitat Nova,Electric,0.0
+2016,Nou Barris,la Trinitat Nova,Gasoline,1484.0
+2016,Nou Barris,la Trinitat Nova,Others,10.0
+2016,Nou Barris,la Trinitat Nova,Unknown,25.0
+2016,Nou Barris,les Roquetes,Diesel,2991.0
+2016,Nou Barris,les Roquetes,Electric,5.0
+2016,Nou Barris,les Roquetes,Gasoline,3506.0
+2016,Nou Barris,les Roquetes,Others,56.0
+2016,Nou Barris,les Roquetes,Unknown,78.0
+2016,Sant Andreu,Baró de Viver,Diesel,449.0
+2016,Sant Andreu,Baró de Viver,Electric,0.0
+2016,Sant Andreu,Baró de Viver,Gasoline,511.0
+2016,Sant Andreu,Baró de Viver,Others,5.0
+2016,Sant Andreu,Baró de Viver,Unknown,7.0
+2016,Sant Andreu,Navas,Diesel,3777.0
+2016,Sant Andreu,Navas,Electric,4.0
+2016,Sant Andreu,Navas,Gasoline,6177.0
+2016,Sant Andreu,Navas,Others,54.0
+2016,Sant Andreu,Navas,Unknown,83.0
+2016,Sant Andreu,Sant Andreu,Diesel,10915.0
+2016,Sant Andreu,Sant Andreu,Electric,24.0
+2016,Sant Andreu,Sant Andreu,Gasoline,15630.0
+2016,Sant Andreu,Sant Andreu,Others,139.0
+2016,Sant Andreu,Sant Andreu,Unknown,165.0
+2016,Sant Andreu,el Bon Pastor,Diesel,3761.0
+2016,Sant Andreu,el Bon Pastor,Electric,100.0
+2016,Sant Andreu,el Bon Pastor,Gasoline,2989.0
+2016,Sant Andreu,el Bon Pastor,Others,173.0
+2016,Sant Andreu,el Bon Pastor,Unknown,80.0
+2016,Sant Andreu,el Congrés i els Indians,Diesel,2034.0
+2016,Sant Andreu,el Congrés i els Indians,Electric,3.0
+2016,Sant Andreu,el Congrés i els Indians,Gasoline,3551.0
+2016,Sant Andreu,el Congrés i els Indians,Others,41.0
+2016,Sant Andreu,el Congrés i els Indians,Unknown,36.0
+2016,Sant Andreu,la Sagrera,Diesel,5018.0
+2016,Sant Andreu,la Sagrera,Electric,9.0
+2016,Sant Andreu,la Sagrera,Gasoline,7660.0
+2016,Sant Andreu,la Sagrera,Others,74.0
+2016,Sant Andreu,la Sagrera,Unknown,95.0
+2016,Sant Andreu,la Trinitat Vella,Diesel,1842.0
+2016,Sant Andreu,la Trinitat Vella,Electric,0.0
+2016,Sant Andreu,la Trinitat Vella,Gasoline,2017.0
+2016,Sant Andreu,la Trinitat Vella,Others,13.0
+2016,Sant Andreu,la Trinitat Vella,Unknown,34.0
+2016,Sant Martí,Camp de l'Arpa del Clot,Diesel,6267.0
+2016,Sant Martí,Camp de l'Arpa del Clot,Electric,9.0
+2016,Sant Martí,Camp de l'Arpa del Clot,Gasoline,10729.0
+2016,Sant Martí,Camp de l'Arpa del Clot,Others,93.0
+2016,Sant Martí,Camp de l'Arpa del Clot,Unknown,130.0
+2016,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Diesel,2495.0
+2016,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Electric,6.0
+2016,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Gasoline,3389.0
+2016,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Others,42.0
+2016,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Unknown,41.0
+2016,Sant Martí,Provençals del Poblenou,Diesel,4642.0
+2016,Sant Martí,Provençals del Poblenou,Electric,11.0
+2016,Sant Martí,Provençals del Poblenou,Gasoline,5668.0
+2016,Sant Martí,Provençals del Poblenou,Others,84.0
+2016,Sant Martí,Provençals del Poblenou,Unknown,94.0
+2016,Sant Martí,Sant Martí de Provençals,Diesel,4605.0
+2016,Sant Martí,Sant Martí de Provençals,Electric,2.0
+2016,Sant Martí,Sant Martí de Provençals,Gasoline,6895.0
+2016,Sant Martí,Sant Martí de Provençals,Others,92.0
+2016,Sant Martí,Sant Martí de Provençals,Unknown,92.0
+2016,Sant Martí,el Besòs i el Maresme,Diesel,3848.0
+2016,Sant Martí,el Besòs i el Maresme,Electric,10.0
+2016,Sant Martí,el Besòs i el Maresme,Gasoline,4421.0
+2016,Sant Martí,el Besòs i el Maresme,Others,45.0
+2016,Sant Martí,el Besòs i el Maresme,Unknown,79.0
+2016,Sant Martí,el Clot,Diesel,4719.0
+2016,Sant Martí,el Clot,Electric,4.0
+2016,Sant Martí,el Clot,Gasoline,7453.0
+2016,Sant Martí,el Clot,Others,77.0
+2016,Sant Martí,el Clot,Unknown,70.0
+2016,Sant Martí,el Parc i la Llacuna del Poblenou,Diesel,3803.0
+2016,Sant Martí,el Parc i la Llacuna del Poblenou,Electric,35.0
+2016,Sant Martí,el Parc i la Llacuna del Poblenou,Gasoline,4581.0
+2016,Sant Martí,el Parc i la Llacuna del Poblenou,Others,69.0
+2016,Sant Martí,el Parc i la Llacuna del Poblenou,Unknown,101.0
+2016,Sant Martí,el Poblenou,Diesel,6096.0
+2016,Sant Martí,el Poblenou,Electric,29.0
+2016,Sant Martí,el Poblenou,Gasoline,9019.0
+2016,Sant Martí,el Poblenou,Others,103.0
+2016,Sant Martí,el Poblenou,Unknown,110.0
+2016,Sant Martí,la Verneda i la Pau,Diesel,5685.0
+2016,Sant Martí,la Verneda i la Pau,Electric,12.0
+2016,Sant Martí,la Verneda i la Pau,Gasoline,7380.0
+2016,Sant Martí,la Verneda i la Pau,Others,55.0
+2016,Sant Martí,la Verneda i la Pau,Unknown,85.0
+2016,Sant Martí,la Vila Olímpica del Poblenou,Diesel,2088.0
+2016,Sant Martí,la Vila Olímpica del Poblenou,Electric,16.0
+2016,Sant Martí,la Vila Olímpica del Poblenou,Gasoline,3388.0
+2016,Sant Martí,la Vila Olímpica del Poblenou,Others,14.0
+2016,Sant Martí,la Vila Olímpica del Poblenou,Unknown,35.0
+2016,Sants-Montjuïc,Hostafrancs,Diesel,2717.0
+2016,Sants-Montjuïc,Hostafrancs,Electric,8.0
+2016,Sants-Montjuïc,Hostafrancs,Gasoline,4253.0
+2016,Sants-Montjuïc,Hostafrancs,Others,40.0
+2016,Sants-Montjuïc,Hostafrancs,Unknown,62.0
+2016,Sants-Montjuïc,Sants,Diesel,6287.0
+2016,Sants-Montjuïc,Sants,Electric,8.0
+2016,Sants-Montjuïc,Sants,Gasoline,11591.0
+2016,Sants-Montjuïc,Sants,Others,98.0
+2016,Sants-Montjuïc,Sants,Unknown,161.0
+2016,Sants-Montjuïc,Sants - Badal,Diesel,3923.0
+2016,Sants-Montjuïc,Sants - Badal,Electric,8.0
+2016,Sants-Montjuïc,Sants - Badal,Gasoline,6597.0
+2016,Sants-Montjuïc,Sants - Badal,Others,51.0
+2016,Sants-Montjuïc,Sants - Badal,Unknown,81.0
+2016,Sants-Montjuïc,el Poble Sec,Diesel,5288.0
+2016,Sants-Montjuïc,el Poble Sec,Electric,23.0
+2016,Sants-Montjuïc,el Poble Sec,Gasoline,9247.0
+2016,Sants-Montjuïc,el Poble Sec,Others,83.0
+2016,Sants-Montjuïc,el Poble Sec,Unknown,127.0
+2016,Sants-Montjuïc,la Bordeta,Diesel,3241.0
+2016,Sants-Montjuïc,la Bordeta,Electric,26.0
+2016,Sants-Montjuïc,la Bordeta,Gasoline,5213.0
+2016,Sants-Montjuïc,la Bordeta,Others,43.0
+2016,Sants-Montjuïc,la Bordeta,Unknown,58.0
+2016,Sants-Montjuïc,la Font de la Guatlla,Diesel,1728.0
+2016,Sants-Montjuïc,la Font de la Guatlla,Electric,3.0
+2016,Sants-Montjuïc,la Font de la Guatlla,Gasoline,3057.0
+2016,Sants-Montjuïc,la Font de la Guatlla,Others,25.0
+2016,Sants-Montjuïc,la Font de la Guatlla,Unknown,63.0
+2016,Sants-Montjuïc,la Marina de Port,Diesel,6157.0
+2016,Sants-Montjuïc,la Marina de Port,Electric,7.0
+2016,Sants-Montjuïc,la Marina de Port,Gasoline,8012.0
+2016,Sants-Montjuïc,la Marina de Port,Others,118.0
+2016,Sants-Montjuïc,la Marina de Port,Unknown,115.0
+2016,Sants-Montjuïc,la Marina del Prat Vermell,Diesel,5616.0
+2016,Sants-Montjuïc,la Marina del Prat Vermell,Electric,480.0
+2016,Sants-Montjuïc,la Marina del Prat Vermell,Gasoline,1199.0
+2016,Sants-Montjuïc,la Marina del Prat Vermell,Others,1164.0
+2016,Sants-Montjuïc,la Marina del Prat Vermell,Unknown,439.0
+2016,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Diesel,10414.0
+2016,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Electric,48.0
+2016,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Gasoline,27135.0
+2016,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Others,159.0
+2016,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Unknown,295.0
+2016,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Diesel,4769.0
+2016,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Electric,27.0
+2016,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Gasoline,13285.0
+2016,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Others,64.0
+2016,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Unknown,117.0
+2016,Sarrià-Sant Gervasi,Sarrià,Diesel,4773.0
+2016,Sarrià-Sant Gervasi,Sarrià,Electric,33.0
+2016,Sarrià-Sant Gervasi,Sarrià,Gasoline,11931.0
+2016,Sarrià-Sant Gervasi,Sarrià,Others,62.0
+2016,Sarrià-Sant Gervasi,Sarrià,Unknown,126.0
+2016,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Diesel,1009.0
+2016,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Electric,4.0
+2016,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Gasoline,1998.0
+2016,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Others,8.0
+2016,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Unknown,29.0
+2016,Sarrià-Sant Gervasi,el Putget i Farró,Diesel,4771.0
+2016,Sarrià-Sant Gervasi,el Putget i Farró,Electric,26.0
+2016,Sarrià-Sant Gervasi,el Putget i Farró,Gasoline,13094.0
+2016,Sarrià-Sant Gervasi,el Putget i Farró,Others,38.0
+2016,Sarrià-Sant Gervasi,el Putget i Farró,Unknown,106.0
+2016,Sarrià-Sant Gervasi,les Tres Torres,Diesel,3383.0
+2016,Sarrià-Sant Gervasi,les Tres Torres,Electric,36.0
+2016,Sarrià-Sant Gervasi,les Tres Torres,Gasoline,8494.0
+2016,Sarrià-Sant Gervasi,les Tres Torres,Others,37.0
+2016,Sarrià-Sant Gervasi,les Tres Torres,Unknown,79.0
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Diesel,2449.0
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Electric,731.0
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Gasoline,5210.0
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Others,35.0
+2017,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Unknown,77.0
+2017,Ciutat Vella,el Gòtic,Diesel,5114.0
+2017,Ciutat Vella,el Gòtic,Electric,188.0
+2017,Ciutat Vella,el Gòtic,Gasoline,6915.0
+2017,Ciutat Vella,el Gòtic,Others,127.0
+2017,Ciutat Vella,el Gòtic,Unknown,161.0
+2017,Ciutat Vella,el Raval,Diesel,3871.0
+2017,Ciutat Vella,el Raval,Electric,31.0
+2017,Ciutat Vella,el Raval,Gasoline,7228.0
+2017,Ciutat Vella,el Raval,Others,61.0
+2017,Ciutat Vella,el Raval,Unknown,140.0
+2017,Ciutat Vella,la Barceloneta,Diesel,2161.0
+2017,Ciutat Vella,la Barceloneta,Electric,20.0
+2017,Ciutat Vella,la Barceloneta,Gasoline,3891.0
+2017,Ciutat Vella,la Barceloneta,Others,23.0
+2017,Ciutat Vella,la Barceloneta,Unknown,252.0
+2017,Eixample,Sant Antoni,Diesel,5489.0
+2017,Eixample,Sant Antoni,Electric,55.0
+2017,Eixample,Sant Antoni,Gasoline,11021.0
+2017,Eixample,Sant Antoni,Others,139.0
+2017,Eixample,Sant Antoni,Unknown,105.0
+2017,Eixample,el Fort Pienc,Diesel,5380.0
+2017,Eixample,el Fort Pienc,Electric,19.0
+2017,Eixample,el Fort Pienc,Gasoline,9606.0
+2017,Eixample,el Fort Pienc,Others,79.0
+2017,Eixample,el Fort Pienc,Unknown,130.0
+2017,Eixample,l'Antiga Esquerra de l'Eixample,Diesel,7249.0
+2017,Eixample,l'Antiga Esquerra de l'Eixample,Electric,53.0
+2017,Eixample,l'Antiga Esquerra de l'Eixample,Gasoline,15465.0
+2017,Eixample,l'Antiga Esquerra de l'Eixample,Others,73.0
+2017,Eixample,l'Antiga Esquerra de l'Eixample,Unknown,203.0
+2017,Eixample,la Dreta de l'Eixample,Diesel,11340.0
+2017,Eixample,la Dreta de l'Eixample,Electric,134.0
+2017,Eixample,la Dreta de l'Eixample,Gasoline,18665.0
+2017,Eixample,la Dreta de l'Eixample,Others,321.0
+2017,Eixample,la Dreta de l'Eixample,Unknown,360.0
+2017,Eixample,la Nova Esquerra de l'Eixample,Diesel,10101.0
+2017,Eixample,la Nova Esquerra de l'Eixample,Electric,40.0
+2017,Eixample,la Nova Esquerra de l'Eixample,Gasoline,19796.0
+2017,Eixample,la Nova Esquerra de l'Eixample,Others,126.0
+2017,Eixample,la Nova Esquerra de l'Eixample,Unknown,435.0
+2017,Eixample,la Sagrada Família,Diesel,7925.0
+2017,Eixample,la Sagrada Família,Electric,72.0
+2017,Eixample,la Sagrada Família,Gasoline,15234.0
+2017,Eixample,la Sagrada Família,Others,182.0
+2017,Eixample,la Sagrada Família,Unknown,164.0
+2017,Gràcia,Vallcarca i els Penitents,Diesel,2715.0
+2017,Gràcia,Vallcarca i els Penitents,Electric,14.0
+2017,Gràcia,Vallcarca i els Penitents,Gasoline,6253.0
+2017,Gràcia,Vallcarca i els Penitents,Others,32.0
+2017,Gràcia,Vallcarca i els Penitents,Unknown,54.0
+2017,Gràcia,Vila de Gràcia,Diesel,6840.0
+2017,Gràcia,Vila de Gràcia,Electric,48.0
+2017,Gràcia,Vila de Gràcia,Gasoline,15646.0
+2017,Gràcia,Vila de Gràcia,Others,108.0
+2017,Gràcia,Vila de Gràcia,Unknown,128.0
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,Diesel,5253.0
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,Electric,11.0
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,Gasoline,11947.0
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,Others,53.0
+2017,Gràcia,el Camp d'en Grassot i Gràcia Nova,Unknown,81.0
+2017,Gràcia,el Coll,Diesel,1204.0
+2017,Gràcia,el Coll,Electric,4.0
+2017,Gràcia,el Coll,Gasoline,2554.0
+2017,Gràcia,el Coll,Others,10.0
+2017,Gràcia,el Coll,Unknown,18.0
+2017,Gràcia,la Salut,Diesel,2239.0
+2017,Gràcia,la Salut,Electric,5.0
+2017,Gràcia,la Salut,Gasoline,5122.0
+2017,Gràcia,la Salut,Others,22.0
+2017,Gràcia,la Salut,Unknown,43.0
+2017,Horta-Guinardó,Can Baró,Diesel,1680.0
+2017,Horta-Guinardó,Can Baró,Electric,6.0
+2017,Horta-Guinardó,Can Baró,Gasoline,3338.0
+2017,Horta-Guinardó,Can Baró,Others,21.0
+2017,Horta-Guinardó,Can Baró,Unknown,27.0
+2017,Horta-Guinardó,Horta,Diesel,4723.0
+2017,Horta-Guinardó,Horta,Electric,4.0
+2017,Horta-Guinardó,Horta,Gasoline,8260.0
+2017,Horta-Guinardó,Horta,Others,69.0
+2017,Horta-Guinardó,Horta,Unknown,62.0
+2017,Horta-Guinardó,Montbau,Diesel,887.0
+2017,Horta-Guinardó,Montbau,Electric,1.0
+2017,Horta-Guinardó,Montbau,Gasoline,1406.0
+2017,Horta-Guinardó,Montbau,Others,8.0
+2017,Horta-Guinardó,Montbau,Unknown,8.0
+2017,Horta-Guinardó,Sant Genís dels Agudells,Diesel,1344.0
+2017,Horta-Guinardó,Sant Genís dels Agudells,Electric,5.0
+2017,Horta-Guinardó,Sant Genís dels Agudells,Gasoline,2257.0
+2017,Horta-Guinardó,Sant Genís dels Agudells,Others,19.0
+2017,Horta-Guinardó,Sant Genís dels Agudells,Unknown,16.0
+2017,Horta-Guinardó,el Baix Guinardó,Diesel,4108.0
+2017,Horta-Guinardó,el Baix Guinardó,Electric,16.0
+2017,Horta-Guinardó,el Baix Guinardó,Gasoline,8083.0
+2017,Horta-Guinardó,el Baix Guinardó,Others,67.0
+2017,Horta-Guinardó,el Baix Guinardó,Unknown,68.0
+2017,Horta-Guinardó,el Carmel,Diesel,5383.0
+2017,Horta-Guinardó,el Carmel,Electric,2.0
+2017,Horta-Guinardó,el Carmel,Gasoline,9480.0
+2017,Horta-Guinardó,el Carmel,Others,64.0
+2017,Horta-Guinardó,el Carmel,Unknown,79.0
+2017,Horta-Guinardó,el Guinardó,Diesel,6250.0
+2017,Horta-Guinardó,el Guinardó,Electric,15.0
+2017,Horta-Guinardó,el Guinardó,Gasoline,11185.0
+2017,Horta-Guinardó,el Guinardó,Others,89.0
+2017,Horta-Guinardó,el Guinardó,Unknown,84.0
+2017,Horta-Guinardó,la Clota,Diesel,156.0
+2017,Horta-Guinardó,la Clota,Electric,1.0
+2017,Horta-Guinardó,la Clota,Gasoline,180.0
+2017,Horta-Guinardó,la Clota,Others,1.0
+2017,Horta-Guinardó,la Clota,Unknown,3.0
+2017,Horta-Guinardó,la Font d'en Fargues,Diesel,1980.0
+2017,Horta-Guinardó,la Font d'en Fargues,Electric,4.0
+2017,Horta-Guinardó,la Font d'en Fargues,Gasoline,4074.0
+2017,Horta-Guinardó,la Font d'en Fargues,Others,38.0
+2017,Horta-Guinardó,la Font d'en Fargues,Unknown,22.0
+2017,Horta-Guinardó,la Teixonera,Diesel,2062.0
+2017,Horta-Guinardó,la Teixonera,Electric,5.0
+2017,Horta-Guinardó,la Teixonera,Gasoline,3697.0
+2017,Horta-Guinardó,la Teixonera,Others,26.0
+2017,Horta-Guinardó,la Teixonera,Unknown,25.0
+2017,Horta-Guinardó,la Vall d'Hebron,Diesel,1189.0
+2017,Horta-Guinardó,la Vall d'Hebron,Electric,1.0
+2017,Horta-Guinardó,la Vall d'Hebron,Gasoline,1698.0
+2017,Horta-Guinardó,la Vall d'Hebron,Others,14.0
+2017,Horta-Guinardó,la Vall d'Hebron,Unknown,21.0
+2017,Les Corts,Pedralbes,Diesel,2675.0
+2017,Les Corts,Pedralbes,Electric,55.0
+2017,Les Corts,Pedralbes,Gasoline,5961.0
+2017,Les Corts,Pedralbes,Others,42.0
+2017,Les Corts,Pedralbes,Unknown,64.0
+2017,Les Corts,la Maternitat i Sant Ramon,Diesel,4799.0
+2017,Les Corts,la Maternitat i Sant Ramon,Electric,24.0
+2017,Les Corts,la Maternitat i Sant Ramon,Gasoline,8931.0
+2017,Les Corts,la Maternitat i Sant Ramon,Others,65.0
+2017,Les Corts,la Maternitat i Sant Ramon,Unknown,98.0
+2017,Les Corts,les Corts,Diesel,9477.0
+2017,Les Corts,les Corts,Electric,241.0
+2017,Les Corts,les Corts,Gasoline,18435.0
+2017,Les Corts,les Corts,Others,125.0
+2017,Les Corts,les Corts,Unknown,154.0
+2017,Nou Barris,Can Peguera,Diesel,363.0
+2017,Nou Barris,Can Peguera,Electric,0.0
+2017,Nou Barris,Can Peguera,Gasoline,602.0
+2017,Nou Barris,Can Peguera,Others,6.0
+2017,Nou Barris,Can Peguera,Unknown,4.0
+2017,Nou Barris,Canyelles,Diesel,1753.0
+2017,Nou Barris,Canyelles,Electric,0.0
+2017,Nou Barris,Canyelles,Gasoline,2016.0
+2017,Nou Barris,Canyelles,Others,29.0
+2017,Nou Barris,Canyelles,Unknown,15.0
+2017,Nou Barris,Ciutat Meridiana,Diesel,1818.0
+2017,Nou Barris,Ciutat Meridiana,Electric,0.0
+2017,Nou Barris,Ciutat Meridiana,Gasoline,1878.0
+2017,Nou Barris,Ciutat Meridiana,Others,26.0
+2017,Nou Barris,Ciutat Meridiana,Unknown,29.0
+2017,Nou Barris,Porta,Diesel,3966.0
+2017,Nou Barris,Porta,Electric,1.0
+2017,Nou Barris,Porta,Gasoline,5880.0
+2017,Nou Barris,Porta,Others,53.0
+2017,Nou Barris,Porta,Unknown,60.0
+2017,Nou Barris,Torre Baró,Diesel,621.0
+2017,Nou Barris,Torre Baró,Electric,4.0
+2017,Nou Barris,Torre Baró,Gasoline,720.0
+2017,Nou Barris,Torre Baró,Others,11.0
+2017,Nou Barris,Torre Baró,Unknown,15.0
+2017,Nou Barris,Vallbona,Diesel,310.0
+2017,Nou Barris,Vallbona,Electric,2.0
+2017,Nou Barris,Vallbona,Gasoline,362.0
+2017,Nou Barris,Vallbona,Others,10.0
+2017,Nou Barris,Vallbona,Unknown,12.0
+2017,Nou Barris,Verdun,Diesel,2079.0
+2017,Nou Barris,Verdun,Electric,1.0
+2017,Nou Barris,Verdun,Gasoline,2704.0
+2017,Nou Barris,Verdun,Others,34.0
+2017,Nou Barris,Verdun,Unknown,22.0
+2017,Nou Barris,Vilapicina i la Torre Llobeta,Diesel,4426.0
+2017,Nou Barris,Vilapicina i la Torre Llobeta,Electric,7.0
+2017,Nou Barris,Vilapicina i la Torre Llobeta,Gasoline,6817.0
+2017,Nou Barris,Vilapicina i la Torre Llobeta,Others,67.0
+2017,Nou Barris,Vilapicina i la Torre Llobeta,Unknown,78.0
+2017,Nou Barris,el Turó de la Peira,Diesel,2001.0
+2017,Nou Barris,el Turó de la Peira,Electric,1.0
+2017,Nou Barris,el Turó de la Peira,Gasoline,3250.0
+2017,Nou Barris,el Turó de la Peira,Others,19.0
+2017,Nou Barris,el Turó de la Peira,Unknown,34.0
+2017,Nou Barris,la Guineueta,Diesel,2803.0
+2017,Nou Barris,la Guineueta,Electric,1.0
+2017,Nou Barris,la Guineueta,Gasoline,3951.0
+2017,Nou Barris,la Guineueta,Others,37.0
+2017,Nou Barris,la Guineueta,Unknown,45.0
+2017,Nou Barris,la Prosperitat,Diesel,4806.0
+2017,Nou Barris,la Prosperitat,Electric,9.0
+2017,Nou Barris,la Prosperitat,Gasoline,6466.0
+2017,Nou Barris,la Prosperitat,Others,76.0
+2017,Nou Barris,la Prosperitat,Unknown,86.0
+2017,Nou Barris,la Trinitat Nova,Diesel,1173.0
+2017,Nou Barris,la Trinitat Nova,Electric,0.0
+2017,Nou Barris,la Trinitat Nova,Gasoline,1533.0
+2017,Nou Barris,la Trinitat Nova,Others,10.0
+2017,Nou Barris,la Trinitat Nova,Unknown,21.0
+2017,Nou Barris,les Roquetes,Diesel,3001.0
+2017,Nou Barris,les Roquetes,Electric,5.0
+2017,Nou Barris,les Roquetes,Gasoline,3633.0
+2017,Nou Barris,les Roquetes,Others,55.0
+2017,Nou Barris,les Roquetes,Unknown,54.0
+2017,Sant Andreu,Baró de Viver,Diesel,474.0
+2017,Sant Andreu,Baró de Viver,Electric,0.0
+2017,Sant Andreu,Baró de Viver,Gasoline,528.0
+2017,Sant Andreu,Baró de Viver,Others,5.0
+2017,Sant Andreu,Baró de Viver,Unknown,5.0
+2017,Sant Andreu,Navas,Diesel,3729.0
+2017,Sant Andreu,Navas,Electric,5.0
+2017,Sant Andreu,Navas,Gasoline,6328.0
+2017,Sant Andreu,Navas,Others,58.0
+2017,Sant Andreu,Navas,Unknown,57.0
+2017,Sant Andreu,Sant Andreu,Diesel,10699.0
+2017,Sant Andreu,Sant Andreu,Electric,35.0
+2017,Sant Andreu,Sant Andreu,Gasoline,15986.0
+2017,Sant Andreu,Sant Andreu,Others,151.0
+2017,Sant Andreu,Sant Andreu,Unknown,132.0
+2017,Sant Andreu,el Bon Pastor,Diesel,3682.0
+2017,Sant Andreu,el Bon Pastor,Electric,98.0
+2017,Sant Andreu,el Bon Pastor,Gasoline,3046.0
+2017,Sant Andreu,el Bon Pastor,Others,168.0
+2017,Sant Andreu,el Bon Pastor,Unknown,64.0
+2017,Sant Andreu,el Congrés i els Indians,Diesel,2041.0
+2017,Sant Andreu,el Congrés i els Indians,Electric,7.0
+2017,Sant Andreu,el Congrés i els Indians,Gasoline,3585.0
+2017,Sant Andreu,el Congrés i els Indians,Others,39.0
+2017,Sant Andreu,el Congrés i els Indians,Unknown,21.0
+2017,Sant Andreu,la Sagrera,Diesel,5016.0
+2017,Sant Andreu,la Sagrera,Electric,12.0
+2017,Sant Andreu,la Sagrera,Gasoline,7801.0
+2017,Sant Andreu,la Sagrera,Others,81.0
+2017,Sant Andreu,la Sagrera,Unknown,81.0
+2017,Sant Andreu,la Trinitat Vella,Diesel,1896.0
+2017,Sant Andreu,la Trinitat Vella,Electric,1.0
+2017,Sant Andreu,la Trinitat Vella,Gasoline,2070.0
+2017,Sant Andreu,la Trinitat Vella,Others,16.0
+2017,Sant Andreu,la Trinitat Vella,Unknown,23.0
+2017,Sant Martí,Camp de l'Arpa del Clot,Diesel,6112.0
+2017,Sant Martí,Camp de l'Arpa del Clot,Electric,11.0
+2017,Sant Martí,Camp de l'Arpa del Clot,Gasoline,10908.0
+2017,Sant Martí,Camp de l'Arpa del Clot,Others,95.0
+2017,Sant Martí,Camp de l'Arpa del Clot,Unknown,112.0
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Diesel,2481.0
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Electric,11.0
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Gasoline,3499.0
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Others,43.0
+2017,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Unknown,40.0
+2017,Sant Martí,Provençals del Poblenou,Diesel,4631.0
+2017,Sant Martí,Provençals del Poblenou,Electric,14.0
+2017,Sant Martí,Provençals del Poblenou,Gasoline,5844.0
+2017,Sant Martí,Provençals del Poblenou,Others,97.0
+2017,Sant Martí,Provençals del Poblenou,Unknown,76.0
+2017,Sant Martí,Sant Martí de Provençals,Diesel,4501.0
+2017,Sant Martí,Sant Martí de Provençals,Electric,2.0
+2017,Sant Martí,Sant Martí de Provençals,Gasoline,7001.0
+2017,Sant Martí,Sant Martí de Provençals,Others,102.0
+2017,Sant Martí,Sant Martí de Provençals,Unknown,58.0
+2017,Sant Martí,el Besòs i el Maresme,Diesel,3948.0
+2017,Sant Martí,el Besòs i el Maresme,Electric,10.0
+2017,Sant Martí,el Besòs i el Maresme,Gasoline,4544.0
+2017,Sant Martí,el Besòs i el Maresme,Others,46.0
+2017,Sant Martí,el Besòs i el Maresme,Unknown,65.0
+2017,Sant Martí,el Clot,Diesel,4669.0
+2017,Sant Martí,el Clot,Electric,5.0
+2017,Sant Martí,el Clot,Gasoline,7580.0
+2017,Sant Martí,el Clot,Others,75.0
+2017,Sant Martí,el Clot,Unknown,64.0
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,Diesel,3650.0
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,Electric,41.0
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,Gasoline,4645.0
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,Others,63.0
+2017,Sant Martí,el Parc i la Llacuna del Poblenou,Unknown,105.0
+2017,Sant Martí,el Poblenou,Diesel,6034.0
+2017,Sant Martí,el Poblenou,Electric,46.0
+2017,Sant Martí,el Poblenou,Gasoline,9305.0
+2017,Sant Martí,el Poblenou,Others,115.0
+2017,Sant Martí,el Poblenou,Unknown,94.0
+2017,Sant Martí,la Verneda i la Pau,Diesel,5631.0
+2017,Sant Martí,la Verneda i la Pau,Electric,16.0
+2017,Sant Martí,la Verneda i la Pau,Gasoline,7440.0
+2017,Sant Martí,la Verneda i la Pau,Others,66.0
+2017,Sant Martí,la Verneda i la Pau,Unknown,81.0
+2017,Sant Martí,la Vila Olímpica del Poblenou,Diesel,2289.0
+2017,Sant Martí,la Vila Olímpica del Poblenou,Electric,23.0
+2017,Sant Martí,la Vila Olímpica del Poblenou,Gasoline,3454.0
+2017,Sant Martí,la Vila Olímpica del Poblenou,Others,13.0
+2017,Sant Martí,la Vila Olímpica del Poblenou,Unknown,38.0
+2017,Sants-Montjuïc,Hostafrancs,Diesel,2600.0
+2017,Sants-Montjuïc,Hostafrancs,Electric,6.0
+2017,Sants-Montjuïc,Hostafrancs,Gasoline,4241.0
+2017,Sants-Montjuïc,Hostafrancs,Others,40.0
+2017,Sants-Montjuïc,Hostafrancs,Unknown,48.0
+2017,Sants-Montjuïc,Sants,Diesel,6084.0
+2017,Sants-Montjuïc,Sants,Electric,12.0
+2017,Sants-Montjuïc,Sants,Gasoline,11736.0
+2017,Sants-Montjuïc,Sants,Others,63.0
+2017,Sants-Montjuïc,Sants,Unknown,117.0
+2017,Sants-Montjuïc,Sants - Badal,Diesel,3848.0
+2017,Sants-Montjuïc,Sants - Badal,Electric,12.0
+2017,Sants-Montjuïc,Sants - Badal,Gasoline,6724.0
+2017,Sants-Montjuïc,Sants - Badal,Others,48.0
+2017,Sants-Montjuïc,Sants - Badal,Unknown,53.0
+2017,Sants-Montjuïc,el Poble Sec,Diesel,5275.0
+2017,Sants-Montjuïc,el Poble Sec,Electric,26.0
+2017,Sants-Montjuïc,el Poble Sec,Gasoline,9392.0
+2017,Sants-Montjuïc,el Poble Sec,Others,93.0
+2017,Sants-Montjuïc,el Poble Sec,Unknown,87.0
+2017,Sants-Montjuïc,la Bordeta,Diesel,3174.0
+2017,Sants-Montjuïc,la Bordeta,Electric,13.0
+2017,Sants-Montjuïc,la Bordeta,Gasoline,5278.0
+2017,Sants-Montjuïc,la Bordeta,Others,50.0
+2017,Sants-Montjuïc,la Bordeta,Unknown,40.0
+2017,Sants-Montjuïc,la Font de la Guatlla,Diesel,1742.0
+2017,Sants-Montjuïc,la Font de la Guatlla,Electric,3.0
+2017,Sants-Montjuïc,la Font de la Guatlla,Gasoline,3122.0
+2017,Sants-Montjuïc,la Font de la Guatlla,Others,28.0
+2017,Sants-Montjuïc,la Font de la Guatlla,Unknown,53.0
+2017,Sants-Montjuïc,la Marina de Port,Diesel,6187.0
+2017,Sants-Montjuïc,la Marina de Port,Electric,7.0
+2017,Sants-Montjuïc,la Marina de Port,Gasoline,8294.0
+2017,Sants-Montjuïc,la Marina de Port,Others,127.0
+2017,Sants-Montjuïc,la Marina de Port,Unknown,97.0
+2017,Sants-Montjuïc,la Marina del Prat Vermell,Diesel,5744.0
+2017,Sants-Montjuïc,la Marina del Prat Vermell,Electric,561.0
+2017,Sants-Montjuïc,la Marina del Prat Vermell,Gasoline,1163.0
+2017,Sants-Montjuïc,la Marina del Prat Vermell,Others,1112.0
+2017,Sants-Montjuïc,la Marina del Prat Vermell,Unknown,531.0
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Diesel,10368.0
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Electric,124.0
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Gasoline,27237.0
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Others,160.0
+2017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Unknown,252.0
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Diesel,4801.0
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Electric,55.0
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Gasoline,13490.0
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Others,50.0
+2017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Unknown,90.0
+2017,Sarrià-Sant Gervasi,Sarrià,Diesel,4741.0
+2017,Sarrià-Sant Gervasi,Sarrià,Electric,49.0
+2017,Sarrià-Sant Gervasi,Sarrià,Gasoline,12058.0
+2017,Sarrià-Sant Gervasi,Sarrià,Others,61.0
+2017,Sarrià-Sant Gervasi,Sarrià,Unknown,83.0
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Diesel,1024.0
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Electric,8.0
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Gasoline,2086.0
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Others,9.0
+2017,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Unknown,23.0
+2017,Sarrià-Sant Gervasi,el Putget i Farró,Diesel,4629.0
+2017,Sarrià-Sant Gervasi,el Putget i Farró,Electric,34.0
+2017,Sarrià-Sant Gervasi,el Putget i Farró,Gasoline,13189.0
+2017,Sarrià-Sant Gervasi,el Putget i Farró,Others,40.0
+2017,Sarrià-Sant Gervasi,el Putget i Farró,Unknown,81.0
+2017,Sarrià-Sant Gervasi,les Tres Torres,Diesel,3339.0
+2017,Sarrià-Sant Gervasi,les Tres Torres,Electric,49.0
+2017,Sarrià-Sant Gervasi,les Tres Torres,Gasoline,9588.0
+2017,Sarrià-Sant Gervasi,les Tres Torres,Others,36.0
+2017,Sarrià-Sant Gervasi,les Tres Torres,Unknown,61.0
+2018,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Diesel,2399.0
+2018,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Electric,2484.0
+2018,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Gasoline,5303.0
+2018,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Others,36.0
+2018,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Unknown,93.0
+2018,Ciutat Vella,el Gòtic,Diesel,4994.0
+2018,Ciutat Vella,el Gòtic,Electric,210.0
+2018,Ciutat Vella,el Gòtic,Gasoline,6900.0
+2018,Ciutat Vella,el Gòtic,Others,131.0
+2018,Ciutat Vella,el Gòtic,Unknown,175.0
+2018,Ciutat Vella,el Raval,Diesel,3843.0
+2018,Ciutat Vella,el Raval,Electric,39.0
+2018,Ciutat Vella,el Raval,Gasoline,7309.0
+2018,Ciutat Vella,el Raval,Others,77.0
+2018,Ciutat Vella,el Raval,Unknown,159.0
+2018,Ciutat Vella,la Barceloneta,Diesel,2087.0
+2018,Ciutat Vella,la Barceloneta,Electric,21.0
+2018,Ciutat Vella,la Barceloneta,Gasoline,3940.0
+2018,Ciutat Vella,la Barceloneta,Others,29.0
+2018,Ciutat Vella,la Barceloneta,Unknown,266.0
+2018,Eixample,Sant Antoni,Diesel,5314.0
+2018,Eixample,Sant Antoni,Electric,66.0
+2018,Eixample,Sant Antoni,Gasoline,10987.0
+2018,Eixample,Sant Antoni,Others,152.0
+2018,Eixample,Sant Antoni,Unknown,137.0
+2018,Eixample,el Fort Pienc,Diesel,5314.0
+2018,Eixample,el Fort Pienc,Electric,29.0
+2018,Eixample,el Fort Pienc,Gasoline,9766.0
+2018,Eixample,el Fort Pienc,Others,87.0
+2018,Eixample,el Fort Pienc,Unknown,169.0
+2018,Eixample,l'Antiga Esquerra de l'Eixample,Diesel,6867.0
+2018,Eixample,l'Antiga Esquerra de l'Eixample,Electric,85.0
+2018,Eixample,l'Antiga Esquerra de l'Eixample,Gasoline,15653.0
+2018,Eixample,l'Antiga Esquerra de l'Eixample,Others,78.0
+2018,Eixample,l'Antiga Esquerra de l'Eixample,Unknown,242.0
+2018,Eixample,la Dreta de l'Eixample,Diesel,11244.0
+2018,Eixample,la Dreta de l'Eixample,Electric,187.0
+2018,Eixample,la Dreta de l'Eixample,Gasoline,18847.0
+2018,Eixample,la Dreta de l'Eixample,Others,365.0
+2018,Eixample,la Dreta de l'Eixample,Unknown,426.0
+2018,Eixample,la Nova Esquerra de l'Eixample,Diesel,9848.0
+2018,Eixample,la Nova Esquerra de l'Eixample,Electric,50.0
+2018,Eixample,la Nova Esquerra de l'Eixample,Gasoline,20063.0
+2018,Eixample,la Nova Esquerra de l'Eixample,Others,147.0
+2018,Eixample,la Nova Esquerra de l'Eixample,Unknown,469.0
+2018,Eixample,la Sagrada Família,Diesel,7542.0
+2018,Eixample,la Sagrada Família,Electric,111.0
+2018,Eixample,la Sagrada Família,Gasoline,15442.0
+2018,Eixample,la Sagrada Família,Others,196.0
+2018,Eixample,la Sagrada Família,Unknown,197.0
+2018,Gràcia,Vallcarca i els Penitents,Diesel,2650.0
+2018,Gràcia,Vallcarca i els Penitents,Electric,24.0
+2018,Gràcia,Vallcarca i els Penitents,Gasoline,6455.0
+2018,Gràcia,Vallcarca i els Penitents,Others,35.0
+2018,Gràcia,Vallcarca i els Penitents,Unknown,66.0
+2018,Gràcia,Vila de Gràcia,Diesel,6655.0
+2018,Gràcia,Vila de Gràcia,Electric,75.0
+2018,Gràcia,Vila de Gràcia,Gasoline,15806.0
+2018,Gràcia,Vila de Gràcia,Others,118.0
+2018,Gràcia,Vila de Gràcia,Unknown,158.0
+2018,Gràcia,el Camp d'en Grassot i Gràcia Nova,Diesel,5101.0
+2018,Gràcia,el Camp d'en Grassot i Gràcia Nova,Electric,16.0
+2018,Gràcia,el Camp d'en Grassot i Gràcia Nova,Gasoline,12032.0
+2018,Gràcia,el Camp d'en Grassot i Gràcia Nova,Others,72.0
+2018,Gràcia,el Camp d'en Grassot i Gràcia Nova,Unknown,107.0
+2018,Gràcia,el Coll,Diesel,1175.0
+2018,Gràcia,el Coll,Electric,5.0
+2018,Gràcia,el Coll,Gasoline,2614.0
+2018,Gràcia,el Coll,Others,13.0
+2018,Gràcia,el Coll,Unknown,23.0
+2018,Gràcia,la Salut,Diesel,2137.0
+2018,Gràcia,la Salut,Electric,7.0
+2018,Gràcia,la Salut,Gasoline,5160.0
+2018,Gràcia,la Salut,Others,29.0
+2018,Gràcia,la Salut,Unknown,49.0
+2018,Horta-Guinardó,Can Baró,Diesel,1612.0
+2018,Horta-Guinardó,Can Baró,Electric,8.0
+2018,Horta-Guinardó,Can Baró,Gasoline,3403.0
+2018,Horta-Guinardó,Can Baró,Others,26.0
+2018,Horta-Guinardó,Can Baró,Unknown,42.0
+2018,Horta-Guinardó,Horta,Diesel,4555.0
+2018,Horta-Guinardó,Horta,Electric,6.0
+2018,Horta-Guinardó,Horta,Gasoline,8504.0
+2018,Horta-Guinardó,Horta,Others,83.0
+2018,Horta-Guinardó,Horta,Unknown,79.0
+2018,Horta-Guinardó,Montbau,Diesel,829.0
+2018,Horta-Guinardó,Montbau,Electric,1.0
+2018,Horta-Guinardó,Montbau,Gasoline,1492.0
+2018,Horta-Guinardó,Montbau,Others,12.0
+2018,Horta-Guinardó,Montbau,Unknown,14.0
+2018,Horta-Guinardó,Sant Genís dels Agudells,Diesel,1279.0
+2018,Horta-Guinardó,Sant Genís dels Agudells,Electric,6.0
+2018,Horta-Guinardó,Sant Genís dels Agudells,Gasoline,2295.0
+2018,Horta-Guinardó,Sant Genís dels Agudells,Others,24.0
+2018,Horta-Guinardó,Sant Genís dels Agudells,Unknown,24.0
+2018,Horta-Guinardó,el Baix Guinardó,Diesel,3946.0
+2018,Horta-Guinardó,el Baix Guinardó,Electric,17.0
+2018,Horta-Guinardó,el Baix Guinardó,Gasoline,8130.0
+2018,Horta-Guinardó,el Baix Guinardó,Others,71.0
+2018,Horta-Guinardó,el Baix Guinardó,Unknown,87.0
+2018,Horta-Guinardó,el Carmel,Diesel,5238.0
+2018,Horta-Guinardó,el Carmel,Electric,5.0
+2018,Horta-Guinardó,el Carmel,Gasoline,9828.0
+2018,Horta-Guinardó,el Carmel,Others,83.0
+2018,Horta-Guinardó,el Carmel,Unknown,107.0
+2018,Horta-Guinardó,el Guinardó,Diesel,6116.0
+2018,Horta-Guinardó,el Guinardó,Electric,28.0
+2018,Horta-Guinardó,el Guinardó,Gasoline,11529.0
+2018,Horta-Guinardó,el Guinardó,Others,117.0
+2018,Horta-Guinardó,el Guinardó,Unknown,122.0
+2018,Horta-Guinardó,la Clota,Diesel,157.0
+2018,Horta-Guinardó,la Clota,Electric,1.0
+2018,Horta-Guinardó,la Clota,Gasoline,194.0
+2018,Horta-Guinardó,la Clota,Others,1.0
+2018,Horta-Guinardó,la Clota,Unknown,3.0
+2018,Horta-Guinardó,la Font d'en Fargues,Diesel,1896.0
+2018,Horta-Guinardó,la Font d'en Fargues,Electric,8.0
+2018,Horta-Guinardó,la Font d'en Fargues,Gasoline,4151.0
+2018,Horta-Guinardó,la Font d'en Fargues,Others,44.0
+2018,Horta-Guinardó,la Font d'en Fargues,Unknown,27.0
+2018,Horta-Guinardó,la Teixonera,Diesel,1997.0
+2018,Horta-Guinardó,la Teixonera,Electric,9.0
+2018,Horta-Guinardó,la Teixonera,Gasoline,3851.0
+2018,Horta-Guinardó,la Teixonera,Others,36.0
+2018,Horta-Guinardó,la Teixonera,Unknown,32.0
+2018,Horta-Guinardó,la Vall d'Hebron,Diesel,1174.0
+2018,Horta-Guinardó,la Vall d'Hebron,Electric,2.0
+2018,Horta-Guinardó,la Vall d'Hebron,Gasoline,1756.0
+2018,Horta-Guinardó,la Vall d'Hebron,Others,17.0
+2018,Horta-Guinardó,la Vall d'Hebron,Unknown,23.0
+2018,Les Corts,Pedralbes,Diesel,2568.0
+2018,Les Corts,Pedralbes,Electric,82.0
+2018,Les Corts,Pedralbes,Gasoline,7229.0
+2018,Les Corts,Pedralbes,Others,43.0
+2018,Les Corts,Pedralbes,Unknown,68.0
+2018,Les Corts,la Maternitat i Sant Ramon,Diesel,4583.0
+2018,Les Corts,la Maternitat i Sant Ramon,Electric,28.0
+2018,Les Corts,la Maternitat i Sant Ramon,Gasoline,9138.0
+2018,Les Corts,la Maternitat i Sant Ramon,Others,81.0
+2018,Les Corts,la Maternitat i Sant Ramon,Unknown,133.0
+2018,Les Corts,les Corts,Diesel,9140.0
+2018,Les Corts,les Corts,Electric,562.0
+2018,Les Corts,les Corts,Gasoline,18671.0
+2018,Les Corts,les Corts,Others,138.0
+2018,Les Corts,les Corts,Unknown,194.0
+2018,Nou Barris,Can Peguera,Diesel,361.0
+2018,Nou Barris,Can Peguera,Electric,0.0
+2018,Nou Barris,Can Peguera,Gasoline,631.0
+2018,Nou Barris,Can Peguera,Others,6.0
+2018,Nou Barris,Can Peguera,Unknown,5.0
+2018,Nou Barris,Canyelles,Diesel,1666.0
+2018,Nou Barris,Canyelles,Electric,0.0
+2018,Nou Barris,Canyelles,Gasoline,2086.0
+2018,Nou Barris,Canyelles,Others,33.0
+2018,Nou Barris,Canyelles,Unknown,17.0
+2018,Nou Barris,Ciutat Meridiana,Diesel,1797.0
+2018,Nou Barris,Ciutat Meridiana,Electric,0.0
+2018,Nou Barris,Ciutat Meridiana,Gasoline,1935.0
+2018,Nou Barris,Ciutat Meridiana,Others,35.0
+2018,Nou Barris,Ciutat Meridiana,Unknown,50.0
+2018,Nou Barris,Porta,Diesel,3889.0
+2018,Nou Barris,Porta,Electric,3.0
+2018,Nou Barris,Porta,Gasoline,6042.0
+2018,Nou Barris,Porta,Others,70.0
+2018,Nou Barris,Porta,Unknown,78.0
+2018,Nou Barris,Torre Baró,Diesel,640.0
+2018,Nou Barris,Torre Baró,Electric,4.0
+2018,Nou Barris,Torre Baró,Gasoline,762.0
+2018,Nou Barris,Torre Baró,Others,11.0
+2018,Nou Barris,Torre Baró,Unknown,21.0
+2018,Nou Barris,Vallbona,Diesel,315.0
+2018,Nou Barris,Vallbona,Electric,4.0
+2018,Nou Barris,Vallbona,Gasoline,371.0
+2018,Nou Barris,Vallbona,Others,13.0
+2018,Nou Barris,Vallbona,Unknown,21.0
+2018,Nou Barris,Verdun,Diesel,2038.0
+2018,Nou Barris,Verdun,Electric,2.0
+2018,Nou Barris,Verdun,Gasoline,2779.0
+2018,Nou Barris,Verdun,Others,42.0
+2018,Nou Barris,Verdun,Unknown,30.0
+2018,Nou Barris,Vilapicina i la Torre Llobeta,Diesel,4226.0
+2018,Nou Barris,Vilapicina i la Torre Llobeta,Electric,8.0
+2018,Nou Barris,Vilapicina i la Torre Llobeta,Gasoline,6923.0
+2018,Nou Barris,Vilapicina i la Torre Llobeta,Others,82.0
+2018,Nou Barris,Vilapicina i la Torre Llobeta,Unknown,96.0
+2018,Nou Barris,el Turó de la Peira,Diesel,2010.0
+2018,Nou Barris,el Turó de la Peira,Electric,2.0
+2018,Nou Barris,el Turó de la Peira,Gasoline,3356.0
+2018,Nou Barris,el Turó de la Peira,Others,23.0
+2018,Nou Barris,el Turó de la Peira,Unknown,50.0
+2018,Nou Barris,la Guineueta,Diesel,2768.0
+2018,Nou Barris,la Guineueta,Electric,3.0
+2018,Nou Barris,la Guineueta,Gasoline,4114.0
+2018,Nou Barris,la Guineueta,Others,45.0
+2018,Nou Barris,la Guineueta,Unknown,57.0
+2018,Nou Barris,la Prosperitat,Diesel,4704.0
+2018,Nou Barris,la Prosperitat,Electric,10.0
+2018,Nou Barris,la Prosperitat,Gasoline,6595.0
+2018,Nou Barris,la Prosperitat,Others,88.0
+2018,Nou Barris,la Prosperitat,Unknown,111.0
+2018,Nou Barris,la Trinitat Nova,Diesel,1185.0
+2018,Nou Barris,la Trinitat Nova,Electric,0.0
+2018,Nou Barris,la Trinitat Nova,Gasoline,1585.0
+2018,Nou Barris,la Trinitat Nova,Others,22.0
+2018,Nou Barris,la Trinitat Nova,Unknown,26.0
+2018,Nou Barris,les Roquetes,Diesel,2987.0
+2018,Nou Barris,les Roquetes,Electric,4.0
+2018,Nou Barris,les Roquetes,Gasoline,3721.0
+2018,Nou Barris,les Roquetes,Others,59.0
+2018,Nou Barris,les Roquetes,Unknown,64.0
+2018,Sant Andreu,Baró de Viver,Diesel,483.0
+2018,Sant Andreu,Baró de Viver,Electric,0.0
+2018,Sant Andreu,Baró de Viver,Gasoline,575.0
+2018,Sant Andreu,Baró de Viver,Others,8.0
+2018,Sant Andreu,Baró de Viver,Unknown,9.0
+2018,Sant Andreu,Navas,Diesel,3614.0
+2018,Sant Andreu,Navas,Electric,6.0
+2018,Sant Andreu,Navas,Gasoline,6423.0
+2018,Sant Andreu,Navas,Others,66.0
+2018,Sant Andreu,Navas,Unknown,77.0
+2018,Sant Andreu,Sant Andreu,Diesel,10323.0
+2018,Sant Andreu,Sant Andreu,Electric,39.0
+2018,Sant Andreu,Sant Andreu,Gasoline,16463.0
+2018,Sant Andreu,Sant Andreu,Others,187.0
+2018,Sant Andreu,Sant Andreu,Unknown,163.0
+2018,Sant Andreu,el Bon Pastor,Diesel,3795.0
+2018,Sant Andreu,el Bon Pastor,Electric,98.0
+2018,Sant Andreu,el Bon Pastor,Gasoline,3431.0
+2018,Sant Andreu,el Bon Pastor,Others,173.0
+2018,Sant Andreu,el Bon Pastor,Unknown,80.0
+2018,Sant Andreu,el Congrés i els Indians,Diesel,2060.0
+2018,Sant Andreu,el Congrés i els Indians,Electric,7.0
+2018,Sant Andreu,el Congrés i els Indians,Gasoline,3748.0
+2018,Sant Andreu,el Congrés i els Indians,Others,47.0
+2018,Sant Andreu,el Congrés i els Indians,Unknown,32.0
+2018,Sant Andreu,la Sagrera,Diesel,4900.0
+2018,Sant Andreu,la Sagrera,Electric,15.0
+2018,Sant Andreu,la Sagrera,Gasoline,8019.0
+2018,Sant Andreu,la Sagrera,Others,93.0
+2018,Sant Andreu,la Sagrera,Unknown,98.0
+2018,Sant Andreu,la Trinitat Vella,Diesel,1870.0
+2018,Sant Andreu,la Trinitat Vella,Electric,2.0
+2018,Sant Andreu,la Trinitat Vella,Gasoline,2161.0
+2018,Sant Andreu,la Trinitat Vella,Others,20.0
+2018,Sant Andreu,la Trinitat Vella,Unknown,32.0
+2018,Sant Martí,Camp de l'Arpa del Clot,Diesel,5894.0
+2018,Sant Martí,Camp de l'Arpa del Clot,Electric,10.0
+2018,Sant Martí,Camp de l'Arpa del Clot,Gasoline,11128.0
+2018,Sant Martí,Camp de l'Arpa del Clot,Others,106.0
+2018,Sant Martí,Camp de l'Arpa del Clot,Unknown,146.0
+2018,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Diesel,2395.0
+2018,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Electric,19.0
+2018,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Gasoline,3651.0
+2018,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Others,50.0
+2018,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Unknown,47.0
+2018,Sant Martí,Provençals del Poblenou,Diesel,4647.0
+2018,Sant Martí,Provençals del Poblenou,Electric,18.0
+2018,Sant Martí,Provençals del Poblenou,Gasoline,6038.0
+2018,Sant Martí,Provençals del Poblenou,Others,108.0
+2018,Sant Martí,Provençals del Poblenou,Unknown,102.0
+2018,Sant Martí,Sant Martí de Provençals,Diesel,4367.0
+2018,Sant Martí,Sant Martí de Provençals,Electric,5.0
+2018,Sant Martí,Sant Martí de Provençals,Gasoline,7209.0
+2018,Sant Martí,Sant Martí de Provençals,Others,113.0
+2018,Sant Martí,Sant Martí de Provençals,Unknown,184.0
+2018,Sant Martí,el Besòs i el Maresme,Diesel,3824.0
+2018,Sant Martí,el Besòs i el Maresme,Electric,9.0
+2018,Sant Martí,el Besòs i el Maresme,Gasoline,4698.0
+2018,Sant Martí,el Besòs i el Maresme,Others,64.0
+2018,Sant Martí,el Besòs i el Maresme,Unknown,83.0
+2018,Sant Martí,el Clot,Diesel,4581.0
+2018,Sant Martí,el Clot,Electric,9.0
+2018,Sant Martí,el Clot,Gasoline,7761.0
+2018,Sant Martí,el Clot,Others,85.0
+2018,Sant Martí,el Clot,Unknown,78.0
+2018,Sant Martí,el Parc i la Llacuna del Poblenou,Diesel,3343.0
+2018,Sant Martí,el Parc i la Llacuna del Poblenou,Electric,51.0
+2018,Sant Martí,el Parc i la Llacuna del Poblenou,Gasoline,4674.0
+2018,Sant Martí,el Parc i la Llacuna del Poblenou,Others,68.0
+2018,Sant Martí,el Parc i la Llacuna del Poblenou,Unknown,113.0
+2018,Sant Martí,el Poblenou,Diesel,6262.0
+2018,Sant Martí,el Poblenou,Electric,52.0
+2018,Sant Martí,el Poblenou,Gasoline,9619.0
+2018,Sant Martí,el Poblenou,Others,121.0
+2018,Sant Martí,el Poblenou,Unknown,125.0
+2018,Sant Martí,la Verneda i la Pau,Diesel,5449.0
+2018,Sant Martí,la Verneda i la Pau,Electric,15.0
+2018,Sant Martí,la Verneda i la Pau,Gasoline,7642.0
+2018,Sant Martí,la Verneda i la Pau,Others,88.0
+2018,Sant Martí,la Verneda i la Pau,Unknown,96.0
+2018,Sant Martí,la Vila Olímpica del Poblenou,Diesel,2179.0
+2018,Sant Martí,la Vila Olímpica del Poblenou,Electric,27.0
+2018,Sant Martí,la Vila Olímpica del Poblenou,Gasoline,3490.0
+2018,Sant Martí,la Vila Olímpica del Poblenou,Others,24.0
+2018,Sant Martí,la Vila Olímpica del Poblenou,Unknown,50.0
+2018,Sants-Montjuïc,Hostafrancs,Diesel,2537.0
+2018,Sants-Montjuïc,Hostafrancs,Electric,9.0
+2018,Sants-Montjuïc,Hostafrancs,Gasoline,4261.0
+2018,Sants-Montjuïc,Hostafrancs,Others,41.0
+2018,Sants-Montjuïc,Hostafrancs,Unknown,53.0
+2018,Sants-Montjuïc,Sants,Diesel,5897.0
+2018,Sants-Montjuïc,Sants,Electric,23.0
+2018,Sants-Montjuïc,Sants,Gasoline,11971.0
+2018,Sants-Montjuïc,Sants,Others,80.0
+2018,Sants-Montjuïc,Sants,Unknown,149.0
+2018,Sants-Montjuïc,Sants - Badal,Diesel,3675.0
+2018,Sants-Montjuïc,Sants - Badal,Electric,14.0
+2018,Sants-Montjuïc,Sants - Badal,Gasoline,6844.0
+2018,Sants-Montjuïc,Sants - Badal,Others,59.0
+2018,Sants-Montjuïc,Sants - Badal,Unknown,71.0
+2018,Sants-Montjuïc,el Poble Sec,Diesel,5110.0
+2018,Sants-Montjuïc,el Poble Sec,Electric,31.0
+2018,Sants-Montjuïc,el Poble Sec,Gasoline,9581.0
+2018,Sants-Montjuïc,el Poble Sec,Others,108.0
+2018,Sants-Montjuïc,el Poble Sec,Unknown,115.0
+2018,Sants-Montjuïc,la Bordeta,Diesel,3055.0
+2018,Sants-Montjuïc,la Bordeta,Electric,18.0
+2018,Sants-Montjuïc,la Bordeta,Gasoline,5482.0
+2018,Sants-Montjuïc,la Bordeta,Others,66.0
+2018,Sants-Montjuïc,la Bordeta,Unknown,63.0
+2018,Sants-Montjuïc,la Font de la Guatlla,Diesel,1681.0
+2018,Sants-Montjuïc,la Font de la Guatlla,Electric,5.0
+2018,Sants-Montjuïc,la Font de la Guatlla,Gasoline,3191.0
+2018,Sants-Montjuïc,la Font de la Guatlla,Others,32.0
+2018,Sants-Montjuïc,la Font de la Guatlla,Unknown,52.0
+2018,Sants-Montjuïc,la Marina de Port,Diesel,5926.0
+2018,Sants-Montjuïc,la Marina de Port,Electric,11.0
+2018,Sants-Montjuïc,la Marina de Port,Gasoline,8622.0
+2018,Sants-Montjuïc,la Marina de Port,Others,137.0
+2018,Sants-Montjuïc,la Marina de Port,Unknown,116.0
+2018,Sants-Montjuïc,la Marina del Prat Vermell,Diesel,6210.0
+2018,Sants-Montjuïc,la Marina del Prat Vermell,Electric,668.0
+2018,Sants-Montjuïc,la Marina del Prat Vermell,Gasoline,1354.0
+2018,Sants-Montjuïc,la Marina del Prat Vermell,Others,1206.0
+2018,Sants-Montjuïc,la Marina del Prat Vermell,Unknown,624.0
+2018,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Diesel,10066.0
+2018,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Electric,331.0
+2018,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Gasoline,27452.0
+2018,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Others,150.0
+2018,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Unknown,299.0
+2018,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Diesel,4603.0
+2018,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Electric,428.0
+2018,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Gasoline,13625.0
+2018,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Others,52.0
+2018,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Unknown,108.0
+2018,Sarrià-Sant Gervasi,Sarrià,Diesel,4568.0
+2018,Sarrià-Sant Gervasi,Sarrià,Electric,82.0
+2018,Sarrià-Sant Gervasi,Sarrià,Gasoline,12201.0
+2018,Sarrià-Sant Gervasi,Sarrià,Others,79.0
+2018,Sarrià-Sant Gervasi,Sarrià,Unknown,100.0
+2018,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Diesel,1022.0
+2018,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Electric,11.0
+2018,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Gasoline,2128.0
+2018,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Others,15.0
+2018,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Unknown,38.0
+2018,Sarrià-Sant Gervasi,el Putget i Farró,Diesel,4402.0
+2018,Sarrià-Sant Gervasi,el Putget i Farró,Electric,48.0
+2018,Sarrià-Sant Gervasi,el Putget i Farró,Gasoline,13341.0
+2018,Sarrià-Sant Gervasi,el Putget i Farró,Others,47.0
+2018,Sarrià-Sant Gervasi,el Putget i Farró,Unknown,95.0
+2018,Sarrià-Sant Gervasi,les Tres Torres,Diesel,3212.0
+2018,Sarrià-Sant Gervasi,les Tres Torres,Electric,66.0
+2018,Sarrià-Sant Gervasi,les Tres Torres,Gasoline,9595.0
+2018,Sarrià-Sant Gervasi,les Tres Torres,Others,31.0
+2018,Sarrià-Sant Gervasi,les Tres Torres,Unknown,65.0
+2019,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Diesel,2335.0
+2019,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Electric,3784.0
+2019,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Gasoline,5246.0
+2019,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Hybrid,772.0
+2019,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Others,77.0
+2019,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Unknown,40.0
+2019,Ciutat Vella,el Gòtic,Diesel,4756.0
+2019,Ciutat Vella,el Gòtic,Electric,170.0
+2019,Ciutat Vella,el Gòtic,Gasoline,6742.0
+2019,Ciutat Vella,el Gòtic,Hybrid,142.0
+2019,Ciutat Vella,el Gòtic,Others,223.0
+2019,Ciutat Vella,el Gòtic,Unknown,83.0
+2019,Ciutat Vella,el Raval,Diesel,3777.0
+2019,Ciutat Vella,el Raval,Electric,60.0
+2019,Ciutat Vella,el Raval,Gasoline,7265.0
+2019,Ciutat Vella,el Raval,Hybrid,117.0
+2019,Ciutat Vella,el Raval,Others,214.0
+2019,Ciutat Vella,el Raval,Unknown,56.0
+2019,Ciutat Vella,la Barceloneta,Diesel,1977.0
+2019,Ciutat Vella,la Barceloneta,Electric,164.0
+2019,Ciutat Vella,la Barceloneta,Gasoline,3889.0
+2019,Ciutat Vella,la Barceloneta,Hybrid,57.0
+2019,Ciutat Vella,la Barceloneta,Others,70.0
+2019,Ciutat Vella,la Barceloneta,Unknown,11.0
+2019,Eixample,Sant Antoni,Diesel,4985.0
+2019,Eixample,Sant Antoni,Electric,63.0
+2019,Eixample,Sant Antoni,Gasoline,10819.0
+2019,Eixample,Sant Antoni,Hybrid,249.0
+2019,Eixample,Sant Antoni,Others,211.0
+2019,Eixample,Sant Antoni,Unknown,52.0
+2019,Eixample,el Fort Pienc,Diesel,5003.0
+2019,Eixample,el Fort Pienc,Electric,16.0
+2019,Eixample,el Fort Pienc,Gasoline,9637.0
+2019,Eixample,el Fort Pienc,Hybrid,268.0
+2019,Eixample,el Fort Pienc,Others,175.0
+2019,Eixample,el Fort Pienc,Unknown,50.0
+2019,Eixample,l'Antiga Esquerra de l'Eixample,Diesel,6583.0
+2019,Eixample,l'Antiga Esquerra de l'Eixample,Electric,108.0
+2019,Eixample,l'Antiga Esquerra de l'Eixample,Gasoline,15431.0
+2019,Eixample,l'Antiga Esquerra de l'Eixample,Hybrid,426.0
+2019,Eixample,l'Antiga Esquerra de l'Eixample,Others,205.0
+2019,Eixample,l'Antiga Esquerra de l'Eixample,Unknown,85.0
+2019,Eixample,la Dreta de l'Eixample,Diesel,10542.0
+2019,Eixample,la Dreta de l'Eixample,Electric,151.0
+2019,Eixample,la Dreta de l'Eixample,Gasoline,18330.0
+2019,Eixample,la Dreta de l'Eixample,Hybrid,616.0
+2019,Eixample,la Dreta de l'Eixample,Others,607.0
+2019,Eixample,la Dreta de l'Eixample,Unknown,154.0
+2019,Eixample,la Nova Esquerra de l'Eixample,Diesel,9114.0
+2019,Eixample,la Nova Esquerra de l'Eixample,Electric,50.0
+2019,Eixample,la Nova Esquerra de l'Eixample,Gasoline,19623.0
+2019,Eixample,la Nova Esquerra de l'Eixample,Hybrid,712.0
+2019,Eixample,la Nova Esquerra de l'Eixample,Others,246.0
+2019,Eixample,la Nova Esquerra de l'Eixample,Unknown,325.0
+2019,Eixample,la Sagrada Família,Diesel,7042.0
+2019,Eixample,la Sagrada Família,Electric,107.0
+2019,Eixample,la Sagrada Família,Gasoline,15274.0
+2019,Eixample,la Sagrada Família,Hybrid,453.0
+2019,Eixample,la Sagrada Família,Others,343.0
+2019,Eixample,la Sagrada Família,Unknown,41.0
+2019,Gràcia,Vallcarca i els Penitents,Diesel,2530.0
+2019,Gràcia,Vallcarca i els Penitents,Electric,36.0
+2019,Gràcia,Vallcarca i els Penitents,Gasoline,6445.0
+2019,Gràcia,Vallcarca i els Penitents,Hybrid,160.0
+2019,Gràcia,Vallcarca i els Penitents,Others,61.0
+2019,Gràcia,Vallcarca i els Penitents,Unknown,30.0
+2019,Gràcia,Vila de Gràcia,Diesel,6398.0
+2019,Gràcia,Vila de Gràcia,Electric,81.0
+2019,Gràcia,Vila de Gràcia,Gasoline,15550.0
+2019,Gràcia,Vila de Gràcia,Hybrid,354.0
+2019,Gràcia,Vila de Gràcia,Others,213.0
+2019,Gràcia,Vila de Gràcia,Unknown,57.0
+2019,Gràcia,el Camp d'en Grassot i Gràcia Nova,Diesel,4838.0
+2019,Gràcia,el Camp d'en Grassot i Gràcia Nova,Electric,24.0
+2019,Gràcia,el Camp d'en Grassot i Gràcia Nova,Gasoline,11868.0
+2019,Gràcia,el Camp d'en Grassot i Gràcia Nova,Hybrid,299.0
+2019,Gràcia,el Camp d'en Grassot i Gràcia Nova,Others,122.0
+2019,Gràcia,el Camp d'en Grassot i Gràcia Nova,Unknown,31.0
+2019,Gràcia,el Coll,Diesel,1125.0
+2019,Gràcia,el Coll,Electric,6.0
+2019,Gràcia,el Coll,Gasoline,2614.0
+2019,Gràcia,el Coll,Hybrid,50.0
+2019,Gràcia,el Coll,Others,23.0
+2019,Gràcia,el Coll,Unknown,10.0
+2019,Gràcia,la Salut,Diesel,1989.0
+2019,Gràcia,la Salut,Electric,13.0
+2019,Gràcia,la Salut,Gasoline,5087.0
+2019,Gràcia,la Salut,Hybrid,139.0
+2019,Gràcia,la Salut,Others,53.0
+2019,Gràcia,la Salut,Unknown,13.0
+2019,Horta-Guinardó,Can Baró,Diesel,1550.0
+2019,Horta-Guinardó,Can Baró,Electric,8.0
+2019,Horta-Guinardó,Can Baró,Gasoline,3396.0
+2019,Horta-Guinardó,Can Baró,Hybrid,58.0
+2019,Horta-Guinardó,Can Baró,Others,44.0
+2019,Horta-Guinardó,Can Baró,Unknown,14.0
+2019,Horta-Guinardó,Horta,Diesel,4300.0
+2019,Horta-Guinardó,Horta,Electric,12.0
+2019,Horta-Guinardó,Horta,Gasoline,8473.0
+2019,Horta-Guinardó,Horta,Hybrid,203.0
+2019,Horta-Guinardó,Horta,Others,127.0
+2019,Horta-Guinardó,Horta,Unknown,28.0
+2019,Horta-Guinardó,Montbau,Diesel,801.0
+2019,Horta-Guinardó,Montbau,Electric,1.0
+2019,Horta-Guinardó,Montbau,Gasoline,1512.0
+2019,Horta-Guinardó,Montbau,Hybrid,38.0
+2019,Horta-Guinardó,Montbau,Others,19.0
+2019,Horta-Guinardó,Montbau,Unknown,3.0
+2019,Horta-Guinardó,Sant Genís dels Agudells,Diesel,1201.0
+2019,Horta-Guinardó,Sant Genís dels Agudells,Electric,7.0
+2019,Horta-Guinardó,Sant Genís dels Agudells,Gasoline,2258.0
+2019,Horta-Guinardó,Sant Genís dels Agudells,Hybrid,55.0
+2019,Horta-Guinardó,Sant Genís dels Agudells,Others,41.0
+2019,Horta-Guinardó,Sant Genís dels Agudells,Unknown,7.0
+2019,Horta-Guinardó,el Baix Guinardó,Diesel,3714.0
+2019,Horta-Guinardó,el Baix Guinardó,Electric,17.0
+2019,Horta-Guinardó,el Baix Guinardó,Gasoline,7960.0
+2019,Horta-Guinardó,el Baix Guinardó,Hybrid,197.0
+2019,Horta-Guinardó,el Baix Guinardó,Others,106.0
+2019,Horta-Guinardó,el Baix Guinardó,Unknown,39.0
+2019,Horta-Guinardó,el Carmel,Diesel,4980.0
+2019,Horta-Guinardó,el Carmel,Electric,7.0
+2019,Horta-Guinardó,el Carmel,Gasoline,9810.0
+2019,Horta-Guinardó,el Carmel,Hybrid,168.0
+2019,Horta-Guinardó,el Carmel,Others,153.0
+2019,Horta-Guinardó,el Carmel,Unknown,31.0
+2019,Horta-Guinardó,el Guinardó,Diesel,5770.0
+2019,Horta-Guinardó,el Guinardó,Electric,39.0
+2019,Horta-Guinardó,el Guinardó,Gasoline,11473.0
+2019,Horta-Guinardó,el Guinardó,Hybrid,314.0
+2019,Horta-Guinardó,el Guinardó,Others,224.0
+2019,Horta-Guinardó,el Guinardó,Unknown,22.0
+2019,Horta-Guinardó,la Clota,Diesel,156.0
+2019,Horta-Guinardó,la Clota,Electric,0.0
+2019,Horta-Guinardó,la Clota,Gasoline,205.0
+2019,Horta-Guinardó,la Clota,Hybrid,7.0
+2019,Horta-Guinardó,la Clota,Others,3.0
+2019,Horta-Guinardó,la Clota,Unknown,2.0
+2019,Horta-Guinardó,la Font d'en Fargues,Diesel,1782.0
+2019,Horta-Guinardó,la Font d'en Fargues,Electric,11.0
+2019,Horta-Guinardó,la Font d'en Fargues,Gasoline,4068.0
+2019,Horta-Guinardó,la Font d'en Fargues,Hybrid,108.0
+2019,Horta-Guinardó,la Font d'en Fargues,Others,59.0
+2019,Horta-Guinardó,la Font d'en Fargues,Unknown,10.0
+2019,Horta-Guinardó,la Teixonera,Diesel,1901.0
+2019,Horta-Guinardó,la Teixonera,Electric,7.0
+2019,Horta-Guinardó,la Teixonera,Gasoline,3912.0
+2019,Horta-Guinardó,la Teixonera,Hybrid,96.0
+2019,Horta-Guinardó,la Teixonera,Others,65.0
+2019,Horta-Guinardó,la Teixonera,Unknown,3.0
+2019,Horta-Guinardó,la Vall d'Hebron,Diesel,1082.0
+2019,Horta-Guinardó,la Vall d'Hebron,Electric,1.0
+2019,Horta-Guinardó,la Vall d'Hebron,Gasoline,1770.0
+2019,Horta-Guinardó,la Vall d'Hebron,Hybrid,63.0
+2019,Horta-Guinardó,la Vall d'Hebron,Others,34.0
+2019,Horta-Guinardó,la Vall d'Hebron,Unknown,11.0
+2019,Les Corts,Pedralbes,Diesel,2435.0
+2019,Les Corts,Pedralbes,Electric,106.0
+2019,Les Corts,Pedralbes,Gasoline,7042.0
+2019,Les Corts,Pedralbes,Hybrid,221.0
+2019,Les Corts,Pedralbes,Others,68.0
+2019,Les Corts,Pedralbes,Unknown,31.0
+2019,Les Corts,la Maternitat i Sant Ramon,Diesel,4339.0
+2019,Les Corts,la Maternitat i Sant Ramon,Electric,28.0
+2019,Les Corts,la Maternitat i Sant Ramon,Gasoline,8972.0
+2019,Les Corts,la Maternitat i Sant Ramon,Hybrid,277.0
+2019,Les Corts,la Maternitat i Sant Ramon,Others,159.0
+2019,Les Corts,la Maternitat i Sant Ramon,Unknown,48.0
+2019,Les Corts,les Corts,Diesel,8638.0
+2019,Les Corts,les Corts,Electric,573.0
+2019,Les Corts,les Corts,Gasoline,18135.0
+2019,Les Corts,les Corts,Hybrid,614.0
+2019,Les Corts,les Corts,Others,216.0
+2019,Les Corts,les Corts,Unknown,84.0
+2019,Nou Barris,Can Peguera,Diesel,343.0
+2019,Nou Barris,Can Peguera,Electric,0.0
+2019,Nou Barris,Can Peguera,Gasoline,629.0
+2019,Nou Barris,Can Peguera,Hybrid,8.0
+2019,Nou Barris,Can Peguera,Others,10.0
+2019,Nou Barris,Can Peguera,Unknown,1.0
+2019,Nou Barris,Canyelles,Diesel,1573.0
+2019,Nou Barris,Canyelles,Electric,0.0
+2019,Nou Barris,Canyelles,Gasoline,2080.0
+2019,Nou Barris,Canyelles,Hybrid,65.0
+2019,Nou Barris,Canyelles,Others,50.0
+2019,Nou Barris,Canyelles,Unknown,7.0
+2019,Nou Barris,Ciutat Meridiana,Diesel,1757.0
+2019,Nou Barris,Ciutat Meridiana,Electric,1.0
+2019,Nou Barris,Ciutat Meridiana,Gasoline,1953.0
+2019,Nou Barris,Ciutat Meridiana,Hybrid,27.0
+2019,Nou Barris,Ciutat Meridiana,Others,48.0
+2019,Nou Barris,Ciutat Meridiana,Unknown,13.0
+2019,Nou Barris,Porta,Diesel,3720.0
+2019,Nou Barris,Porta,Electric,4.0
+2019,Nou Barris,Porta,Gasoline,6056.0
+2019,Nou Barris,Porta,Hybrid,148.0
+2019,Nou Barris,Porta,Others,124.0
+2019,Nou Barris,Porta,Unknown,16.0
+2019,Nou Barris,Torre Baró,Diesel,641.0
+2019,Nou Barris,Torre Baró,Electric,3.0
+2019,Nou Barris,Torre Baró,Gasoline,770.0
+2019,Nou Barris,Torre Baró,Hybrid,11.0
+2019,Nou Barris,Torre Baró,Others,25.0
+2019,Nou Barris,Torre Baró,Unknown,6.0
+2019,Nou Barris,Vallbona,Diesel,325.0
+2019,Nou Barris,Vallbona,Electric,2.0
+2019,Nou Barris,Vallbona,Gasoline,375.0
+2019,Nou Barris,Vallbona,Hybrid,7.0
+2019,Nou Barris,Vallbona,Others,23.0
+2019,Nou Barris,Vallbona,Unknown,3.0
+2019,Nou Barris,Verdun,Diesel,1905.0
+2019,Nou Barris,Verdun,Electric,3.0
+2019,Nou Barris,Verdun,Gasoline,2830.0
+2019,Nou Barris,Verdun,Hybrid,58.0
+2019,Nou Barris,Verdun,Others,50.0
+2019,Nou Barris,Verdun,Unknown,6.0
+2019,Nou Barris,Vilapicina i la Torre Llobeta,Diesel,3987.0
+2019,Nou Barris,Vilapicina i la Torre Llobeta,Electric,11.0
+2019,Nou Barris,Vilapicina i la Torre Llobeta,Gasoline,6864.0
+2019,Nou Barris,Vilapicina i la Torre Llobeta,Hybrid,184.0
+2019,Nou Barris,Vilapicina i la Torre Llobeta,Others,154.0
+2019,Nou Barris,Vilapicina i la Torre Llobeta,Unknown,27.0
+2019,Nou Barris,el Turó de la Peira,Diesel,1942.0
+2019,Nou Barris,el Turó de la Peira,Electric,2.0
+2019,Nou Barris,el Turó de la Peira,Gasoline,3396.0
+2019,Nou Barris,el Turó de la Peira,Hybrid,76.0
+2019,Nou Barris,el Turó de la Peira,Others,45.0
+2019,Nou Barris,el Turó de la Peira,Unknown,12.0
+2019,Nou Barris,la Guineueta,Diesel,2601.0
+2019,Nou Barris,la Guineueta,Electric,9.0
+2019,Nou Barris,la Guineueta,Gasoline,4131.0
+2019,Nou Barris,la Guineueta,Hybrid,125.0
+2019,Nou Barris,la Guineueta,Others,76.0
+2019,Nou Barris,la Guineueta,Unknown,24.0
+2019,Nou Barris,la Prosperitat,Diesel,4417.0
+2019,Nou Barris,la Prosperitat,Electric,9.0
+2019,Nou Barris,la Prosperitat,Gasoline,6619.0
+2019,Nou Barris,la Prosperitat,Hybrid,136.0
+2019,Nou Barris,la Prosperitat,Others,170.0
+2019,Nou Barris,la Prosperitat,Unknown,29.0
+2019,Nou Barris,la Trinitat Nova,Diesel,1160.0
+2019,Nou Barris,la Trinitat Nova,Electric,2.0
+2019,Nou Barris,la Trinitat Nova,Gasoline,1667.0
+2019,Nou Barris,la Trinitat Nova,Hybrid,22.0
+2019,Nou Barris,la Trinitat Nova,Others,32.0
+2019,Nou Barris,la Trinitat Nova,Unknown,12.0
+2019,Nou Barris,les Roquetes,Diesel,2959.0
+2019,Nou Barris,les Roquetes,Electric,4.0
+2019,Nou Barris,les Roquetes,Gasoline,3780.0
+2019,Nou Barris,les Roquetes,Hybrid,65.0
+2019,Nou Barris,les Roquetes,Others,85.0
+2019,Nou Barris,les Roquetes,Unknown,25.0
+2019,Sant Andreu,Baró de Viver,Diesel,486.0
+2019,Sant Andreu,Baró de Viver,Electric,0.0
+2019,Sant Andreu,Baró de Viver,Gasoline,598.0
+2019,Sant Andreu,Baró de Viver,Hybrid,8.0
+2019,Sant Andreu,Baró de Viver,Others,11.0
+2019,Sant Andreu,Baró de Viver,Unknown,2.0
+2019,Sant Andreu,Navas,Diesel,3420.0
+2019,Sant Andreu,Navas,Electric,6.0
+2019,Sant Andreu,Navas,Gasoline,6419.0
+2019,Sant Andreu,Navas,Hybrid,174.0
+2019,Sant Andreu,Navas,Others,103.0
+2019,Sant Andreu,Navas,Unknown,27.0
+2019,Sant Andreu,Sant Andreu,Diesel,9862.0
+2019,Sant Andreu,Sant Andreu,Electric,45.0
+2019,Sant Andreu,Sant Andreu,Gasoline,16470.0
+2019,Sant Andreu,Sant Andreu,Hybrid,491.0
+2019,Sant Andreu,Sant Andreu,Others,287.0
+2019,Sant Andreu,Sant Andreu,Unknown,45.0
+2019,Sant Andreu,el Bon Pastor,Diesel,3568.0
+2019,Sant Andreu,el Bon Pastor,Electric,214.0
+2019,Sant Andreu,el Bon Pastor,Gasoline,3683.0
+2019,Sant Andreu,el Bon Pastor,Hybrid,239.0
+2019,Sant Andreu,el Bon Pastor,Others,334.0
+2019,Sant Andreu,el Bon Pastor,Unknown,37.0
+2019,Sant Andreu,el Congrés i els Indians,Diesel,2009.0
+2019,Sant Andreu,el Congrés i els Indians,Electric,9.0
+2019,Sant Andreu,el Congrés i els Indians,Gasoline,3782.0
+2019,Sant Andreu,el Congrés i els Indians,Hybrid,94.0
+2019,Sant Andreu,el Congrés i els Indians,Others,57.0
+2019,Sant Andreu,el Congrés i els Indians,Unknown,9.0
+2019,Sant Andreu,la Sagrera,Diesel,4640.0
+2019,Sant Andreu,la Sagrera,Electric,5.0
+2019,Sant Andreu,la Sagrera,Gasoline,7889.0
+2019,Sant Andreu,la Sagrera,Hybrid,225.0
+2019,Sant Andreu,la Sagrera,Others,189.0
+2019,Sant Andreu,la Sagrera,Unknown,24.0
+2019,Sant Andreu,la Trinitat Vella,Diesel,1855.0
+2019,Sant Andreu,la Trinitat Vella,Electric,4.0
+2019,Sant Andreu,la Trinitat Vella,Gasoline,2193.0
+2019,Sant Andreu,la Trinitat Vella,Hybrid,37.0
+2019,Sant Andreu,la Trinitat Vella,Others,37.0
+2019,Sant Andreu,la Trinitat Vella,Unknown,9.0
+2019,Sant Martí,Camp de l'Arpa del Clot,Diesel,5671.0
+2019,Sant Martí,Camp de l'Arpa del Clot,Electric,13.0
+2019,Sant Martí,Camp de l'Arpa del Clot,Gasoline,11086.0
+2019,Sant Martí,Camp de l'Arpa del Clot,Hybrid,297.0
+2019,Sant Martí,Camp de l'Arpa del Clot,Others,181.0
+2019,Sant Martí,Camp de l'Arpa del Clot,Unknown,34.0
+2019,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Diesel,2312.0
+2019,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Electric,26.0
+2019,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Gasoline,3579.0
+2019,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Hybrid,147.0
+2019,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Others,76.0
+2019,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Unknown,9.0
+2019,Sant Martí,Provençals del Poblenou,Diesel,4547.0
+2019,Sant Martí,Provençals del Poblenou,Electric,23.0
+2019,Sant Martí,Provençals del Poblenou,Gasoline,6087.0
+2019,Sant Martí,Provençals del Poblenou,Hybrid,181.0
+2019,Sant Martí,Provençals del Poblenou,Others,163.0
+2019,Sant Martí,Provençals del Poblenou,Unknown,20.0
+2019,Sant Martí,Sant Martí de Provençals,Diesel,4136.0
+2019,Sant Martí,Sant Martí de Provençals,Electric,8.0
+2019,Sant Martí,Sant Martí de Provençals,Gasoline,7336.0
+2019,Sant Martí,Sant Martí de Provençals,Hybrid,154.0
+2019,Sant Martí,Sant Martí de Provençals,Others,166.0
+2019,Sant Martí,Sant Martí de Provençals,Unknown,21.0
+2019,Sant Martí,el Besòs i el Maresme,Diesel,3694.0
+2019,Sant Martí,el Besòs i el Maresme,Electric,3.0
+2019,Sant Martí,el Besòs i el Maresme,Gasoline,4699.0
+2019,Sant Martí,el Besòs i el Maresme,Hybrid,154.0
+2019,Sant Martí,el Besòs i el Maresme,Others,101.0
+2019,Sant Martí,el Besòs i el Maresme,Unknown,23.0
+2019,Sant Martí,el Clot,Diesel,4226.0
+2019,Sant Martí,el Clot,Electric,3.0
+2019,Sant Martí,el Clot,Gasoline,7646.0
+2019,Sant Martí,el Clot,Hybrid,234.0
+2019,Sant Martí,el Clot,Others,133.0
+2019,Sant Martí,el Clot,Unknown,26.0
+2019,Sant Martí,el Parc i la Llacuna del Poblenou,Diesel,3263.0
+2019,Sant Martí,el Parc i la Llacuna del Poblenou,Electric,430.0
+2019,Sant Martí,el Parc i la Llacuna del Poblenou,Gasoline,4753.0
+2019,Sant Martí,el Parc i la Llacuna del Poblenou,Hybrid,173.0
+2019,Sant Martí,el Parc i la Llacuna del Poblenou,Others,153.0
+2019,Sant Martí,el Parc i la Llacuna del Poblenou,Unknown,29.0
+2019,Sant Martí,el Poblenou,Diesel,5534.0
+2019,Sant Martí,el Poblenou,Electric,56.0
+2019,Sant Martí,el Poblenou,Gasoline,9449.0
+2019,Sant Martí,el Poblenou,Hybrid,332.0
+2019,Sant Martí,el Poblenou,Others,229.0
+2019,Sant Martí,el Poblenou,Unknown,32.0
+2019,Sant Martí,la Verneda i la Pau,Diesel,5233.0
+2019,Sant Martí,la Verneda i la Pau,Electric,11.0
+2019,Sant Martí,la Verneda i la Pau,Gasoline,7628.0
+2019,Sant Martí,la Verneda i la Pau,Hybrid,172.0
+2019,Sant Martí,la Verneda i la Pau,Others,150.0
+2019,Sant Martí,la Verneda i la Pau,Unknown,34.0
+2019,Sant Martí,la Vila Olímpica del Poblenou,Diesel,1867.0
+2019,Sant Martí,la Vila Olímpica del Poblenou,Electric,22.0
+2019,Sant Martí,la Vila Olímpica del Poblenou,Gasoline,3456.0
+2019,Sant Martí,la Vila Olímpica del Poblenou,Hybrid,165.0
+2019,Sant Martí,la Vila Olímpica del Poblenou,Others,44.0
+2019,Sant Martí,la Vila Olímpica del Poblenou,Unknown,19.0
+2019,Sants-Montjuïc,Hostafrancs,Diesel,2435.0
+2019,Sants-Montjuïc,Hostafrancs,Electric,12.0
+2019,Sants-Montjuïc,Hostafrancs,Gasoline,4224.0
+2019,Sants-Montjuïc,Hostafrancs,Hybrid,98.0
+2019,Sants-Montjuïc,Hostafrancs,Others,65.0
+2019,Sants-Montjuïc,Hostafrancs,Unknown,24.0
+2019,Sants-Montjuïc,Sants,Diesel,5551.0
+2019,Sants-Montjuïc,Sants,Electric,26.0
+2019,Sants-Montjuïc,Sants,Gasoline,11786.0
+2019,Sants-Montjuïc,Sants,Hybrid,287.0
+2019,Sants-Montjuïc,Sants,Others,150.0
+2019,Sants-Montjuïc,Sants,Unknown,60.0
+2019,Sants-Montjuïc,Sants - Badal,Diesel,3483.0
+2019,Sants-Montjuïc,Sants - Badal,Electric,10.0
+2019,Sants-Montjuïc,Sants - Badal,Gasoline,6787.0
+2019,Sants-Montjuïc,Sants - Badal,Hybrid,157.0
+2019,Sants-Montjuïc,Sants - Badal,Others,88.0
+2019,Sants-Montjuïc,Sants - Badal,Unknown,25.0
+2019,Sants-Montjuïc,el Poble Sec,Diesel,4871.0
+2019,Sants-Montjuïc,el Poble Sec,Electric,20.0
+2019,Sants-Montjuïc,el Poble Sec,Gasoline,9447.0
+2019,Sants-Montjuïc,el Poble Sec,Hybrid,209.0
+2019,Sants-Montjuïc,el Poble Sec,Others,144.0
+2019,Sants-Montjuïc,el Poble Sec,Unknown,50.0
+2019,Sants-Montjuïc,la Bordeta,Diesel,2907.0
+2019,Sants-Montjuïc,la Bordeta,Electric,20.0
+2019,Sants-Montjuïc,la Bordeta,Gasoline,5488.0
+2019,Sants-Montjuïc,la Bordeta,Hybrid,123.0
+2019,Sants-Montjuïc,la Bordeta,Others,103.0
+2019,Sants-Montjuïc,la Bordeta,Unknown,22.0
+2019,Sants-Montjuïc,la Font de la Guatlla,Diesel,1583.0
+2019,Sants-Montjuïc,la Font de la Guatlla,Electric,6.0
+2019,Sants-Montjuïc,la Font de la Guatlla,Gasoline,3160.0
+2019,Sants-Montjuïc,la Font de la Guatlla,Hybrid,86.0
+2019,Sants-Montjuïc,la Font de la Guatlla,Others,70.0
+2019,Sants-Montjuïc,la Font de la Guatlla,Unknown,10.0
+2019,Sants-Montjuïc,la Marina de Port,Diesel,5749.0
+2019,Sants-Montjuïc,la Marina de Port,Electric,14.0
+2019,Sants-Montjuïc,la Marina de Port,Gasoline,8705.0
+2019,Sants-Montjuïc,la Marina de Port,Hybrid,189.0
+2019,Sants-Montjuïc,la Marina de Port,Others,205.0
+2019,Sants-Montjuïc,la Marina de Port,Unknown,30.0
+2019,Sants-Montjuïc,la Marina del Prat Vermell,Diesel,5821.0
+2019,Sants-Montjuïc,la Marina del Prat Vermell,Electric,1086.0
+2019,Sants-Montjuïc,la Marina del Prat Vermell,Gasoline,1584.0
+2019,Sants-Montjuïc,la Marina del Prat Vermell,Hybrid,634.0
+2019,Sants-Montjuïc,la Marina del Prat Vermell,Others,1967.0
+2019,Sants-Montjuïc,la Marina del Prat Vermell,Unknown,54.0
+2019,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Diesel,9570.0
+2019,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Electric,340.0
+2019,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Gasoline,26760.0
+2019,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Hybrid,812.0
+2019,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Others,255.0
+2019,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Unknown,123.0
+2019,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Diesel,4460.0
+2019,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Electric,445.0
+2019,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Gasoline,13390.0
+2019,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Hybrid,342.0
+2019,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Others,83.0
+2019,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Unknown,57.0
+2019,Sarrià-Sant Gervasi,Sarrià,Diesel,4387.0
+2019,Sarrià-Sant Gervasi,Sarrià,Electric,85.0
+2019,Sarrià-Sant Gervasi,Sarrià,Gasoline,11979.0
+2019,Sarrià-Sant Gervasi,Sarrià,Hybrid,281.0
+2019,Sarrià-Sant Gervasi,Sarrià,Others,123.0
+2019,Sarrià-Sant Gervasi,Sarrià,Unknown,44.0
+2019,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Diesel,987.0
+2019,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Electric,21.0
+2019,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Gasoline,2136.0
+2019,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Hybrid,67.0
+2019,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Others,29.0
+2019,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Unknown,12.0
+2019,Sarrià-Sant Gervasi,el Putget i Farró,Diesel,4197.0
+2019,Sarrià-Sant Gervasi,el Putget i Farró,Electric,45.0
+2019,Sarrià-Sant Gervasi,el Putget i Farró,Gasoline,13076.0
+2019,Sarrià-Sant Gervasi,el Putget i Farró,Hybrid,335.0
+2019,Sarrià-Sant Gervasi,el Putget i Farró,Others,83.0
+2019,Sarrià-Sant Gervasi,el Putget i Farró,Unknown,41.0
+2019,Sarrià-Sant Gervasi,les Tres Torres,Diesel,3000.0
+2019,Sarrià-Sant Gervasi,les Tres Torres,Electric,70.0
+2019,Sarrià-Sant Gervasi,les Tres Torres,Gasoline,9402.0
+2019,Sarrià-Sant Gervasi,les Tres Torres,Hybrid,272.0
+2019,Sarrià-Sant Gervasi,les Tres Torres,Others,45.0
+2019,Sarrià-Sant Gervasi,les Tres Torres,Unknown,31.0
+2020,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Diesel,2323.0
+2020,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Electric,3984.0
+2020,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Gasoline,5215.0
+2020,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Hybrid,671.0
+2020,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Others,89.0
+2020,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Unknown,38.0
+2020,Ciutat Vella,el Gòtic,Diesel,4736.0
+2020,Ciutat Vella,el Gòtic,Electric,169.0
+2020,Ciutat Vella,el Gòtic,Gasoline,6565.0
+2020,Ciutat Vella,el Gòtic,Hybrid,164.0
+2020,Ciutat Vella,el Gòtic,Others,235.0
+2020,Ciutat Vella,el Gòtic,Unknown,58.0
+2020,Ciutat Vella,el Raval,Diesel,3738.0
+2020,Ciutat Vella,el Raval,Electric,66.0
+2020,Ciutat Vella,el Raval,Gasoline,7361.0
+2020,Ciutat Vella,el Raval,Hybrid,787.0
+2020,Ciutat Vella,el Raval,Others,214.0
+2020,Ciutat Vella,el Raval,Unknown,58.0
+2020,Ciutat Vella,la Barceloneta,Diesel,1853.0
+2020,Ciutat Vella,la Barceloneta,Electric,152.0
+2020,Ciutat Vella,la Barceloneta,Gasoline,3903.0
+2020,Ciutat Vella,la Barceloneta,Hybrid,59.0
+2020,Ciutat Vella,la Barceloneta,Others,76.0
+2020,Ciutat Vella,la Barceloneta,Unknown,17.0
+2020,Eixample,Sant Antoni,Diesel,4756.0
+2020,Eixample,Sant Antoni,Electric,66.0
+2020,Eixample,Sant Antoni,Gasoline,10914.0
+2020,Eixample,Sant Antoni,Hybrid,342.0
+2020,Eixample,Sant Antoni,Others,223.0
+2020,Eixample,Sant Antoni,Unknown,48.0
+2020,Eixample,el Fort Pienc,Diesel,4667.0
+2020,Eixample,el Fort Pienc,Electric,31.0
+2020,Eixample,el Fort Pienc,Gasoline,9613.0
+2020,Eixample,el Fort Pienc,Hybrid,371.0
+2020,Eixample,el Fort Pienc,Others,177.0
+2020,Eixample,el Fort Pienc,Unknown,49.0
+2020,Eixample,l'Antiga Esquerra de l'Eixample,Diesel,6283.0
+2020,Eixample,l'Antiga Esquerra de l'Eixample,Electric,762.0
+2020,Eixample,l'Antiga Esquerra de l'Eixample,Gasoline,15271.0
+2020,Eixample,l'Antiga Esquerra de l'Eixample,Hybrid,594.0
+2020,Eixample,l'Antiga Esquerra de l'Eixample,Others,219.0
+2020,Eixample,l'Antiga Esquerra de l'Eixample,Unknown,79.0
+2020,Eixample,la Dreta de l'Eixample,Diesel,10160.0
+2020,Eixample,la Dreta de l'Eixample,Electric,198.0
+2020,Eixample,la Dreta de l'Eixample,Gasoline,18231.0
+2020,Eixample,la Dreta de l'Eixample,Hybrid,1452.0
+2020,Eixample,la Dreta de l'Eixample,Others,706.0
+2020,Eixample,la Dreta de l'Eixample,Unknown,146.0
+2020,Eixample,la Nova Esquerra de l'Eixample,Diesel,8736.0
+2020,Eixample,la Nova Esquerra de l'Eixample,Electric,105.0
+2020,Eixample,la Nova Esquerra de l'Eixample,Gasoline,19411.0
+2020,Eixample,la Nova Esquerra de l'Eixample,Hybrid,974.0
+2020,Eixample,la Nova Esquerra de l'Eixample,Others,258.0
+2020,Eixample,la Nova Esquerra de l'Eixample,Unknown,73.0
+2020,Eixample,la Sagrada Família,Diesel,6714.0
+2020,Eixample,la Sagrada Família,Electric,119.0
+2020,Eixample,la Sagrada Família,Gasoline,15268.0
+2020,Eixample,la Sagrada Família,Hybrid,587.0
+2020,Eixample,la Sagrada Família,Others,358.0
+2020,Eixample,la Sagrada Família,Unknown,40.0
+2020,Gràcia,Vallcarca i els Penitents,Diesel,2433.0
+2020,Gràcia,Vallcarca i els Penitents,Electric,46.0
+2020,Gràcia,Vallcarca i els Penitents,Gasoline,6521.0
+2020,Gràcia,Vallcarca i els Penitents,Hybrid,201.0
+2020,Gràcia,Vallcarca i els Penitents,Others,66.0
+2020,Gràcia,Vallcarca i els Penitents,Unknown,30.0
+2020,Gràcia,Vila de Gràcia,Diesel,6215.0
+2020,Gràcia,Vila de Gràcia,Electric,108.0
+2020,Gràcia,Vila de Gràcia,Gasoline,15522.0
+2020,Gràcia,Vila de Gràcia,Hybrid,478.0
+2020,Gràcia,Vila de Gràcia,Others,306.0
+2020,Gràcia,Vila de Gràcia,Unknown,55.0
+2020,Gràcia,el Camp d'en Grassot i Gràcia Nova,Diesel,4582.0
+2020,Gràcia,el Camp d'en Grassot i Gràcia Nova,Electric,73.0
+2020,Gràcia,el Camp d'en Grassot i Gràcia Nova,Gasoline,11872.0
+2020,Gràcia,el Camp d'en Grassot i Gràcia Nova,Hybrid,398.0
+2020,Gràcia,el Camp d'en Grassot i Gràcia Nova,Others,133.0
+2020,Gràcia,el Camp d'en Grassot i Gràcia Nova,Unknown,31.0
+2020,Gràcia,el Coll,Diesel,1068.0
+2020,Gràcia,el Coll,Electric,7.0
+2020,Gràcia,el Coll,Gasoline,2633.0
+2020,Gràcia,el Coll,Hybrid,73.0
+2020,Gràcia,el Coll,Others,31.0
+2020,Gràcia,el Coll,Unknown,10.0
+2020,Gràcia,la Salut,Diesel,1894.0
+2020,Gràcia,la Salut,Electric,16.0
+2020,Gràcia,la Salut,Gasoline,5077.0
+2020,Gràcia,la Salut,Hybrid,194.0
+2020,Gràcia,la Salut,Others,57.0
+2020,Gràcia,la Salut,Unknown,12.0
+2020,Horta-Guinardó,Can Baró,Diesel,1456.0
+2020,Horta-Guinardó,Can Baró,Electric,12.0
+2020,Horta-Guinardó,Can Baró,Gasoline,3408.0
+2020,Horta-Guinardó,Can Baró,Hybrid,84.0
+2020,Horta-Guinardó,Can Baró,Others,46.0
+2020,Horta-Guinardó,Can Baró,Unknown,11.0
+2020,Horta-Guinardó,Horta,Diesel,4026.0
+2020,Horta-Guinardó,Horta,Electric,18.0
+2020,Horta-Guinardó,Horta,Gasoline,8580.0
+2020,Horta-Guinardó,Horta,Hybrid,267.0
+2020,Horta-Guinardó,Horta,Others,137.0
+2020,Horta-Guinardó,Horta,Unknown,28.0
+2020,Horta-Guinardó,Montbau,Diesel,763.0
+2020,Horta-Guinardó,Montbau,Electric,2.0
+2020,Horta-Guinardó,Montbau,Gasoline,1531.0
+2020,Horta-Guinardó,Montbau,Hybrid,50.0
+2020,Horta-Guinardó,Montbau,Others,28.0
+2020,Horta-Guinardó,Montbau,Unknown,4.0
+2020,Horta-Guinardó,Sant Genís dels Agudells,Diesel,1121.0
+2020,Horta-Guinardó,Sant Genís dels Agudells,Electric,10.0
+2020,Horta-Guinardó,Sant Genís dels Agudells,Gasoline,2306.0
+2020,Horta-Guinardó,Sant Genís dels Agudells,Hybrid,72.0
+2020,Horta-Guinardó,Sant Genís dels Agudells,Others,40.0
+2020,Horta-Guinardó,Sant Genís dels Agudells,Unknown,7.0
+2020,Horta-Guinardó,el Baix Guinardó,Diesel,3534.0
+2020,Horta-Guinardó,el Baix Guinardó,Electric,24.0
+2020,Horta-Guinardó,el Baix Guinardó,Gasoline,7948.0
+2020,Horta-Guinardó,el Baix Guinardó,Hybrid,263.0
+2020,Horta-Guinardó,el Baix Guinardó,Others,119.0
+2020,Horta-Guinardó,el Baix Guinardó,Unknown,39.0
+2020,Horta-Guinardó,el Carmel,Diesel,4729.0
+2020,Horta-Guinardó,el Carmel,Electric,10.0
+2020,Horta-Guinardó,el Carmel,Gasoline,9994.0
+2020,Horta-Guinardó,el Carmel,Hybrid,209.0
+2020,Horta-Guinardó,el Carmel,Others,165.0
+2020,Horta-Guinardó,el Carmel,Unknown,30.0
+2020,Horta-Guinardó,el Guinardó,Diesel,5555.0
+2020,Horta-Guinardó,el Guinardó,Electric,68.0
+2020,Horta-Guinardó,el Guinardó,Gasoline,11520.0
+2020,Horta-Guinardó,el Guinardó,Hybrid,417.0
+2020,Horta-Guinardó,el Guinardó,Others,238.0
+2020,Horta-Guinardó,el Guinardó,Unknown,20.0
+2020,Horta-Guinardó,la Clota,Diesel,151.0
+2020,Horta-Guinardó,la Clota,Electric,1.0
+2020,Horta-Guinardó,la Clota,Gasoline,219.0
+2020,Horta-Guinardó,la Clota,Hybrid,10.0
+2020,Horta-Guinardó,la Clota,Others,3.0
+2020,Horta-Guinardó,la Clota,Unknown,2.0
+2020,Horta-Guinardó,la Font d'en Fargues,Diesel,1692.0
+2020,Horta-Guinardó,la Font d'en Fargues,Electric,15.0
+2020,Horta-Guinardó,la Font d'en Fargues,Gasoline,4058.0
+2020,Horta-Guinardó,la Font d'en Fargues,Hybrid,142.0
+2020,Horta-Guinardó,la Font d'en Fargues,Others,59.0
+2020,Horta-Guinardó,la Font d'en Fargues,Unknown,10.0
+2020,Horta-Guinardó,la Teixonera,Diesel,1758.0
+2020,Horta-Guinardó,la Teixonera,Electric,13.0
+2020,Horta-Guinardó,la Teixonera,Gasoline,3966.0
+2020,Horta-Guinardó,la Teixonera,Hybrid,119.0
+2020,Horta-Guinardó,la Teixonera,Others,74.0
+2020,Horta-Guinardó,la Teixonera,Unknown,3.0
+2020,Horta-Guinardó,la Vall d'Hebron,Diesel,1054.0
+2020,Horta-Guinardó,la Vall d'Hebron,Electric,3.0
+2020,Horta-Guinardó,la Vall d'Hebron,Gasoline,1831.0
+2020,Horta-Guinardó,la Vall d'Hebron,Hybrid,79.0
+2020,Horta-Guinardó,la Vall d'Hebron,Others,35.0
+2020,Horta-Guinardó,la Vall d'Hebron,Unknown,11.0
+2020,Les Corts,Pedralbes,Diesel,2279.0
+2020,Les Corts,Pedralbes,Electric,113.0
+2020,Les Corts,Pedralbes,Gasoline,6966.0
+2020,Les Corts,Pedralbes,Hybrid,282.0
+2020,Les Corts,Pedralbes,Others,71.0
+2020,Les Corts,Pedralbes,Unknown,30.0
+2020,Les Corts,la Maternitat i Sant Ramon,Diesel,4059.0
+2020,Les Corts,la Maternitat i Sant Ramon,Electric,44.0
+2020,Les Corts,la Maternitat i Sant Ramon,Gasoline,8793.0
+2020,Les Corts,la Maternitat i Sant Ramon,Hybrid,369.0
+2020,Les Corts,la Maternitat i Sant Ramon,Others,174.0
+2020,Les Corts,la Maternitat i Sant Ramon,Unknown,51.0
+2020,Les Corts,les Corts,Diesel,8063.0
+2020,Les Corts,les Corts,Electric,648.0
+2020,Les Corts,les Corts,Gasoline,18069.0
+2020,Les Corts,les Corts,Hybrid,854.0
+2020,Les Corts,les Corts,Others,247.0
+2020,Les Corts,les Corts,Unknown,75.0
+2020,Nou Barris,Can Peguera,Diesel,325.0
+2020,Nou Barris,Can Peguera,Electric,0.0
+2020,Nou Barris,Can Peguera,Gasoline,618.0
+2020,Nou Barris,Can Peguera,Hybrid,16.0
+2020,Nou Barris,Can Peguera,Others,11.0
+2020,Nou Barris,Can Peguera,Unknown,1.0
+2020,Nou Barris,Canyelles,Diesel,1458.0
+2020,Nou Barris,Canyelles,Electric,2.0
+2020,Nou Barris,Canyelles,Gasoline,2125.0
+2020,Nou Barris,Canyelles,Hybrid,87.0
+2020,Nou Barris,Canyelles,Others,58.0
+2020,Nou Barris,Canyelles,Unknown,7.0
+2020,Nou Barris,Ciutat Meridiana,Diesel,1674.0
+2020,Nou Barris,Ciutat Meridiana,Electric,3.0
+2020,Nou Barris,Ciutat Meridiana,Gasoline,2007.0
+2020,Nou Barris,Ciutat Meridiana,Hybrid,40.0
+2020,Nou Barris,Ciutat Meridiana,Others,52.0
+2020,Nou Barris,Ciutat Meridiana,Unknown,13.0
+2020,Nou Barris,Porta,Diesel,3502.0
+2020,Nou Barris,Porta,Electric,9.0
+2020,Nou Barris,Porta,Gasoline,6225.0
+2020,Nou Barris,Porta,Hybrid,190.0
+2020,Nou Barris,Porta,Others,141.0
+2020,Nou Barris,Porta,Unknown,17.0
+2020,Nou Barris,Torre Baró,Diesel,628.0
+2020,Nou Barris,Torre Baró,Electric,4.0
+2020,Nou Barris,Torre Baró,Gasoline,810.0
+2020,Nou Barris,Torre Baró,Hybrid,14.0
+2020,Nou Barris,Torre Baró,Others,28.0
+2020,Nou Barris,Torre Baró,Unknown,5.0
+2020,Nou Barris,Vallbona,Diesel,312.0
+2020,Nou Barris,Vallbona,Electric,2.0
+2020,Nou Barris,Vallbona,Gasoline,386.0
+2020,Nou Barris,Vallbona,Hybrid,12.0
+2020,Nou Barris,Vallbona,Others,25.0
+2020,Nou Barris,Vallbona,Unknown,3.0
+2020,Nou Barris,Verdun,Diesel,1836.0
+2020,Nou Barris,Verdun,Electric,3.0
+2020,Nou Barris,Verdun,Gasoline,2889.0
+2020,Nou Barris,Verdun,Hybrid,76.0
+2020,Nou Barris,Verdun,Others,58.0
+2020,Nou Barris,Verdun,Unknown,6.0
+2020,Nou Barris,Vilapicina i la Torre Llobeta,Diesel,3758.0
+2020,Nou Barris,Vilapicina i la Torre Llobeta,Electric,20.0
+2020,Nou Barris,Vilapicina i la Torre Llobeta,Gasoline,6942.0
+2020,Nou Barris,Vilapicina i la Torre Llobeta,Hybrid,243.0
+2020,Nou Barris,Vilapicina i la Torre Llobeta,Others,171.0
+2020,Nou Barris,Vilapicina i la Torre Llobeta,Unknown,27.0
+2020,Nou Barris,el Turó de la Peira,Diesel,1841.0
+2020,Nou Barris,el Turó de la Peira,Electric,6.0
+2020,Nou Barris,el Turó de la Peira,Gasoline,3438.0
+2020,Nou Barris,el Turó de la Peira,Hybrid,100.0
+2020,Nou Barris,el Turó de la Peira,Others,51.0
+2020,Nou Barris,el Turó de la Peira,Unknown,11.0
+2020,Nou Barris,la Guineueta,Diesel,2425.0
+2020,Nou Barris,la Guineueta,Electric,11.0
+2020,Nou Barris,la Guineueta,Gasoline,4201.0
+2020,Nou Barris,la Guineueta,Hybrid,169.0
+2020,Nou Barris,la Guineueta,Others,82.0
+2020,Nou Barris,la Guineueta,Unknown,24.0
+2020,Nou Barris,la Prosperitat,Diesel,4151.0
+2020,Nou Barris,la Prosperitat,Electric,9.0
+2020,Nou Barris,la Prosperitat,Gasoline,6715.0
+2020,Nou Barris,la Prosperitat,Hybrid,179.0
+2020,Nou Barris,la Prosperitat,Others,202.0
+2020,Nou Barris,la Prosperitat,Unknown,28.0
+2020,Nou Barris,la Trinitat Nova,Diesel,1093.0
+2020,Nou Barris,la Trinitat Nova,Electric,0.0
+2020,Nou Barris,la Trinitat Nova,Gasoline,1662.0
+2020,Nou Barris,la Trinitat Nova,Hybrid,32.0
+2020,Nou Barris,la Trinitat Nova,Others,35.0
+2020,Nou Barris,la Trinitat Nova,Unknown,12.0
+2020,Nou Barris,les Roquetes,Diesel,2814.0
+2020,Nou Barris,les Roquetes,Electric,6.0
+2020,Nou Barris,les Roquetes,Gasoline,3929.0
+2020,Nou Barris,les Roquetes,Hybrid,90.0
+2020,Nou Barris,les Roquetes,Others,102.0
+2020,Nou Barris,les Roquetes,Unknown,23.0
+2020,Sant Andreu,Baró de Viver,Diesel,463.0
+2020,Sant Andreu,Baró de Viver,Electric,0.0
+2020,Sant Andreu,Baró de Viver,Gasoline,636.0
+2020,Sant Andreu,Baró de Viver,Hybrid,11.0
+2020,Sant Andreu,Baró de Viver,Others,12.0
+2020,Sant Andreu,Baró de Viver,Unknown,2.0
+2020,Sant Andreu,Navas,Diesel,3247.0
+2020,Sant Andreu,Navas,Electric,10.0
+2020,Sant Andreu,Navas,Gasoline,6429.0
+2020,Sant Andreu,Navas,Hybrid,232.0
+2020,Sant Andreu,Navas,Others,118.0
+2020,Sant Andreu,Navas,Unknown,26.0
+2020,Sant Andreu,Sant Andreu,Diesel,9328.0
+2020,Sant Andreu,Sant Andreu,Electric,62.0
+2020,Sant Andreu,Sant Andreu,Gasoline,16703.0
+2020,Sant Andreu,Sant Andreu,Hybrid,654.0
+2020,Sant Andreu,Sant Andreu,Others,318.0
+2020,Sant Andreu,Sant Andreu,Unknown,42.0
+2020,Sant Andreu,el Bon Pastor,Diesel,3340.0
+2020,Sant Andreu,el Bon Pastor,Electric,296.0
+2020,Sant Andreu,el Bon Pastor,Gasoline,3498.0
+2020,Sant Andreu,el Bon Pastor,Hybrid,324.0
+2020,Sant Andreu,el Bon Pastor,Others,472.0
+2020,Sant Andreu,el Bon Pastor,Unknown,10.0
+2020,Sant Andreu,el Congrés i els Indians,Diesel,1885.0
+2020,Sant Andreu,el Congrés i els Indians,Electric,15.0
+2020,Sant Andreu,el Congrés i els Indians,Gasoline,3879.0
+2020,Sant Andreu,el Congrés i els Indians,Hybrid,131.0
+2020,Sant Andreu,el Congrés i els Indians,Others,64.0
+2020,Sant Andreu,el Congrés i els Indians,Unknown,9.0
+2020,Sant Andreu,la Sagrera,Diesel,4431.0
+2020,Sant Andreu,la Sagrera,Electric,12.0
+2020,Sant Andreu,la Sagrera,Gasoline,7987.0
+2020,Sant Andreu,la Sagrera,Hybrid,287.0
+2020,Sant Andreu,la Sagrera,Others,201.0
+2020,Sant Andreu,la Sagrera,Unknown,21.0
+2020,Sant Andreu,la Trinitat Vella,Diesel,1798.0
+2020,Sant Andreu,la Trinitat Vella,Electric,4.0
+2020,Sant Andreu,la Trinitat Vella,Gasoline,2247.0
+2020,Sant Andreu,la Trinitat Vella,Hybrid,44.0
+2020,Sant Andreu,la Trinitat Vella,Others,38.0
+2020,Sant Andreu,la Trinitat Vella,Unknown,9.0
+2020,Sant Martí,Camp de l'Arpa del Clot,Diesel,5364.0
+2020,Sant Martí,Camp de l'Arpa del Clot,Electric,21.0
+2020,Sant Martí,Camp de l'Arpa del Clot,Gasoline,11030.0
+2020,Sant Martí,Camp de l'Arpa del Clot,Hybrid,393.0
+2020,Sant Martí,Camp de l'Arpa del Clot,Others,196.0
+2020,Sant Martí,Camp de l'Arpa del Clot,Unknown,34.0
+2020,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Diesel,2183.0
+2020,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Electric,35.0
+2020,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Gasoline,3630.0
+2020,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Hybrid,191.0
+2020,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Others,77.0
+2020,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Unknown,7.0
+2020,Sant Martí,Provençals del Poblenou,Diesel,4192.0
+2020,Sant Martí,Provençals del Poblenou,Electric,28.0
+2020,Sant Martí,Provençals del Poblenou,Gasoline,6187.0
+2020,Sant Martí,Provençals del Poblenou,Hybrid,259.0
+2020,Sant Martí,Provençals del Poblenou,Others,169.0
+2020,Sant Martí,Provençals del Poblenou,Unknown,20.0
+2020,Sant Martí,Sant Martí de Provençals,Diesel,3964.0
+2020,Sant Martí,Sant Martí de Provençals,Electric,15.0
+2020,Sant Martí,Sant Martí de Provençals,Gasoline,7350.0
+2020,Sant Martí,Sant Martí de Provençals,Hybrid,221.0
+2020,Sant Martí,Sant Martí de Provençals,Others,179.0
+2020,Sant Martí,Sant Martí de Provençals,Unknown,21.0
+2020,Sant Martí,el Besòs i el Maresme,Diesel,3538.0
+2020,Sant Martí,el Besòs i el Maresme,Electric,6.0
+2020,Sant Martí,el Besòs i el Maresme,Gasoline,4842.0
+2020,Sant Martí,el Besòs i el Maresme,Hybrid,192.0
+2020,Sant Martí,el Besòs i el Maresme,Others,106.0
+2020,Sant Martí,el Besòs i el Maresme,Unknown,22.0
+2020,Sant Martí,el Clot,Diesel,4022.0
+2020,Sant Martí,el Clot,Electric,8.0
+2020,Sant Martí,el Clot,Gasoline,7686.0
+2020,Sant Martí,el Clot,Hybrid,324.0
+2020,Sant Martí,el Clot,Others,136.0
+2020,Sant Martí,el Clot,Unknown,25.0
+2020,Sant Martí,el Parc i la Llacuna del Poblenou,Diesel,3041.0
+2020,Sant Martí,el Parc i la Llacuna del Poblenou,Electric,1595.0
+2020,Sant Martí,el Parc i la Llacuna del Poblenou,Gasoline,4707.0
+2020,Sant Martí,el Parc i la Llacuna del Poblenou,Hybrid,230.0
+2020,Sant Martí,el Parc i la Llacuna del Poblenou,Others,152.0
+2020,Sant Martí,el Parc i la Llacuna del Poblenou,Unknown,27.0
+2020,Sant Martí,el Poblenou,Diesel,5177.0
+2020,Sant Martí,el Poblenou,Electric,315.0
+2020,Sant Martí,el Poblenou,Gasoline,9491.0
+2020,Sant Martí,el Poblenou,Hybrid,1516.0
+2020,Sant Martí,el Poblenou,Others,242.0
+2020,Sant Martí,el Poblenou,Unknown,31.0
+2020,Sant Martí,la Verneda i la Pau,Diesel,4910.0
+2020,Sant Martí,la Verneda i la Pau,Electric,17.0
+2020,Sant Martí,la Verneda i la Pau,Gasoline,7702.0
+2020,Sant Martí,la Verneda i la Pau,Hybrid,224.0
+2020,Sant Martí,la Verneda i la Pau,Others,158.0
+2020,Sant Martí,la Verneda i la Pau,Unknown,33.0
+2020,Sant Martí,la Vila Olímpica del Poblenou,Diesel,1787.0
+2020,Sant Martí,la Vila Olímpica del Poblenou,Electric,30.0
+2020,Sant Martí,la Vila Olímpica del Poblenou,Gasoline,3510.0
+2020,Sant Martí,la Vila Olímpica del Poblenou,Hybrid,213.0
+2020,Sant Martí,la Vila Olímpica del Poblenou,Others,57.0
+2020,Sant Martí,la Vila Olímpica del Poblenou,Unknown,12.0
+2020,Sants-Montjuïc,Hostafrancs,Diesel,2304.0
+2020,Sants-Montjuïc,Hostafrancs,Electric,12.0
+2020,Sants-Montjuïc,Hostafrancs,Gasoline,4232.0
+2020,Sants-Montjuïc,Hostafrancs,Hybrid,135.0
+2020,Sants-Montjuïc,Hostafrancs,Others,76.0
+2020,Sants-Montjuïc,Hostafrancs,Unknown,24.0
+2020,Sants-Montjuïc,Sants,Diesel,5302.0
+2020,Sants-Montjuïc,Sants,Electric,43.0
+2020,Sants-Montjuïc,Sants,Gasoline,11837.0
+2020,Sants-Montjuïc,Sants,Hybrid,391.0
+2020,Sants-Montjuïc,Sants,Others,167.0
+2020,Sants-Montjuïc,Sants,Unknown,58.0
+2020,Sants-Montjuïc,Sants - Badal,Diesel,3316.0
+2020,Sants-Montjuïc,Sants - Badal,Electric,15.0
+2020,Sants-Montjuïc,Sants - Badal,Gasoline,6791.0
+2020,Sants-Montjuïc,Sants - Badal,Hybrid,207.0
+2020,Sants-Montjuïc,Sants - Badal,Others,99.0
+2020,Sants-Montjuïc,Sants - Badal,Unknown,26.0
+2020,Sants-Montjuïc,el Poble Sec,Diesel,4669.0
+2020,Sants-Montjuïc,el Poble Sec,Electric,33.0
+2020,Sants-Montjuïc,el Poble Sec,Gasoline,9546.0
+2020,Sants-Montjuïc,el Poble Sec,Hybrid,271.0
+2020,Sants-Montjuïc,el Poble Sec,Others,161.0
+2020,Sants-Montjuïc,el Poble Sec,Unknown,42.0
+2020,Sants-Montjuïc,la Bordeta,Diesel,2743.0
+2020,Sants-Montjuïc,la Bordeta,Electric,25.0
+2020,Sants-Montjuïc,la Bordeta,Gasoline,5516.0
+2020,Sants-Montjuïc,la Bordeta,Hybrid,178.0
+2020,Sants-Montjuïc,la Bordeta,Others,111.0
+2020,Sants-Montjuïc,la Bordeta,Unknown,22.0
+2020,Sants-Montjuïc,la Font de la Guatlla,Diesel,1535.0
+2020,Sants-Montjuïc,la Font de la Guatlla,Electric,13.0
+2020,Sants-Montjuïc,la Font de la Guatlla,Gasoline,3231.0
+2020,Sants-Montjuïc,la Font de la Guatlla,Hybrid,103.0
+2020,Sants-Montjuïc,la Font de la Guatlla,Others,67.0
+2020,Sants-Montjuïc,la Font de la Guatlla,Unknown,10.0
+2020,Sants-Montjuïc,la Marina de Port,Diesel,5052.0
+2020,Sants-Montjuïc,la Marina de Port,Electric,14.0
+2020,Sants-Montjuïc,la Marina de Port,Gasoline,8806.0
+2020,Sants-Montjuïc,la Marina de Port,Hybrid,244.0
+2020,Sants-Montjuïc,la Marina de Port,Others,217.0
+2020,Sants-Montjuïc,la Marina de Port,Unknown,28.0
+2020,Sants-Montjuïc,la Marina del Prat Vermell,Diesel,4968.0
+2020,Sants-Montjuïc,la Marina del Prat Vermell,Electric,1379.0
+2020,Sants-Montjuïc,la Marina del Prat Vermell,Gasoline,1420.0
+2020,Sants-Montjuïc,la Marina del Prat Vermell,Hybrid,537.0
+2020,Sants-Montjuïc,la Marina del Prat Vermell,Others,2073.0
+2020,Sants-Montjuïc,la Marina del Prat Vermell,Unknown,29.0
+2020,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Diesel,9119.0
+2020,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Electric,425.0
+2020,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Gasoline,26331.0
+2020,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Hybrid,1032.0
+2020,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Others,257.0
+2020,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Unknown,118.0
+2020,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Diesel,4157.0
+2020,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Electric,479.0
+2020,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Gasoline,13333.0
+2020,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Hybrid,450.0
+2020,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Others,88.0
+2020,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Unknown,56.0
+2020,Sarrià-Sant Gervasi,Sarrià,Diesel,4114.0
+2020,Sarrià-Sant Gervasi,Sarrià,Electric,143.0
+2020,Sarrià-Sant Gervasi,Sarrià,Gasoline,11862.0
+2020,Sarrià-Sant Gervasi,Sarrià,Hybrid,399.0
+2020,Sarrià-Sant Gervasi,Sarrià,Others,126.0
+2020,Sarrià-Sant Gervasi,Sarrià,Unknown,42.0
+2020,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Diesel,976.0
+2020,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Electric,26.0
+2020,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Gasoline,2166.0
+2020,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Hybrid,83.0
+2020,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Others,34.0
+2020,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Unknown,11.0
+2020,Sarrià-Sant Gervasi,el Putget i Farró,Diesel,3984.0
+2020,Sarrià-Sant Gervasi,el Putget i Farró,Electric,57.0
+2020,Sarrià-Sant Gervasi,el Putget i Farró,Gasoline,12964.0
+2020,Sarrià-Sant Gervasi,el Putget i Farró,Hybrid,447.0
+2020,Sarrià-Sant Gervasi,el Putget i Farró,Others,85.0
+2020,Sarrià-Sant Gervasi,el Putget i Farró,Unknown,38.0
+2020,Sarrià-Sant Gervasi,les Tres Torres,Diesel,2914.0
+2020,Sarrià-Sant Gervasi,les Tres Torres,Electric,97.0
+2020,Sarrià-Sant Gervasi,les Tres Torres,Gasoline,9399.0
+2020,Sarrià-Sant Gervasi,les Tres Torres,Hybrid,348.0
+2020,Sarrià-Sant Gervasi,les Tres Torres,Others,45.0
+2020,Sarrià-Sant Gervasi,les Tres Torres,Unknown,30.0
+2021,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Diesel,2184.0
+2021,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Electric,3514.0
+2021,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Gasoline,5085.0
+2021,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Hybrid,613.0
+2021,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Others,84.0
+2021,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Unknown,38.0
+2021,Ciutat Vella,el Gòtic,Diesel,4350.0
+2021,Ciutat Vella,el Gòtic,Electric,262.0
+2021,Ciutat Vella,el Gòtic,Gasoline,6459.0
+2021,Ciutat Vella,el Gòtic,Hybrid,189.0
+2021,Ciutat Vella,el Gòtic,Others,249.0
+2021,Ciutat Vella,el Gòtic,Unknown,56.0
+2021,Ciutat Vella,el Raval,Diesel,3511.0
+2021,Ciutat Vella,el Raval,Electric,72.0
+2021,Ciutat Vella,el Raval,Gasoline,7314.0
+2021,Ciutat Vella,el Raval,Hybrid,841.0
+2021,Ciutat Vella,el Raval,Others,211.0
+2021,Ciutat Vella,el Raval,Unknown,57.0
+2021,Ciutat Vella,la Barceloneta,Diesel,1738.0
+2021,Ciutat Vella,la Barceloneta,Electric,691.0
+2021,Ciutat Vella,la Barceloneta,Gasoline,3826.0
+2021,Ciutat Vella,la Barceloneta,Hybrid,93.0
+2021,Ciutat Vella,la Barceloneta,Others,75.0
+2021,Ciutat Vella,la Barceloneta,Unknown,18.0
+2021,Eixample,Sant Antoni,Diesel,4504.0
+2021,Eixample,Sant Antoni,Electric,84.0
+2021,Eixample,Sant Antoni,Gasoline,10596.0
+2021,Eixample,Sant Antoni,Hybrid,467.0
+2021,Eixample,Sant Antoni,Others,233.0
+2021,Eixample,Sant Antoni,Unknown,52.0
+2021,Eixample,el Fort Pienc,Diesel,4391.0
+2021,Eixample,el Fort Pienc,Electric,64.0
+2021,Eixample,el Fort Pienc,Gasoline,9515.0
+2021,Eixample,el Fort Pienc,Hybrid,511.0
+2021,Eixample,el Fort Pienc,Others,188.0
+2021,Eixample,el Fort Pienc,Unknown,48.0
+2021,Eixample,l'Antiga Esquerra de l'Eixample,Diesel,5920.0
+2021,Eixample,l'Antiga Esquerra de l'Eixample,Electric,1254.0
+2021,Eixample,l'Antiga Esquerra de l'Eixample,Gasoline,15031.0
+2021,Eixample,l'Antiga Esquerra de l'Eixample,Hybrid,748.0
+2021,Eixample,l'Antiga Esquerra de l'Eixample,Others,222.0
+2021,Eixample,l'Antiga Esquerra de l'Eixample,Unknown,79.0
+2021,Eixample,la Dreta de l'Eixample,Diesel,9602.0
+2021,Eixample,la Dreta de l'Eixample,Electric,252.0
+2021,Eixample,la Dreta de l'Eixample,Gasoline,17839.0
+2021,Eixample,la Dreta de l'Eixample,Hybrid,1832.0
+2021,Eixample,la Dreta de l'Eixample,Others,803.0
+2021,Eixample,la Dreta de l'Eixample,Unknown,141.0
+2021,Eixample,la Nova Esquerra de l'Eixample,Diesel,8262.0
+2021,Eixample,la Nova Esquerra de l'Eixample,Electric,216.0
+2021,Eixample,la Nova Esquerra de l'Eixample,Gasoline,18992.0
+2021,Eixample,la Nova Esquerra de l'Eixample,Hybrid,1169.0
+2021,Eixample,la Nova Esquerra de l'Eixample,Others,258.0
+2021,Eixample,la Nova Esquerra de l'Eixample,Unknown,74.0
+2021,Eixample,la Sagrada Família,Diesel,6263.0
+2021,Eixample,la Sagrada Família,Electric,142.0
+2021,Eixample,la Sagrada Família,Gasoline,15104.0
+2021,Eixample,la Sagrada Família,Hybrid,781.0
+2021,Eixample,la Sagrada Família,Others,389.0
+2021,Eixample,la Sagrada Família,Unknown,35.0
+2021,Gràcia,Vallcarca i els Penitents,Diesel,2294.0
+2021,Gràcia,Vallcarca i els Penitents,Electric,67.0
+2021,Gràcia,Vallcarca i els Penitents,Gasoline,6435.0
+2021,Gràcia,Vallcarca i els Penitents,Hybrid,279.0
+2021,Gràcia,Vallcarca i els Penitents,Others,77.0
+2021,Gràcia,Vallcarca i els Penitents,Unknown,29.0
+2021,Gràcia,Vila de Gràcia,Diesel,5937.0
+2021,Gràcia,Vila de Gràcia,Electric,152.0
+2021,Gràcia,Vila de Gràcia,Gasoline,15253.0
+2021,Gràcia,Vila de Gràcia,Hybrid,621.0
+2021,Gràcia,Vila de Gràcia,Others,294.0
+2021,Gràcia,Vila de Gràcia,Unknown,54.0
+2021,Gràcia,el Camp d'en Grassot i Gràcia Nova,Diesel,4317.0
+2021,Gràcia,el Camp d'en Grassot i Gràcia Nova,Electric,93.0
+2021,Gràcia,el Camp d'en Grassot i Gràcia Nova,Gasoline,11714.0
+2021,Gràcia,el Camp d'en Grassot i Gràcia Nova,Hybrid,546.0
+2021,Gràcia,el Camp d'en Grassot i Gràcia Nova,Others,141.0
+2021,Gràcia,el Camp d'en Grassot i Gràcia Nova,Unknown,31.0
+2021,Gràcia,el Coll,Diesel,1057.0
+2021,Gràcia,el Coll,Electric,14.0
+2021,Gràcia,el Coll,Gasoline,2613.0
+2021,Gràcia,el Coll,Hybrid,95.0
+2021,Gràcia,el Coll,Others,36.0
+2021,Gràcia,el Coll,Unknown,11.0
+2021,Gràcia,la Salut,Diesel,1763.0
+2021,Gràcia,la Salut,Electric,26.0
+2021,Gràcia,la Salut,Gasoline,5016.0
+2021,Gràcia,la Salut,Hybrid,251.0
+2021,Gràcia,la Salut,Others,58.0
+2021,Gràcia,la Salut,Unknown,12.0
+2021,Horta-Guinardó,Can Baró,Diesel,1346.0
+2021,Horta-Guinardó,Can Baró,Electric,21.0
+2021,Horta-Guinardó,Can Baró,Gasoline,3415.0
+2021,Horta-Guinardó,Can Baró,Hybrid,115.0
+2021,Horta-Guinardó,Can Baró,Others,49.0
+2021,Horta-Guinardó,Can Baró,Unknown,11.0
+2021,Horta-Guinardó,Horta,Diesel,3797.0
+2021,Horta-Guinardó,Horta,Electric,32.0
+2021,Horta-Guinardó,Horta,Gasoline,8469.0
+2021,Horta-Guinardó,Horta,Hybrid,363.0
+2021,Horta-Guinardó,Horta,Others,159.0
+2021,Horta-Guinardó,Horta,Unknown,28.0
+2021,Horta-Guinardó,Montbau,Diesel,724.0
+2021,Horta-Guinardó,Montbau,Electric,3.0
+2021,Horta-Guinardó,Montbau,Gasoline,1544.0
+2021,Horta-Guinardó,Montbau,Hybrid,70.0
+2021,Horta-Guinardó,Montbau,Others,32.0
+2021,Horta-Guinardó,Montbau,Unknown,3.0
+2021,Horta-Guinardó,Sant Genís dels Agudells,Diesel,1057.0
+2021,Horta-Guinardó,Sant Genís dels Agudells,Electric,15.0
+2021,Horta-Guinardó,Sant Genís dels Agudells,Gasoline,2281.0
+2021,Horta-Guinardó,Sant Genís dels Agudells,Hybrid,99.0
+2021,Horta-Guinardó,Sant Genís dels Agudells,Others,46.0
+2021,Horta-Guinardó,Sant Genís dels Agudells,Unknown,7.0
+2021,Horta-Guinardó,el Baix Guinardó,Diesel,3303.0
+2021,Horta-Guinardó,el Baix Guinardó,Electric,33.0
+2021,Horta-Guinardó,el Baix Guinardó,Gasoline,7909.0
+2021,Horta-Guinardó,el Baix Guinardó,Hybrid,355.0
+2021,Horta-Guinardó,el Baix Guinardó,Others,130.0
+2021,Horta-Guinardó,el Baix Guinardó,Unknown,37.0
+2021,Horta-Guinardó,el Carmel,Diesel,4431.0
+2021,Horta-Guinardó,el Carmel,Electric,27.0
+2021,Horta-Guinardó,el Carmel,Gasoline,9983.0
+2021,Horta-Guinardó,el Carmel,Hybrid,309.0
+2021,Horta-Guinardó,el Carmel,Others,193.0
+2021,Horta-Guinardó,el Carmel,Unknown,30.0
+2021,Horta-Guinardó,el Guinardó,Diesel,5272.0
+2021,Horta-Guinardó,el Guinardó,Electric,92.0
+2021,Horta-Guinardó,el Guinardó,Gasoline,11431.0
+2021,Horta-Guinardó,el Guinardó,Hybrid,594.0
+2021,Horta-Guinardó,el Guinardó,Others,266.0
+2021,Horta-Guinardó,el Guinardó,Unknown,19.0
+2021,Horta-Guinardó,la Clota,Diesel,144.0
+2021,Horta-Guinardó,la Clota,Electric,4.0
+2021,Horta-Guinardó,la Clota,Gasoline,228.0
+2021,Horta-Guinardó,la Clota,Hybrid,12.0
+2021,Horta-Guinardó,la Clota,Others,3.0
+2021,Horta-Guinardó,la Clota,Unknown,2.0
+2021,Horta-Guinardó,la Font d'en Fargues,Diesel,1654.0
+2021,Horta-Guinardó,la Font d'en Fargues,Electric,27.0
+2021,Horta-Guinardó,la Font d'en Fargues,Gasoline,4044.0
+2021,Horta-Guinardó,la Font d'en Fargues,Hybrid,178.0
+2021,Horta-Guinardó,la Font d'en Fargues,Others,67.0
+2021,Horta-Guinardó,la Font d'en Fargues,Unknown,10.0
+2021,Horta-Guinardó,la Teixonera,Diesel,1688.0
+2021,Horta-Guinardó,la Teixonera,Electric,17.0
+2021,Horta-Guinardó,la Teixonera,Gasoline,3998.0
+2021,Horta-Guinardó,la Teixonera,Hybrid,163.0
+2021,Horta-Guinardó,la Teixonera,Others,84.0
+2021,Horta-Guinardó,la Teixonera,Unknown,3.0
+2021,Horta-Guinardó,la Vall d'Hebron,Diesel,998.0
+2021,Horta-Guinardó,la Vall d'Hebron,Electric,7.0
+2021,Horta-Guinardó,la Vall d'Hebron,Gasoline,1844.0
+2021,Horta-Guinardó,la Vall d'Hebron,Hybrid,104.0
+2021,Horta-Guinardó,la Vall d'Hebron,Others,43.0
+2021,Horta-Guinardó,la Vall d'Hebron,Unknown,11.0
+2021,Les Corts,Pedralbes,Diesel,2141.0
+2021,Les Corts,Pedralbes,Electric,159.0
+2021,Les Corts,Pedralbes,Gasoline,6875.0
+2021,Les Corts,Pedralbes,Hybrid,354.0
+2021,Les Corts,Pedralbes,Others,68.0
+2021,Les Corts,Pedralbes,Unknown,30.0
+2021,Les Corts,la Maternitat i Sant Ramon,Diesel,3823.0
+2021,Les Corts,la Maternitat i Sant Ramon,Electric,58.0
+2021,Les Corts,la Maternitat i Sant Ramon,Gasoline,8641.0
+2021,Les Corts,la Maternitat i Sant Ramon,Hybrid,476.0
+2021,Les Corts,la Maternitat i Sant Ramon,Others,169.0
+2021,Les Corts,la Maternitat i Sant Ramon,Unknown,49.0
+2021,Les Corts,les Corts,Diesel,7572.0
+2021,Les Corts,les Corts,Electric,623.0
+2021,Les Corts,les Corts,Gasoline,17857.0
+2021,Les Corts,les Corts,Hybrid,1108.0
+2021,Les Corts,les Corts,Others,260.0
+2021,Les Corts,les Corts,Unknown,77.0
+2021,Nou Barris,Can Peguera,Diesel,315.0
+2021,Nou Barris,Can Peguera,Electric,0.0
+2021,Nou Barris,Can Peguera,Gasoline,614.0
+2021,Nou Barris,Can Peguera,Hybrid,27.0
+2021,Nou Barris,Can Peguera,Others,12.0
+2021,Nou Barris,Can Peguera,Unknown,1.0
+2021,Nou Barris,Canyelles,Diesel,1364.0
+2021,Nou Barris,Canyelles,Electric,3.0
+2021,Nou Barris,Canyelles,Gasoline,2109.0
+2021,Nou Barris,Canyelles,Hybrid,111.0
+2021,Nou Barris,Canyelles,Others,69.0
+2021,Nou Barris,Canyelles,Unknown,7.0
+2021,Nou Barris,Ciutat Meridiana,Diesel,1605.0
+2021,Nou Barris,Ciutat Meridiana,Electric,4.0
+2021,Nou Barris,Ciutat Meridiana,Gasoline,2013.0
+2021,Nou Barris,Ciutat Meridiana,Hybrid,65.0
+2021,Nou Barris,Ciutat Meridiana,Others,60.0
+2021,Nou Barris,Ciutat Meridiana,Unknown,13.0
+2021,Nou Barris,Porta,Diesel,3270.0
+2021,Nou Barris,Porta,Electric,18.0
+2021,Nou Barris,Porta,Gasoline,6157.0
+2021,Nou Barris,Porta,Hybrid,257.0
+2021,Nou Barris,Porta,Others,159.0
+2021,Nou Barris,Porta,Unknown,17.0
+2021,Nou Barris,Torre Baró,Diesel,612.0
+2021,Nou Barris,Torre Baró,Electric,4.0
+2021,Nou Barris,Torre Baró,Gasoline,844.0
+2021,Nou Barris,Torre Baró,Hybrid,20.0
+2021,Nou Barris,Torre Baró,Others,31.0
+2021,Nou Barris,Torre Baró,Unknown,5.0
+2021,Nou Barris,Vallbona,Diesel,313.0
+2021,Nou Barris,Vallbona,Electric,3.0
+2021,Nou Barris,Vallbona,Gasoline,385.0
+2021,Nou Barris,Vallbona,Hybrid,17.0
+2021,Nou Barris,Vallbona,Others,34.0
+2021,Nou Barris,Vallbona,Unknown,2.0
+2021,Nou Barris,Verdun,Diesel,1718.0
+2021,Nou Barris,Verdun,Electric,4.0
+2021,Nou Barris,Verdun,Gasoline,2898.0
+2021,Nou Barris,Verdun,Hybrid,109.0
+2021,Nou Barris,Verdun,Others,74.0
+2021,Nou Barris,Verdun,Unknown,6.0
+2021,Nou Barris,Vilapicina i la Torre Llobeta,Diesel,3573.0
+2021,Nou Barris,Vilapicina i la Torre Llobeta,Electric,28.0
+2021,Nou Barris,Vilapicina i la Torre Llobeta,Gasoline,6954.0
+2021,Nou Barris,Vilapicina i la Torre Llobeta,Hybrid,339.0
+2021,Nou Barris,Vilapicina i la Torre Llobeta,Others,195.0
+2021,Nou Barris,Vilapicina i la Torre Llobeta,Unknown,27.0
+2021,Nou Barris,el Turó de la Peira,Diesel,1723.0
+2021,Nou Barris,el Turó de la Peira,Electric,12.0
+2021,Nou Barris,el Turó de la Peira,Gasoline,3526.0
+2021,Nou Barris,el Turó de la Peira,Hybrid,129.0
+2021,Nou Barris,el Turó de la Peira,Others,65.0
+2021,Nou Barris,el Turó de la Peira,Unknown,11.0
+2021,Nou Barris,la Guineueta,Diesel,2306.0
+2021,Nou Barris,la Guineueta,Electric,18.0
+2021,Nou Barris,la Guineueta,Gasoline,4162.0
+2021,Nou Barris,la Guineueta,Hybrid,226.0
+2021,Nou Barris,la Guineueta,Others,87.0
+2021,Nou Barris,la Guineueta,Unknown,24.0
+2021,Nou Barris,la Prosperitat,Diesel,3878.0
+2021,Nou Barris,la Prosperitat,Electric,15.0
+2021,Nou Barris,la Prosperitat,Gasoline,6653.0
+2021,Nou Barris,la Prosperitat,Hybrid,265.0
+2021,Nou Barris,la Prosperitat,Others,232.0
+2021,Nou Barris,la Prosperitat,Unknown,28.0
+2021,Nou Barris,la Trinitat Nova,Diesel,1055.0
+2021,Nou Barris,la Trinitat Nova,Electric,0.0
+2021,Nou Barris,la Trinitat Nova,Gasoline,1688.0
+2021,Nou Barris,la Trinitat Nova,Hybrid,48.0
+2021,Nou Barris,la Trinitat Nova,Others,37.0
+2021,Nou Barris,la Trinitat Nova,Unknown,12.0
+2021,Nou Barris,les Roquetes,Diesel,2611.0
+2021,Nou Barris,les Roquetes,Electric,12.0
+2021,Nou Barris,les Roquetes,Gasoline,3981.0
+2021,Nou Barris,les Roquetes,Hybrid,117.0
+2021,Nou Barris,les Roquetes,Others,118.0
+2021,Nou Barris,les Roquetes,Unknown,23.0
+2021,Sant Andreu,Baró de Viver,Diesel,426.0
+2021,Sant Andreu,Baró de Viver,Electric,1.0
+2021,Sant Andreu,Baró de Viver,Gasoline,653.0
+2021,Sant Andreu,Baró de Viver,Hybrid,19.0
+2021,Sant Andreu,Baró de Viver,Others,14.0
+2021,Sant Andreu,Baró de Viver,Unknown,3.0
+2021,Sant Andreu,Navas,Diesel,3083.0
+2021,Sant Andreu,Navas,Electric,19.0
+2021,Sant Andreu,Navas,Gasoline,6355.0
+2021,Sant Andreu,Navas,Hybrid,299.0
+2021,Sant Andreu,Navas,Others,119.0
+2021,Sant Andreu,Navas,Unknown,26.0
+2021,Sant Andreu,Sant Andreu,Diesel,8651.0
+2021,Sant Andreu,Sant Andreu,Electric,86.0
+2021,Sant Andreu,Sant Andreu,Gasoline,16645.0
+2021,Sant Andreu,Sant Andreu,Hybrid,871.0
+2021,Sant Andreu,Sant Andreu,Others,343.0
+2021,Sant Andreu,Sant Andreu,Unknown,39.0
+2021,Sant Andreu,el Bon Pastor,Diesel,3127.0
+2021,Sant Andreu,el Bon Pastor,Electric,319.0
+2021,Sant Andreu,el Bon Pastor,Gasoline,3419.0
+2021,Sant Andreu,el Bon Pastor,Hybrid,374.0
+2021,Sant Andreu,el Bon Pastor,Others,485.0
+2021,Sant Andreu,el Bon Pastor,Unknown,10.0
+2021,Sant Andreu,el Congrés i els Indians,Diesel,1790.0
+2021,Sant Andreu,el Congrés i els Indians,Electric,20.0
+2021,Sant Andreu,el Congrés i els Indians,Gasoline,3958.0
+2021,Sant Andreu,el Congrés i els Indians,Hybrid,185.0
+2021,Sant Andreu,el Congrés i els Indians,Others,74.0
+2021,Sant Andreu,el Congrés i els Indians,Unknown,8.0
+2021,Sant Andreu,la Sagrera,Diesel,4133.0
+2021,Sant Andreu,la Sagrera,Electric,17.0
+2021,Sant Andreu,la Sagrera,Gasoline,7935.0
+2021,Sant Andreu,la Sagrera,Hybrid,390.0
+2021,Sant Andreu,la Sagrera,Others,214.0
+2021,Sant Andreu,la Sagrera,Unknown,20.0
+2021,Sant Andreu,la Trinitat Vella,Diesel,1689.0
+2021,Sant Andreu,la Trinitat Vella,Electric,10.0
+2021,Sant Andreu,la Trinitat Vella,Gasoline,2286.0
+2021,Sant Andreu,la Trinitat Vella,Hybrid,75.0
+2021,Sant Andreu,la Trinitat Vella,Others,46.0
+2021,Sant Andreu,la Trinitat Vella,Unknown,9.0
+2021,Sant Martí,Camp de l'Arpa del Clot,Diesel,5039.0
+2021,Sant Martí,Camp de l'Arpa del Clot,Electric,30.0
+2021,Sant Martí,Camp de l'Arpa del Clot,Gasoline,10907.0
+2021,Sant Martí,Camp de l'Arpa del Clot,Hybrid,535.0
+2021,Sant Martí,Camp de l'Arpa del Clot,Others,219.0
+2021,Sant Martí,Camp de l'Arpa del Clot,Unknown,36.0
+2021,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Diesel,2092.0
+2021,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Electric,43.0
+2021,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Gasoline,3631.0
+2021,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Hybrid,261.0
+2021,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Others,97.0
+2021,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Unknown,7.0
+2021,Sant Martí,Provençals del Poblenou,Diesel,3932.0
+2021,Sant Martí,Provençals del Poblenou,Electric,58.0
+2021,Sant Martí,Provençals del Poblenou,Gasoline,6256.0
+2021,Sant Martí,Provençals del Poblenou,Hybrid,362.0
+2021,Sant Martí,Provençals del Poblenou,Others,208.0
+2021,Sant Martí,Provençals del Poblenou,Unknown,20.0
+2021,Sant Martí,Sant Martí de Provençals,Diesel,3842.0
+2021,Sant Martí,Sant Martí de Provençals,Electric,20.0
+2021,Sant Martí,Sant Martí de Provençals,Gasoline,7291.0
+2021,Sant Martí,Sant Martí de Provençals,Hybrid,315.0
+2021,Sant Martí,Sant Martí de Provençals,Others,197.0
+2021,Sant Martí,Sant Martí de Provençals,Unknown,22.0
+2021,Sant Martí,el Besòs i el Maresme,Diesel,3435.0
+2021,Sant Martí,el Besòs i el Maresme,Electric,14.0
+2021,Sant Martí,el Besòs i el Maresme,Gasoline,4975.0
+2021,Sant Martí,el Besòs i el Maresme,Hybrid,241.0
+2021,Sant Martí,el Besòs i el Maresme,Others,126.0
+2021,Sant Martí,el Besòs i el Maresme,Unknown,23.0
+2021,Sant Martí,el Clot,Diesel,3794.0
+2021,Sant Martí,el Clot,Electric,19.0
+2021,Sant Martí,el Clot,Gasoline,7616.0
+2021,Sant Martí,el Clot,Hybrid,435.0
+2021,Sant Martí,el Clot,Others,150.0
+2021,Sant Martí,el Clot,Unknown,24.0
+2021,Sant Martí,el Parc i la Llacuna del Poblenou,Diesel,2933.0
+2021,Sant Martí,el Parc i la Llacuna del Poblenou,Electric,1512.0
+2021,Sant Martí,el Parc i la Llacuna del Poblenou,Gasoline,4741.0
+2021,Sant Martí,el Parc i la Llacuna del Poblenou,Hybrid,321.0
+2021,Sant Martí,el Parc i la Llacuna del Poblenou,Others,141.0
+2021,Sant Martí,el Parc i la Llacuna del Poblenou,Unknown,28.0
+2021,Sant Martí,el Poblenou,Diesel,4875.0
+2021,Sant Martí,el Poblenou,Electric,322.0
+2021,Sant Martí,el Poblenou,Gasoline,9579.0
+2021,Sant Martí,el Poblenou,Hybrid,1641.0
+2021,Sant Martí,el Poblenou,Others,272.0
+2021,Sant Martí,el Poblenou,Unknown,30.0
+2021,Sant Martí,la Verneda i la Pau,Diesel,4685.0
+2021,Sant Martí,la Verneda i la Pau,Electric,25.0
+2021,Sant Martí,la Verneda i la Pau,Gasoline,7810.0
+2021,Sant Martí,la Verneda i la Pau,Hybrid,338.0
+2021,Sant Martí,la Verneda i la Pau,Others,186.0
+2021,Sant Martí,la Verneda i la Pau,Unknown,32.0
+2021,Sant Martí,la Vila Olímpica del Poblenou,Diesel,1690.0
+2021,Sant Martí,la Vila Olímpica del Poblenou,Electric,46.0
+2021,Sant Martí,la Vila Olímpica del Poblenou,Gasoline,3514.0
+2021,Sant Martí,la Vila Olímpica del Poblenou,Hybrid,258.0
+2021,Sant Martí,la Vila Olímpica del Poblenou,Others,59.0
+2021,Sant Martí,la Vila Olímpica del Poblenou,Unknown,11.0
+2021,Sants-Montjuïc,Hostafrancs,Diesel,2167.0
+2021,Sants-Montjuïc,Hostafrancs,Electric,23.0
+2021,Sants-Montjuïc,Hostafrancs,Gasoline,4186.0
+2021,Sants-Montjuïc,Hostafrancs,Hybrid,179.0
+2021,Sants-Montjuïc,Hostafrancs,Others,80.0
+2021,Sants-Montjuïc,Hostafrancs,Unknown,25.0
+2021,Sants-Montjuïc,Sants,Diesel,5061.0
+2021,Sants-Montjuïc,Sants,Electric,58.0
+2021,Sants-Montjuïc,Sants,Gasoline,11611.0
+2021,Sants-Montjuïc,Sants,Hybrid,514.0
+2021,Sants-Montjuïc,Sants,Others,191.0
+2021,Sants-Montjuïc,Sants,Unknown,59.0
+2021,Sants-Montjuïc,Sants - Badal,Diesel,3162.0
+2021,Sants-Montjuïc,Sants - Badal,Electric,18.0
+2021,Sants-Montjuïc,Sants - Badal,Gasoline,6698.0
+2021,Sants-Montjuïc,Sants - Badal,Hybrid,261.0
+2021,Sants-Montjuïc,Sants - Badal,Others,110.0
+2021,Sants-Montjuïc,Sants - Badal,Unknown,25.0
+2021,Sants-Montjuïc,el Poble Sec,Diesel,4442.0
+2021,Sants-Montjuïc,el Poble Sec,Electric,38.0
+2021,Sants-Montjuïc,el Poble Sec,Gasoline,9408.0
+2021,Sants-Montjuïc,el Poble Sec,Hybrid,331.0
+2021,Sants-Montjuïc,el Poble Sec,Others,176.0
+2021,Sants-Montjuïc,el Poble Sec,Unknown,41.0
+2021,Sants-Montjuïc,la Bordeta,Diesel,2570.0
+2021,Sants-Montjuïc,la Bordeta,Electric,33.0
+2021,Sants-Montjuïc,la Bordeta,Gasoline,5454.0
+2021,Sants-Montjuïc,la Bordeta,Hybrid,240.0
+2021,Sants-Montjuïc,la Bordeta,Others,119.0
+2021,Sants-Montjuïc,la Bordeta,Unknown,20.0
+2021,Sants-Montjuïc,la Font de la Guatlla,Diesel,1462.0
+2021,Sants-Montjuïc,la Font de la Guatlla,Electric,16.0
+2021,Sants-Montjuïc,la Font de la Guatlla,Gasoline,3221.0
+2021,Sants-Montjuïc,la Font de la Guatlla,Hybrid,139.0
+2021,Sants-Montjuïc,la Font de la Guatlla,Others,72.0
+2021,Sants-Montjuïc,la Font de la Guatlla,Unknown,10.0
+2021,Sants-Montjuïc,la Marina de Port,Diesel,4803.0
+2021,Sants-Montjuïc,la Marina de Port,Electric,29.0
+2021,Sants-Montjuïc,la Marina de Port,Gasoline,8772.0
+2021,Sants-Montjuïc,la Marina de Port,Hybrid,315.0
+2021,Sants-Montjuïc,la Marina de Port,Others,235.0
+2021,Sants-Montjuïc,la Marina de Port,Unknown,26.0
+2021,Sants-Montjuïc,la Marina del Prat Vermell,Diesel,4644.0
+2021,Sants-Montjuïc,la Marina del Prat Vermell,Electric,1410.0
+2021,Sants-Montjuïc,la Marina del Prat Vermell,Gasoline,1540.0
+2021,Sants-Montjuïc,la Marina del Prat Vermell,Hybrid,649.0
+2021,Sants-Montjuïc,la Marina del Prat Vermell,Others,2002.0
+2021,Sants-Montjuïc,la Marina del Prat Vermell,Unknown,37.0
+2021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Diesel,8596.0
+2021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Electric,608.0
+2021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Gasoline,25695.0
+2021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Hybrid,1271.0
+2021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Others,319.0
+2021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,Unknown,118.0
+2021,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Diesel,3910.0
+2021,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Electric,516.0
+2021,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Gasoline,13179.0
+2021,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Hybrid,570.0
+2021,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Others,95.0
+2021,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,Unknown,56.0
+2021,Sarrià-Sant Gervasi,Sarrià,Diesel,3876.0
+2021,Sarrià-Sant Gervasi,Sarrià,Electric,318.0
+2021,Sarrià-Sant Gervasi,Sarrià,Gasoline,11652.0
+2021,Sarrià-Sant Gervasi,Sarrià,Hybrid,505.0
+2021,Sarrià-Sant Gervasi,Sarrià,Others,140.0
+2021,Sarrià-Sant Gervasi,Sarrià,Unknown,40.0
+2021,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Diesel,943.0
+2021,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Electric,34.0
+2021,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Gasoline,2185.0
+2021,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Hybrid,108.0
+2021,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Others,38.0
+2021,Sarrià-Sant Gervasi,"Vallvidrera, el Tibidabo i les Planes",Unknown,12.0
+2021,Sarrià-Sant Gervasi,el Putget i Farró,Diesel,3789.0
+2021,Sarrià-Sant Gervasi,el Putget i Farró,Electric,83.0
+2021,Sarrià-Sant Gervasi,el Putget i Farró,Gasoline,12791.0
+2021,Sarrià-Sant Gervasi,el Putget i Farró,Hybrid,569.0
+2021,Sarrià-Sant Gervasi,el Putget i Farró,Others,95.0
+2021,Sarrià-Sant Gervasi,el Putget i Farró,Unknown,37.0
+2021,Sarrià-Sant Gervasi,les Tres Torres,Diesel,2760.0
+2021,Sarrià-Sant Gervasi,les Tres Torres,Electric,130.0
+2021,Sarrià-Sant Gervasi,les Tres Torres,Gasoline,9283.0
+2021,Sarrià-Sant Gervasi,les Tres Torres,Hybrid,452.0
+2021,Sarrià-Sant Gervasi,les Tres Torres,Others,51.0
+2021,Sarrià-Sant Gervasi,les Tres Torres,Unknown,30.0
+2022,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Diesel,2199.0
+2022,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Electric,3078.0
+2022,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Gasoline,5194.0
+2022,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Hybrid,446.0
+2022,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Others,88.0
+2022,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Unknown,40.0
+2022,Ciutat Vella,el Barri Gòtic,Diesel,4140.0
+2022,Ciutat Vella,el Barri Gòtic,Electric,137.0
+2022,Ciutat Vella,el Barri Gòtic,Gasoline,6243.0
+2022,Ciutat Vella,el Barri Gòtic,Hybrid,235.0
+2022,Ciutat Vella,el Barri Gòtic,Others,151.0
+2022,Ciutat Vella,el Barri Gòtic,Unknown,53.0
+2022,Ciutat Vella,el Raval,Diesel,3466.0
+2022,Ciutat Vella,el Raval,Electric,100.0
+2022,Ciutat Vella,el Raval,Gasoline,7332.0
+2022,Ciutat Vella,el Raval,Hybrid,900.0
+2022,Ciutat Vella,el Raval,Others,208.0
+2022,Ciutat Vella,el Raval,Unknown,60.0
+2022,Ciutat Vella,la Barceloneta,Diesel,1702.0
+2022,Ciutat Vella,la Barceloneta,Electric,977.0
+2022,Ciutat Vella,la Barceloneta,Gasoline,3858.0
+2022,Ciutat Vella,la Barceloneta,Hybrid,132.0
+2022,Ciutat Vella,la Barceloneta,Others,87.0
+2022,Ciutat Vella,la Barceloneta,Unknown,11.0
+2022,Eixample,Sant Antoni,Diesel,4334.0
+2022,Eixample,Sant Antoni,Electric,120.0
+2022,Eixample,Sant Antoni,Gasoline,10532.0
+2022,Eixample,Sant Antoni,Hybrid,616.0
+2022,Eixample,Sant Antoni,Others,242.0
+2022,Eixample,Sant Antoni,Unknown,50.0
+2022,Eixample,el Fort Pienc,Diesel,4209.0
+2022,Eixample,el Fort Pienc,Electric,84.0
+2022,Eixample,el Fort Pienc,Gasoline,9451.0
+2022,Eixample,el Fort Pienc,Hybrid,666.0
+2022,Eixample,el Fort Pienc,Others,193.0
+2022,Eixample,el Fort Pienc,Unknown,46.0
+2022,Eixample,l'Antiga Esquerra de l'Eixample,Diesel,5678.0
+2022,Eixample,l'Antiga Esquerra de l'Eixample,Electric,1352.0
+2022,Eixample,l'Antiga Esquerra de l'Eixample,Gasoline,15041.0
+2022,Eixample,l'Antiga Esquerra de l'Eixample,Hybrid,954.0
+2022,Eixample,l'Antiga Esquerra de l'Eixample,Others,216.0
+2022,Eixample,l'Antiga Esquerra de l'Eixample,Unknown,79.0
+2022,Eixample,la Dreta de l'Eixample,Diesel,9027.0
+2022,Eixample,la Dreta de l'Eixample,Electric,327.0
+2022,Eixample,la Dreta de l'Eixample,Gasoline,17641.0
+2022,Eixample,la Dreta de l'Eixample,Hybrid,2113.0
+2022,Eixample,la Dreta de l'Eixample,Others,841.0
+2022,Eixample,la Dreta de l'Eixample,Unknown,140.0
+2022,Eixample,la Nova Esquerra de l'Eixample,Diesel,7973.0
+2022,Eixample,la Nova Esquerra de l'Eixample,Electric,263.0
+2022,Eixample,la Nova Esquerra de l'Eixample,Gasoline,18909.0
+2022,Eixample,la Nova Esquerra de l'Eixample,Hybrid,1541.0
+2022,Eixample,la Nova Esquerra de l'Eixample,Others,273.0
+2022,Eixample,la Nova Esquerra de l'Eixample,Unknown,77.0
+2022,Eixample,la Sagrada Família,Diesel,5854.0
+2022,Eixample,la Sagrada Família,Electric,173.0
+2022,Eixample,la Sagrada Família,Gasoline,15085.0
+2022,Eixample,la Sagrada Família,Hybrid,1037.0
+2022,Eixample,la Sagrada Família,Others,413.0
+2022,Eixample,la Sagrada Família,Unknown,36.0
+2022,Gràcia,Vallcarca i els Penitents,Diesel,2286.0
+2022,Gràcia,Vallcarca i els Penitents,Electric,95.0
+2022,Gràcia,Vallcarca i els Penitents,Gasoline,6448.0
+2022,Gràcia,Vallcarca i els Penitents,Hybrid,388.0
+2022,Gràcia,Vallcarca i els Penitents,Others,71.0
+2022,Gràcia,Vallcarca i els Penitents,Unknown,31.0
+2022,Gràcia,el Camp d'en Grassot i Gràcia Nova,Diesel,4072.0
+2022,Gràcia,el Camp d'en Grassot i Gràcia Nova,Electric,138.0
+2022,Gràcia,el Camp d'en Grassot i Gràcia Nova,Gasoline,11503.0
+2022,Gràcia,el Camp d'en Grassot i Gràcia Nova,Hybrid,723.0
+2022,Gràcia,el Camp d'en Grassot i Gràcia Nova,Others,142.0
+2022,Gràcia,el Camp d'en Grassot i Gràcia Nova,Unknown,33.0
+2022,Gràcia,el Coll,Diesel,1003.0
+2022,Gràcia,el Coll,Electric,22.0
+2022,Gràcia,el Coll,Gasoline,2601.0
+2022,Gràcia,el Coll,Hybrid,130.0
+2022,Gràcia,el Coll,Others,38.0
+2022,Gràcia,el Coll,Unknown,10.0
+2022,Gràcia,la Salut,Diesel,1715.0
+2022,Gràcia,la Salut,Electric,51.0
+2022,Gràcia,la Salut,Gasoline,4949.0
+2022,Gràcia,la Salut,Hybrid,314.0
+2022,Gràcia,la Salut,Others,62.0
+2022,Gràcia,la Salut,Unknown,11.0
+2022,Gràcia,la Vila de Gràcia,Diesel,5692.0
+2022,Gràcia,la Vila de Gràcia,Electric,227.0
+2022,Gràcia,la Vila de Gràcia,Gasoline,15075.0
+2022,Gràcia,la Vila de Gràcia,Hybrid,795.0
+2022,Gràcia,la Vila de Gràcia,Others,258.0
+2022,Gràcia,la Vila de Gràcia,Unknown,57.0
+2022,Horta-Guinardó,Can Baró,Diesel,1295.0
+2022,Horta-Guinardó,Can Baró,Electric,25.0
+2022,Horta-Guinardó,Can Baró,Gasoline,3467.0
+2022,Horta-Guinardó,Can Baró,Hybrid,159.0
+2022,Horta-Guinardó,Can Baró,Others,53.0
+2022,Horta-Guinardó,Can Baró,Unknown,11.0
+2022,Horta-Guinardó,Horta,Diesel,3729.0
+2022,Horta-Guinardó,Horta,Electric,46.0
+2022,Horta-Guinardó,Horta,Gasoline,8598.0
+2022,Horta-Guinardó,Horta,Hybrid,488.0
+2022,Horta-Guinardó,Horta,Others,168.0
+2022,Horta-Guinardó,Horta,Unknown,29.0
+2022,Horta-Guinardó,Montbau,Diesel,717.0
+2022,Horta-Guinardó,Montbau,Electric,7.0
+2022,Horta-Guinardó,Montbau,Gasoline,1545.0
+2022,Horta-Guinardó,Montbau,Hybrid,94.0
+2022,Horta-Guinardó,Montbau,Others,32.0
+2022,Horta-Guinardó,Montbau,Unknown,2.0
+2022,Horta-Guinardó,Sant Genís dels Agudells,Diesel,1016.0
+2022,Horta-Guinardó,Sant Genís dels Agudells,Electric,21.0
+2022,Horta-Guinardó,Sant Genís dels Agudells,Gasoline,2267.0
+2022,Horta-Guinardó,Sant Genís dels Agudells,Hybrid,128.0
+2022,Horta-Guinardó,Sant Genís dels Agudells,Others,38.0
+2022,Horta-Guinardó,Sant Genís dels Agudells,Unknown,7.0
+2022,Horta-Guinardó,el Baix Guinardó,Diesel,3122.0
+2022,Horta-Guinardó,el Baix Guinardó,Electric,48.0
+2022,Horta-Guinardó,el Baix Guinardó,Gasoline,7821.0
+2022,Horta-Guinardó,el Baix Guinardó,Hybrid,471.0
+2022,Horta-Guinardó,el Baix Guinardó,Others,128.0
+2022,Horta-Guinardó,el Baix Guinardó,Unknown,38.0
+2022,Horta-Guinardó,el Carmel,Diesel,4293.0
+2022,Horta-Guinardó,el Carmel,Electric,44.0
+2022,Horta-Guinardó,el Carmel,Gasoline,10023.0
+2022,Horta-Guinardó,el Carmel,Hybrid,389.0
+2022,Horta-Guinardó,el Carmel,Others,186.0
+2022,Horta-Guinardó,el Carmel,Unknown,28.0
+2022,Horta-Guinardó,el Guinardó,Diesel,4932.0
+2022,Horta-Guinardó,el Guinardó,Electric,116.0
+2022,Horta-Guinardó,el Guinardó,Gasoline,11345.0
+2022,Horta-Guinardó,el Guinardó,Hybrid,738.0
+2022,Horta-Guinardó,el Guinardó,Others,245.0
+2022,Horta-Guinardó,el Guinardó,Unknown,20.0
+2022,Horta-Guinardó,la Clota,Diesel,141.0
+2022,Horta-Guinardó,la Clota,Electric,7.0
+2022,Horta-Guinardó,la Clota,Gasoline,228.0
+2022,Horta-Guinardó,la Clota,Hybrid,11.0
+2022,Horta-Guinardó,la Clota,Others,4.0
+2022,Horta-Guinardó,la Clota,Unknown,2.0
+2022,Horta-Guinardó,la Font d'en Fargues,Diesel,1571.0
+2022,Horta-Guinardó,la Font d'en Fargues,Electric,40.0
+2022,Horta-Guinardó,la Font d'en Fargues,Gasoline,4033.0
+2022,Horta-Guinardó,la Font d'en Fargues,Hybrid,236.0
+2022,Horta-Guinardó,la Font d'en Fargues,Others,71.0
+2022,Horta-Guinardó,la Font d'en Fargues,Unknown,9.0
+2022,Horta-Guinardó,la Teixonera,Diesel,1635.0
+2022,Horta-Guinardó,la Teixonera,Electric,24.0
+2022,Horta-Guinardó,la Teixonera,Gasoline,4008.0
+2022,Horta-Guinardó,la Teixonera,Hybrid,196.0
+2022,Horta-Guinardó,la Teixonera,Others,82.0
+2022,Horta-Guinardó,la Teixonera,Unknown,3.0
+2022,Horta-Guinardó,la Vall d'Hebron,Diesel,978.0
+2022,Horta-Guinardó,la Vall d'Hebron,Electric,14.0
+2022,Horta-Guinardó,la Vall d'Hebron,Gasoline,1830.0
+2022,Horta-Guinardó,la Vall d'Hebron,Hybrid,135.0
+2022,Horta-Guinardó,la Vall d'Hebron,Others,46.0
+2022,Horta-Guinardó,la Vall d'Hebron,Unknown,11.0
+2022,Les Corts,Pedralbes,Diesel,2076.0
+2022,Les Corts,Pedralbes,Electric,245.0
+2022,Les Corts,Pedralbes,Gasoline,6743.0
+2022,Les Corts,Pedralbes,Hybrid,473.0
+2022,Les Corts,Pedralbes,Others,69.0
+2022,Les Corts,Pedralbes,Unknown,29.0
+2022,Les Corts,la Maternitat i Sant Ramon,Diesel,3726.0
+2022,Les Corts,la Maternitat i Sant Ramon,Electric,74.0
+2022,Les Corts,la Maternitat i Sant Ramon,Gasoline,8624.0
+2022,Les Corts,la Maternitat i Sant Ramon,Hybrid,612.0
+2022,Les Corts,la Maternitat i Sant Ramon,Others,172.0
+2022,Les Corts,la Maternitat i Sant Ramon,Unknown,44.0
+2022,Les Corts,les Corts,Diesel,7279.0
+2022,Les Corts,les Corts,Electric,650.0
+2022,Les Corts,les Corts,Gasoline,17685.0
+2022,Les Corts,les Corts,Hybrid,1778.0
+2022,Les Corts,les Corts,Others,254.0
+2022,Les Corts,les Corts,Unknown,83.0
+2022,Nou Barris,Can Peguera,Diesel,304.0
+2022,Nou Barris,Can Peguera,Gasoline,616.0
+2022,Nou Barris,Can Peguera,Hybrid,36.0
+2022,Nou Barris,Can Peguera,Others,13.0
+2022,Nou Barris,Can Peguera,Unknown,1.0
+2022,Nou Barris,Canyelles,Diesel,1315.0
+2022,Nou Barris,Canyelles,Electric,3.0
+2022,Nou Barris,Canyelles,Gasoline,2122.0
+2022,Nou Barris,Canyelles,Hybrid,133.0
+2022,Nou Barris,Canyelles,Others,69.0
+2022,Nou Barris,Canyelles,Unknown,8.0
+2022,Nou Barris,Ciutat Meridiana,Diesel,1567.0
+2022,Nou Barris,Ciutat Meridiana,Electric,7.0
+2022,Nou Barris,Ciutat Meridiana,Gasoline,2091.0
+2022,Nou Barris,Ciutat Meridiana,Hybrid,90.0
+2022,Nou Barris,Ciutat Meridiana,Others,57.0
+2022,Nou Barris,Ciutat Meridiana,Unknown,13.0
+2022,Nou Barris,Porta,Diesel,3231.0
+2022,Nou Barris,Porta,Electric,28.0
+2022,Nou Barris,Porta,Gasoline,6234.0
+2022,Nou Barris,Porta,Hybrid,346.0
+2022,Nou Barris,Porta,Others,149.0
+2022,Nou Barris,Porta,Unknown,17.0
+2022,Nou Barris,Torre Baró,Diesel,587.0
+2022,Nou Barris,Torre Baró,Electric,10.0
+2022,Nou Barris,Torre Baró,Gasoline,831.0
+2022,Nou Barris,Torre Baró,Hybrid,27.0
+2022,Nou Barris,Torre Baró,Others,27.0
+2022,Nou Barris,Torre Baró,Unknown,7.0
+2022,Nou Barris,Vallbona,Diesel,317.0
+2022,Nou Barris,Vallbona,Electric,5.0
+2022,Nou Barris,Vallbona,Gasoline,393.0
+2022,Nou Barris,Vallbona,Hybrid,18.0
+2022,Nou Barris,Vallbona,Others,34.0
+2022,Nou Barris,Vallbona,Unknown,2.0
+2022,Nou Barris,Verdun,Diesel,1682.0
+2022,Nou Barris,Verdun,Electric,6.0
+2022,Nou Barris,Verdun,Gasoline,2989.0
+2022,Nou Barris,Verdun,Hybrid,146.0
+2022,Nou Barris,Verdun,Others,78.0
+2022,Nou Barris,Verdun,Unknown,5.0
+2022,Nou Barris,Vilapicina i la Torre Llobeta,Diesel,3398.0
+2022,Nou Barris,Vilapicina i la Torre Llobeta,Electric,39.0
+2022,Nou Barris,Vilapicina i la Torre Llobeta,Gasoline,6977.0
+2022,Nou Barris,Vilapicina i la Torre Llobeta,Hybrid,432.0
+2022,Nou Barris,Vilapicina i la Torre Llobeta,Others,187.0
+2022,Nou Barris,Vilapicina i la Torre Llobeta,Unknown,30.0
+2022,Nou Barris,el Turó de la Peira,Diesel,1704.0
+2022,Nou Barris,el Turó de la Peira,Electric,14.0
+2022,Nou Barris,el Turó de la Peira,Gasoline,3583.0
+2022,Nou Barris,el Turó de la Peira,Hybrid,178.0
+2022,Nou Barris,el Turó de la Peira,Others,66.0
+2022,Nou Barris,el Turó de la Peira,Unknown,12.0
+2022,Nou Barris,la Guineueta,Diesel,2232.0
+2022,Nou Barris,la Guineueta,Electric,34.0
+2022,Nou Barris,la Guineueta,Gasoline,4220.0
+2022,Nou Barris,la Guineueta,Hybrid,305.0
+2022,Nou Barris,la Guineueta,Others,91.0
+2022,Nou Barris,la Guineueta,Unknown,26.0
+2022,Nou Barris,la Prosperitat,Diesel,3745.0
+2022,Nou Barris,la Prosperitat,Electric,22.0
+2022,Nou Barris,la Prosperitat,Gasoline,6694.0
+2022,Nou Barris,la Prosperitat,Hybrid,358.0
+2022,Nou Barris,la Prosperitat,Others,232.0
+2022,Nou Barris,la Prosperitat,Unknown,28.0
+2022,Nou Barris,la Trinitat Nova,Diesel,1084.0
+2022,Nou Barris,la Trinitat Nova,Electric,2.0
+2022,Nou Barris,la Trinitat Nova,Gasoline,1752.0
+2022,Nou Barris,la Trinitat Nova,Hybrid,71.0
+2022,Nou Barris,la Trinitat Nova,Others,38.0
+2022,Nou Barris,la Trinitat Nova,Unknown,12.0
+2022,Nou Barris,les Roquetes,Diesel,2528.0
+2022,Nou Barris,les Roquetes,Electric,15.0
+2022,Nou Barris,les Roquetes,Gasoline,3998.0
+2022,Nou Barris,les Roquetes,Hybrid,146.0
+2022,Nou Barris,les Roquetes,Others,123.0
+2022,Nou Barris,les Roquetes,Unknown,22.0
+2022,Sant Andreu,Baró de Viver,Diesel,418.0
+2022,Sant Andreu,Baró de Viver,Gasoline,669.0
+2022,Sant Andreu,Baró de Viver,Hybrid,20.0
+2022,Sant Andreu,Baró de Viver,Others,16.0
+2022,Sant Andreu,Baró de Viver,Unknown,2.0
+2022,Sant Andreu,Navas,Diesel,2917.0
+2022,Sant Andreu,Navas,Electric,32.0
+2022,Sant Andreu,Navas,Gasoline,6317.0
+2022,Sant Andreu,Navas,Hybrid,386.0
+2022,Sant Andreu,Navas,Others,118.0
+2022,Sant Andreu,Navas,Unknown,25.0
+2022,Sant Andreu,Sant Andreu,Diesel,8295.0
+2022,Sant Andreu,Sant Andreu,Electric,128.0
+2022,Sant Andreu,Sant Andreu,Gasoline,16737.0
+2022,Sant Andreu,Sant Andreu,Hybrid,1138.0
+2022,Sant Andreu,Sant Andreu,Others,329.0
+2022,Sant Andreu,Sant Andreu,Unknown,44.0
+2022,Sant Andreu,el Bon Pastor,Diesel,3072.0
+2022,Sant Andreu,el Bon Pastor,Electric,473.0
+2022,Sant Andreu,el Bon Pastor,Gasoline,3586.0
+2022,Sant Andreu,el Bon Pastor,Hybrid,572.0
+2022,Sant Andreu,el Bon Pastor,Others,440.0
+2022,Sant Andreu,el Bon Pastor,Unknown,14.0
+2022,Sant Andreu,el Congrés i els Indians,Diesel,1722.0
+2022,Sant Andreu,el Congrés i els Indians,Electric,37.0
+2022,Sant Andreu,el Congrés i els Indians,Gasoline,3942.0
+2022,Sant Andreu,el Congrés i els Indians,Hybrid,237.0
+2022,Sant Andreu,el Congrés i els Indians,Others,76.0
+2022,Sant Andreu,el Congrés i els Indians,Unknown,6.0
+2022,Sant Andreu,la Sagrera,Diesel,3899.0
+2022,Sant Andreu,la Sagrera,Electric,35.0
+2022,Sant Andreu,la Sagrera,Gasoline,7876.0
+2022,Sant Andreu,la Sagrera,Hybrid,510.0
+2022,Sant Andreu,la Sagrera,Others,206.0
+2022,Sant Andreu,la Sagrera,Unknown,22.0
+2022,Sant Andreu,la Trinitat Vella,Diesel,1648.0
+2022,Sant Andreu,la Trinitat Vella,Electric,13.0
+2022,Sant Andreu,la Trinitat Vella,Gasoline,2358.0
+2022,Sant Andreu,la Trinitat Vella,Hybrid,111.0
+2022,Sant Andreu,la Trinitat Vella,Others,46.0
+2022,Sant Andreu,la Trinitat Vella,Unknown,10.0
+2022,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Diesel,2033.0
+2022,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Electric,52.0
+2022,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Gasoline,3669.0
+2022,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Hybrid,376.0
+2022,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Others,97.0
+2022,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Unknown,9.0
+2022,Sant Martí,Provençals del Poblenou,Diesel,3749.0
+2022,Sant Martí,Provençals del Poblenou,Electric,69.0
+2022,Sant Martí,Provençals del Poblenou,Gasoline,6298.0
+2022,Sant Martí,Provençals del Poblenou,Hybrid,499.0
+2022,Sant Martí,Provençals del Poblenou,Others,193.0
+2022,Sant Martí,Provençals del Poblenou,Unknown,23.0
+2022,Sant Martí,Sant Martí de Provençals,Diesel,3684.0
+2022,Sant Martí,Sant Martí de Provençals,Electric,36.0
+2022,Sant Martí,Sant Martí de Provençals,Gasoline,7315.0
+2022,Sant Martí,Sant Martí de Provençals,Hybrid,430.0
+2022,Sant Martí,Sant Martí de Provençals,Others,190.0
+2022,Sant Martí,Sant Martí de Provençals,Unknown,23.0
+2022,Sant Martí,el Besòs i el Maresme,Diesel,3404.0
+2022,Sant Martí,el Besòs i el Maresme,Electric,22.0
+2022,Sant Martí,el Besòs i el Maresme,Gasoline,5088.0
+2022,Sant Martí,el Besòs i el Maresme,Hybrid,354.0
+2022,Sant Martí,el Besòs i el Maresme,Others,128.0
+2022,Sant Martí,el Besòs i el Maresme,Unknown,28.0
+2022,Sant Martí,el Camp de l'Arpa del Clot,Diesel,4744.0
+2022,Sant Martí,el Camp de l'Arpa del Clot,Electric,46.0
+2022,Sant Martí,el Camp de l'Arpa del Clot,Gasoline,10815.0
+2022,Sant Martí,el Camp de l'Arpa del Clot,Hybrid,699.0
+2022,Sant Martí,el Camp de l'Arpa del Clot,Others,239.0
+2022,Sant Martí,el Camp de l'Arpa del Clot,Unknown,37.0
+2022,Sant Martí,el Clot,Diesel,3599.0
+2022,Sant Martí,el Clot,Electric,33.0
+2022,Sant Martí,el Clot,Gasoline,7589.0
+2022,Sant Martí,el Clot,Hybrid,549.0
+2022,Sant Martí,el Clot,Others,165.0
+2022,Sant Martí,el Clot,Unknown,24.0
+2022,Sant Martí,el Parc i la Llacuna del Poblenou,Diesel,2782.0
+2022,Sant Martí,el Parc i la Llacuna del Poblenou,Electric,1466.0
+2022,Sant Martí,el Parc i la Llacuna del Poblenou,Gasoline,4744.0
+2022,Sant Martí,el Parc i la Llacuna del Poblenou,Hybrid,394.0
+2022,Sant Martí,el Parc i la Llacuna del Poblenou,Others,130.0
+2022,Sant Martí,el Parc i la Llacuna del Poblenou,Unknown,26.0
+2022,Sant Martí,el Poblenou,Diesel,4739.0
+2022,Sant Martí,el Poblenou,Electric,358.0
+2022,Sant Martí,el Poblenou,Gasoline,9598.0
+2022,Sant Martí,el Poblenou,Hybrid,1686.0
+2022,Sant Martí,el Poblenou,Others,264.0
+2022,Sant Martí,el Poblenou,Unknown,35.0
+2022,Sant Martí,la Verneda i la Pau,Diesel,4517.0
+2022,Sant Martí,la Verneda i la Pau,Electric,40.0
+2022,Sant Martí,la Verneda i la Pau,Gasoline,9140.0
+2022,Sant Martí,la Verneda i la Pau,Hybrid,462.0
+2022,Sant Martí,la Verneda i la Pau,Others,191.0
+2022,Sant Martí,la Verneda i la Pau,Unknown,31.0
+2022,Sant Martí,la Vila Olímpica del Poblenou,Diesel,1634.0
+2022,Sant Martí,la Vila Olímpica del Poblenou,Electric,64.0
+2022,Sant Martí,la Vila Olímpica del Poblenou,Gasoline,3490.0
+2022,Sant Martí,la Vila Olímpica del Poblenou,Hybrid,342.0
+2022,Sant Martí,la Vila Olímpica del Poblenou,Others,61.0
+2022,Sant Martí,la Vila Olímpica del Poblenou,Unknown,18.0
+2022,Sants-Montjuïc,Hostafrancs,Diesel,2050.0
+2022,Sants-Montjuïc,Hostafrancs,Electric,35.0
+2022,Sants-Montjuïc,Hostafrancs,Gasoline,4186.0
+2022,Sants-Montjuïc,Hostafrancs,Hybrid,240.0
+2022,Sants-Montjuïc,Hostafrancs,Others,87.0
+2022,Sants-Montjuïc,Hostafrancs,Unknown,24.0
+2022,Sants-Montjuïc,Sants,Diesel,4839.0
+2022,Sants-Montjuïc,Sants,Electric,83.0
+2022,Sants-Montjuïc,Sants,Gasoline,11530.0
+2022,Sants-Montjuïc,Sants,Hybrid,649.0
+2022,Sants-Montjuïc,Sants,Others,191.0
+2022,Sants-Montjuïc,Sants,Unknown,58.0
+2022,Sants-Montjuïc,Sants - Badal,Diesel,3026.0
+2022,Sants-Montjuïc,Sants - Badal,Electric,32.0
+2022,Sants-Montjuïc,Sants - Badal,Gasoline,6615.0
+2022,Sants-Montjuïc,Sants - Badal,Hybrid,340.0
+2022,Sants-Montjuïc,Sants - Badal,Others,114.0
+2022,Sants-Montjuïc,Sants - Badal,Unknown,27.0
+2022,Sants-Montjuïc,el Poble Sec - AEI Parc Montjuïc,Diesel,4303.0
+2022,Sants-Montjuïc,el Poble Sec - AEI Parc Montjuïc,Electric,61.0
+2022,Sants-Montjuïc,el Poble Sec - AEI Parc Montjuïc,Gasoline,9303.0
+2022,Sants-Montjuïc,el Poble Sec - AEI Parc Montjuïc,Hybrid,443.0
+2022,Sants-Montjuïc,el Poble Sec - AEI Parc Montjuïc,Others,174.0
+2022,Sants-Montjuïc,el Poble Sec - AEI Parc Montjuïc,Unknown,42.0
+2022,Sants-Montjuïc,la Bordeta,Diesel,2491.0
+2022,Sants-Montjuïc,la Bordeta,Electric,34.0
+2022,Sants-Montjuïc,la Bordeta,Gasoline,5424.0
+2022,Sants-Montjuïc,la Bordeta,Hybrid,337.0
+2022,Sants-Montjuïc,la Bordeta,Others,124.0
+2022,Sants-Montjuïc,la Bordeta,Unknown,19.0
+2022,Sants-Montjuïc,la Font de la Guatlla,Diesel,1426.0
+2022,Sants-Montjuïc,la Font de la Guatlla,Electric,22.0
+2022,Sants-Montjuïc,la Font de la Guatlla,Gasoline,3184.0
+2022,Sants-Montjuïc,la Font de la Guatlla,Hybrid,179.0
+2022,Sants-Montjuïc,la Font de la Guatlla,Others,63.0
+2022,Sants-Montjuïc,la Font de la Guatlla,Unknown,11.0
+2022,Sants-Montjuïc,la Marina de Port,Diesel,4592.0
+2022,Sants-Montjuïc,la Marina de Port,Electric,43.0
+2022,Sants-Montjuïc,la Marina de Port,Gasoline,8809.0
+2022,Sants-Montjuïc,la Marina de Port,Hybrid,429.0
+2022,Sants-Montjuïc,la Marina de Port,Others,247.0
+2022,Sants-Montjuïc,la Marina de Port,Unknown,27.0
+2022,Sants-Montjuïc,la Marina del Prat Vermell - AEI Zona Franca,Diesel,4588.0
+2022,Sants-Montjuïc,la Marina del Prat Vermell - AEI Zona Franca,Electric,1762.0
+2022,Sants-Montjuïc,la Marina del Prat Vermell - AEI Zona Franca,Gasoline,1552.0
+2022,Sants-Montjuïc,la Marina del Prat Vermell - AEI Zona Franca,Hybrid,966.0
+2022,Sants-Montjuïc,la Marina del Prat Vermell - AEI Zona Franca,Others,1917.0
+2022,Sants-Montjuïc,la Marina del Prat Vermell - AEI Zona Franca,Unknown,57.0
+2022,Sarrià-St. Gervasi,Sant Gervasi - Galvany,Diesel,8169.0
+2022,Sarrià-St. Gervasi,Sant Gervasi - Galvany,Electric,700.0
+2022,Sarrià-St. Gervasi,Sant Gervasi - Galvany,Gasoline,25379.0
+2022,Sarrià-St. Gervasi,Sant Gervasi - Galvany,Hybrid,1623.0
+2022,Sarrià-St. Gervasi,Sant Gervasi - Galvany,Others,270.0
+2022,Sarrià-St. Gervasi,Sant Gervasi - Galvany,Unknown,110.0
+2022,Sarrià-St. Gervasi,Sant Gervasi - la Bonanova,Diesel,3772.0
+2022,Sarrià-St. Gervasi,Sant Gervasi - la Bonanova,Electric,573.0
+2022,Sarrià-St. Gervasi,Sant Gervasi - la Bonanova,Gasoline,13014.0
+2022,Sarrià-St. Gervasi,Sant Gervasi - la Bonanova,Hybrid,710.0
+2022,Sarrià-St. Gervasi,Sant Gervasi - la Bonanova,Others,94.0
+2022,Sarrià-St. Gervasi,Sant Gervasi - la Bonanova,Unknown,55.0
+2022,Sarrià-St. Gervasi,Sarrià,Diesel,3826.0
+2022,Sarrià-St. Gervasi,Sarrià,Electric,342.0
+2022,Sarrià-St. Gervasi,Sarrià,Gasoline,11705.0
+2022,Sarrià-St. Gervasi,Sarrià,Hybrid,684.0
+2022,Sarrià-St. Gervasi,Sarrià,Others,129.0
+2022,Sarrià-St. Gervasi,Sarrià,Unknown,41.0
+2022,Sarrià-St. Gervasi,"Vallvidrera, el Tibidabo i les Planes",Diesel,904.0
+2022,Sarrià-St. Gervasi,"Vallvidrera, el Tibidabo i les Planes",Electric,52.0
+2022,Sarrià-St. Gervasi,"Vallvidrera, el Tibidabo i les Planes",Gasoline,2205.0
+2022,Sarrià-St. Gervasi,"Vallvidrera, el Tibidabo i les Planes",Hybrid,136.0
+2022,Sarrià-St. Gervasi,"Vallvidrera, el Tibidabo i les Planes",Others,43.0
+2022,Sarrià-St. Gervasi,"Vallvidrera, el Tibidabo i les Planes",Unknown,13.0
+2022,Sarrià-St. Gervasi,el Putxet i el Farró,Diesel,3626.0
+2022,Sarrià-St. Gervasi,el Putxet i el Farró,Electric,141.0
+2022,Sarrià-St. Gervasi,el Putxet i el Farró,Gasoline,12719.0
+2022,Sarrià-St. Gervasi,el Putxet i el Farró,Hybrid,737.0
+2022,Sarrià-St. Gervasi,el Putxet i el Farró,Others,105.0
+2022,Sarrià-St. Gervasi,el Putxet i el Farró,Unknown,33.0
+2022,Sarrià-St. Gervasi,les Tres Torres,Diesel,2651.0
+2022,Sarrià-St. Gervasi,les Tres Torres,Electric,174.0
+2022,Sarrià-St. Gervasi,les Tres Torres,Gasoline,9240.0
+2022,Sarrià-St. Gervasi,les Tres Torres,Hybrid,560.0
+2022,Sarrià-St. Gervasi,les Tres Torres,Others,54.0
+2022,Sarrià-St. Gervasi,les Tres Torres,Unknown,28.0
+2023,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Diesel,2187.0
+2023,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Electric,3815.0
+2023,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Gasoline,6483.0
+2023,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Hybrid,480.0
+2023,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Others,93.0
+2023,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",Unknown,40.0
+2023,Ciutat Vella,el Barri Gòtic,Diesel,4139.0
+2023,Ciutat Vella,el Barri Gòtic,Electric,157.0
+2023,Ciutat Vella,el Barri Gòtic,Gasoline,6003.0
+2023,Ciutat Vella,el Barri Gòtic,Hybrid,262.0
+2023,Ciutat Vella,el Barri Gòtic,Others,161.0
+2023,Ciutat Vella,el Barri Gòtic,Unknown,52.0
+2023,Ciutat Vella,el Raval,Diesel,3426.0
+2023,Ciutat Vella,el Raval,Electric,121.0
+2023,Ciutat Vella,el Raval,Gasoline,7380.0
+2023,Ciutat Vella,el Raval,Hybrid,755.0
+2023,Ciutat Vella,el Raval,Others,233.0
+2023,Ciutat Vella,el Raval,Unknown,55.0
+2023,Ciutat Vella,la Barceloneta,Diesel,1666.0
+2023,Ciutat Vella,la Barceloneta,Electric,138.0
+2023,Ciutat Vella,la Barceloneta,Gasoline,3828.0
+2023,Ciutat Vella,la Barceloneta,Hybrid,170.0
+2023,Ciutat Vella,la Barceloneta,Others,97.0
+2023,Ciutat Vella,la Barceloneta,Unknown,12.0
+2023,Eixample,Sant Antoni,Diesel,4153.0
+2023,Eixample,Sant Antoni,Electric,152.0
+2023,Eixample,Sant Antoni,Gasoline,10412.0
+2023,Eixample,Sant Antoni,Hybrid,759.0
+2023,Eixample,Sant Antoni,Others,244.0
+2023,Eixample,Sant Antoni,Unknown,45.0
+2023,Eixample,el Fort Pienc,Diesel,3982.0
+2023,Eixample,el Fort Pienc,Electric,124.0
+2023,Eixample,el Fort Pienc,Gasoline,9294.0
+2023,Eixample,el Fort Pienc,Hybrid,897.0
+2023,Eixample,el Fort Pienc,Others,151.0
+2023,Eixample,el Fort Pienc,Unknown,47.0
+2023,Eixample,l'Antiga Esquerra de l'Eixample,Diesel,5452.0
+2023,Eixample,l'Antiga Esquerra de l'Eixample,Electric,1452.0
+2023,Eixample,l'Antiga Esquerra de l'Eixample,Gasoline,14989.0
+2023,Eixample,l'Antiga Esquerra de l'Eixample,Hybrid,1255.0
+2023,Eixample,l'Antiga Esquerra de l'Eixample,Others,227.0
+2023,Eixample,l'Antiga Esquerra de l'Eixample,Unknown,72.0
+2023,Eixample,la Dreta de l'Eixample,Diesel,8764.0
+2023,Eixample,la Dreta de l'Eixample,Electric,495.0
+2023,Eixample,la Dreta de l'Eixample,Gasoline,17550.0
+2023,Eixample,la Dreta de l'Eixample,Hybrid,2225.0
+2023,Eixample,la Dreta de l'Eixample,Others,775.0
+2023,Eixample,la Dreta de l'Eixample,Unknown,143.0
+2023,Eixample,la Nova Esquerra de l'Eixample,Diesel,7771.0
+2023,Eixample,la Nova Esquerra de l'Eixample,Electric,354.0
+2023,Eixample,la Nova Esquerra de l'Eixample,Gasoline,18674.0
+2023,Eixample,la Nova Esquerra de l'Eixample,Hybrid,1963.0
+2023,Eixample,la Nova Esquerra de l'Eixample,Others,284.0
+2023,Eixample,la Nova Esquerra de l'Eixample,Unknown,76.0
+2023,Eixample,la Sagrada Família,Diesel,5610.0
+2023,Eixample,la Sagrada Família,Electric,216.0
+2023,Eixample,la Sagrada Família,Gasoline,14874.0
+2023,Eixample,la Sagrada Família,Hybrid,1276.0
+2023,Eixample,la Sagrada Família,Others,435.0
+2023,Eixample,la Sagrada Família,Unknown,33.0
+2023,Gràcia,Vallcarca i els Penitents,Diesel,2182.0
+2023,Gràcia,Vallcarca i els Penitents,Electric,123.0
+2023,Gràcia,Vallcarca i els Penitents,Gasoline,6417.0
+2023,Gràcia,Vallcarca i els Penitents,Hybrid,504.0
+2023,Gràcia,Vallcarca i els Penitents,Others,80.0
+2023,Gràcia,Vallcarca i els Penitents,Unknown,28.0
+2023,Gràcia,el Camp d'en Grassot i Gràcia Nova,Diesel,3885.0
+2023,Gràcia,el Camp d'en Grassot i Gràcia Nova,Electric,168.0
+2023,Gràcia,el Camp d'en Grassot i Gràcia Nova,Gasoline,11392.0
+2023,Gràcia,el Camp d'en Grassot i Gràcia Nova,Hybrid,882.0
+2023,Gràcia,el Camp d'en Grassot i Gràcia Nova,Others,156.0
+2023,Gràcia,el Camp d'en Grassot i Gràcia Nova,Unknown,32.0
+2023,Gràcia,el Coll,Diesel,951.0
+2023,Gràcia,el Coll,Electric,38.0
+2023,Gràcia,el Coll,Gasoline,2613.0
+2023,Gràcia,el Coll,Hybrid,162.0
+2023,Gràcia,el Coll,Others,39.0
+2023,Gràcia,el Coll,Unknown,10.0
+2023,Gràcia,la Salut,Diesel,1640.0
+2023,Gràcia,la Salut,Electric,66.0
+2023,Gràcia,la Salut,Gasoline,4901.0
+2023,Gràcia,la Salut,Hybrid,374.0
+2023,Gràcia,la Salut,Others,73.0
+2023,Gràcia,la Salut,Unknown,11.0
+2023,Gràcia,la Vila de Gràcia,Diesel,5549.0
+2023,Gràcia,la Vila de Gràcia,Electric,265.0
+2023,Gràcia,la Vila de Gràcia,Gasoline,14916.0
+2023,Gràcia,la Vila de Gràcia,Hybrid,988.0
+2023,Gràcia,la Vila de Gràcia,Others,248.0
+2023,Gràcia,la Vila de Gràcia,Unknown,51.0
+2023,Horta-Guinardó,Can Baró,Diesel,1225.0
+2023,Horta-Guinardó,Can Baró,Electric,29.0
+2023,Horta-Guinardó,Can Baró,Gasoline,3461.0
+2023,Horta-Guinardó,Can Baró,Hybrid,205.0
+2023,Horta-Guinardó,Can Baró,Others,59.0
+2023,Horta-Guinardó,Can Baró,Unknown,13.0
+2023,Horta-Guinardó,Horta,Diesel,3559.0
+2023,Horta-Guinardó,Horta,Electric,66.0
+2023,Horta-Guinardó,Horta,Gasoline,8601.0
+2023,Horta-Guinardó,Horta,Hybrid,610.0
+2023,Horta-Guinardó,Horta,Others,183.0
+2023,Horta-Guinardó,Horta,Unknown,27.0
+2023,Horta-Guinardó,Montbau,Diesel,700.0
+2023,Horta-Guinardó,Montbau,Electric,8.0
+2023,Horta-Guinardó,Montbau,Gasoline,1543.0
+2023,Horta-Guinardó,Montbau,Hybrid,118.0
+2023,Horta-Guinardó,Montbau,Others,41.0
+2023,Horta-Guinardó,Montbau,Unknown,3.0
+2023,Horta-Guinardó,Sant Genís dels Agudells,Diesel,970.0
+2023,Horta-Guinardó,Sant Genís dels Agudells,Electric,31.0
+2023,Horta-Guinardó,Sant Genís dels Agudells,Gasoline,2270.0
+2023,Horta-Guinardó,Sant Genís dels Agudells,Hybrid,167.0
+2023,Horta-Guinardó,Sant Genís dels Agudells,Others,48.0
+2023,Horta-Guinardó,Sant Genís dels Agudells,Unknown,7.0
+2023,Horta-Guinardó,el Baix Guinardó,Diesel,2920.0
+2023,Horta-Guinardó,el Baix Guinardó,Electric,66.0
+2023,Horta-Guinardó,el Baix Guinardó,Gasoline,7793.0
+2023,Horta-Guinardó,el Baix Guinardó,Hybrid,597.0
+2023,Horta-Guinardó,el Baix Guinardó,Others,133.0
+2023,Horta-Guinardó,el Baix Guinardó,Unknown,40.0
+2023,Horta-Guinardó,el Carmel,Diesel,4092.0
+2023,Horta-Guinardó,el Carmel,Electric,65.0
+2023,Horta-Guinardó,el Carmel,Gasoline,10109.0
+2023,Horta-Guinardó,el Carmel,Hybrid,510.0
+2023,Horta-Guinardó,el Carmel,Others,185.0
+2023,Horta-Guinardó,el Carmel,Unknown,27.0
+2023,Horta-Guinardó,el Guinardó,Diesel,4721.0
+2023,Horta-Guinardó,el Guinardó,Electric,150.0
+2023,Horta-Guinardó,el Guinardó,Gasoline,11311.0
+2023,Horta-Guinardó,el Guinardó,Hybrid,951.0
+2023,Horta-Guinardó,el Guinardó,Others,246.0
+2023,Horta-Guinardó,el Guinardó,Unknown,22.0
+2023,Horta-Guinardó,la Clota,Diesel,142.0
+2023,Horta-Guinardó,la Clota,Electric,9.0
+2023,Horta-Guinardó,la Clota,Gasoline,244.0
+2023,Horta-Guinardó,la Clota,Hybrid,14.0
+2023,Horta-Guinardó,la Clota,Others,4.0
+2023,Horta-Guinardó,la Clota,Unknown,2.0
+2023,Horta-Guinardó,la Font d'en Fargues,Diesel,1482.0
+2023,Horta-Guinardó,la Font d'en Fargues,Electric,55.0
+2023,Horta-Guinardó,la Font d'en Fargues,Gasoline,4035.0
+2023,Horta-Guinardó,la Font d'en Fargues,Hybrid,312.0
+2023,Horta-Guinardó,la Font d'en Fargues,Others,74.0
+2023,Horta-Guinardó,la Font d'en Fargues,Unknown,8.0
+2023,Horta-Guinardó,la Teixonera,Diesel,1596.0
+2023,Horta-Guinardó,la Teixonera,Electric,40.0
+2023,Horta-Guinardó,la Teixonera,Gasoline,4015.0
+2023,Horta-Guinardó,la Teixonera,Hybrid,255.0
+2023,Horta-Guinardó,la Teixonera,Others,87.0
+2023,Horta-Guinardó,la Teixonera,Unknown,2.0
+2023,Horta-Guinardó,la Vall d'Hebron,Diesel,917.0
+2023,Horta-Guinardó,la Vall d'Hebron,Electric,20.0
+2023,Horta-Guinardó,la Vall d'Hebron,Gasoline,1827.0
+2023,Horta-Guinardó,la Vall d'Hebron,Hybrid,178.0
+2023,Horta-Guinardó,la Vall d'Hebron,Others,46.0
+2023,Horta-Guinardó,la Vall d'Hebron,Unknown,12.0
+2023,Les Corts,Pedralbes,Diesel,1968.0
+2023,Les Corts,Pedralbes,Electric,219.0
+2023,Les Corts,Pedralbes,Gasoline,6636.0
+2023,Les Corts,Pedralbes,Hybrid,568.0
+2023,Les Corts,Pedralbes,Others,69.0
+2023,Les Corts,Pedralbes,Unknown,28.0
+2023,Les Corts,la Maternitat i Sant Ramon,Diesel,3586.0
+2023,Les Corts,la Maternitat i Sant Ramon,Electric,114.0
+2023,Les Corts,la Maternitat i Sant Ramon,Gasoline,8489.0
+2023,Les Corts,la Maternitat i Sant Ramon,Hybrid,736.0
+2023,Les Corts,la Maternitat i Sant Ramon,Others,188.0
+2023,Les Corts,la Maternitat i Sant Ramon,Unknown,42.0
+2023,Les Corts,les Corts,Diesel,6959.0
+2023,Les Corts,les Corts,Electric,758.0
+2023,Les Corts,les Corts,Gasoline,17424.0
+2023,Les Corts,les Corts,Hybrid,2243.0
+2023,Les Corts,les Corts,Others,262.0
+2023,Les Corts,les Corts,Unknown,82.0
+2023,Nou Barris,Can Peguera,Diesel,285.0
+2023,Nou Barris,Can Peguera,Gasoline,636.0
+2023,Nou Barris,Can Peguera,Hybrid,42.0
+2023,Nou Barris,Can Peguera,Others,16.0
+2023,Nou Barris,Can Peguera,Unknown,1.0
+2023,Nou Barris,Canyelles,Diesel,1265.0
+2023,Nou Barris,Canyelles,Electric,4.0
+2023,Nou Barris,Canyelles,Gasoline,2168.0
+2023,Nou Barris,Canyelles,Hybrid,161.0
+2023,Nou Barris,Canyelles,Others,72.0
+2023,Nou Barris,Canyelles,Unknown,7.0
+2023,Nou Barris,Ciutat Meridiana,Diesel,1528.0
+2023,Nou Barris,Ciutat Meridiana,Electric,7.0
+2023,Nou Barris,Ciutat Meridiana,Gasoline,2170.0
+2023,Nou Barris,Ciutat Meridiana,Hybrid,115.0
+2023,Nou Barris,Ciutat Meridiana,Others,61.0
+2023,Nou Barris,Ciutat Meridiana,Unknown,13.0
+2023,Nou Barris,Porta,Diesel,3147.0
+2023,Nou Barris,Porta,Electric,38.0
+2023,Nou Barris,Porta,Gasoline,6277.0
+2023,Nou Barris,Porta,Hybrid,478.0
+2023,Nou Barris,Porta,Others,173.0
+2023,Nou Barris,Porta,Unknown,21.0
+2023,Nou Barris,Torre Baró,Diesel,581.0
+2023,Nou Barris,Torre Baró,Electric,9.0
+2023,Nou Barris,Torre Baró,Gasoline,881.0
+2023,Nou Barris,Torre Baró,Hybrid,42.0
+2023,Nou Barris,Torre Baró,Others,30.0
+2023,Nou Barris,Torre Baró,Unknown,6.0
+2023,Nou Barris,Vallbona,Diesel,321.0
+2023,Nou Barris,Vallbona,Electric,7.0
+2023,Nou Barris,Vallbona,Gasoline,396.0
+2023,Nou Barris,Vallbona,Hybrid,21.0
+2023,Nou Barris,Vallbona,Others,33.0
+2023,Nou Barris,Vallbona,Unknown,1.0
+2023,Nou Barris,Verdun,Diesel,1651.0
+2023,Nou Barris,Verdun,Electric,9.0
+2023,Nou Barris,Verdun,Gasoline,3000.0
+2023,Nou Barris,Verdun,Hybrid,194.0
+2023,Nou Barris,Verdun,Others,95.0
+2023,Nou Barris,Verdun,Unknown,4.0
+2023,Nou Barris,Vilapicina i la Torre Llobeta,Diesel,3260.0
+2023,Nou Barris,Vilapicina i la Torre Llobeta,Electric,53.0
+2023,Nou Barris,Vilapicina i la Torre Llobeta,Gasoline,6932.0
+2023,Nou Barris,Vilapicina i la Torre Llobeta,Hybrid,552.0
+2023,Nou Barris,Vilapicina i la Torre Llobeta,Others,184.0
+2023,Nou Barris,Vilapicina i la Torre Llobeta,Unknown,29.0
+2023,Nou Barris,el Turó de la Peira,Diesel,1705.0
+2023,Nou Barris,el Turó de la Peira,Electric,19.0
+2023,Nou Barris,el Turó de la Peira,Gasoline,3649.0
+2023,Nou Barris,el Turó de la Peira,Hybrid,220.0
+2023,Nou Barris,el Turó de la Peira,Others,70.0
+2023,Nou Barris,el Turó de la Peira,Unknown,11.0
+2023,Nou Barris,la Guineueta,Diesel,2158.0
+2023,Nou Barris,la Guineueta,Electric,36.0
+2023,Nou Barris,la Guineueta,Gasoline,4296.0
+2023,Nou Barris,la Guineueta,Hybrid,413.0
+2023,Nou Barris,la Guineueta,Others,103.0
+2023,Nou Barris,la Guineueta,Unknown,21.0
+2023,Nou Barris,la Prosperitat,Diesel,3637.0
+2023,Nou Barris,la Prosperitat,Electric,29.0
+2023,Nou Barris,la Prosperitat,Gasoline,6780.0
+2023,Nou Barris,la Prosperitat,Hybrid,457.0
+2023,Nou Barris,la Prosperitat,Others,230.0
+2023,Nou Barris,la Prosperitat,Unknown,31.0
+2023,Nou Barris,la Trinitat Nova,Diesel,1091.0
+2023,Nou Barris,la Trinitat Nova,Electric,3.0
+2023,Nou Barris,la Trinitat Nova,Gasoline,1786.0
+2023,Nou Barris,la Trinitat Nova,Hybrid,88.0
+2023,Nou Barris,la Trinitat Nova,Others,45.0
+2023,Nou Barris,la Trinitat Nova,Unknown,13.0
+2023,Nou Barris,les Roquetes,Diesel,2499.0
+2023,Nou Barris,les Roquetes,Electric,19.0
+2023,Nou Barris,les Roquetes,Gasoline,4028.0
+2023,Nou Barris,les Roquetes,Hybrid,189.0
+2023,Nou Barris,les Roquetes,Others,134.0
+2023,Nou Barris,les Roquetes,Unknown,22.0
+2023,Sant Andreu,Baró de Viver,Diesel,404.0
+2023,Sant Andreu,Baró de Viver,Gasoline,664.0
+2023,Sant Andreu,Baró de Viver,Hybrid,30.0
+2023,Sant Andreu,Baró de Viver,Others,19.0
+2023,Sant Andreu,Baró de Viver,Unknown,3.0
+2023,Sant Andreu,Navas,Diesel,2768.0
+2023,Sant Andreu,Navas,Electric,42.0
+2023,Sant Andreu,Navas,Gasoline,6279.0
+2023,Sant Andreu,Navas,Hybrid,513.0
+2023,Sant Andreu,Navas,Others,129.0
+2023,Sant Andreu,Navas,Unknown,24.0
+2023,Sant Andreu,Sant Andreu,Diesel,7944.0
+2023,Sant Andreu,Sant Andreu,Electric,159.0
+2023,Sant Andreu,Sant Andreu,Gasoline,16722.0
+2023,Sant Andreu,Sant Andreu,Hybrid,1450.0
+2023,Sant Andreu,Sant Andreu,Others,351.0
+2023,Sant Andreu,Sant Andreu,Unknown,42.0
+2023,Sant Andreu,el Bon Pastor,Diesel,2994.0
+2023,Sant Andreu,el Bon Pastor,Electric,606.0
+2023,Sant Andreu,el Bon Pastor,Gasoline,3683.0
+2023,Sant Andreu,el Bon Pastor,Hybrid,665.0
+2023,Sant Andreu,el Bon Pastor,Others,484.0
+2023,Sant Andreu,el Bon Pastor,Unknown,12.0
+2023,Sant Andreu,el Congrés i els Indians,Diesel,1658.0
+2023,Sant Andreu,el Congrés i els Indians,Electric,45.0
+2023,Sant Andreu,el Congrés i els Indians,Gasoline,3935.0
+2023,Sant Andreu,el Congrés i els Indians,Hybrid,305.0
+2023,Sant Andreu,el Congrés i els Indians,Others,86.0
+2023,Sant Andreu,el Congrés i els Indians,Unknown,6.0
+2023,Sant Andreu,la Sagrera,Diesel,3755.0
+2023,Sant Andreu,la Sagrera,Electric,60.0
+2023,Sant Andreu,la Sagrera,Gasoline,7849.0
+2023,Sant Andreu,la Sagrera,Hybrid,688.0
+2023,Sant Andreu,la Sagrera,Others,210.0
+2023,Sant Andreu,la Sagrera,Unknown,19.0
+2023,Sant Andreu,la Trinitat Vella,Diesel,1596.0
+2023,Sant Andreu,la Trinitat Vella,Electric,16.0
+2023,Sant Andreu,la Trinitat Vella,Gasoline,2349.0
+2023,Sant Andreu,la Trinitat Vella,Hybrid,151.0
+2023,Sant Andreu,la Trinitat Vella,Others,52.0
+2023,Sant Andreu,la Trinitat Vella,Unknown,10.0
+2023,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Diesel,1998.0
+2023,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Electric,77.0
+2023,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Gasoline,3685.0
+2023,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Hybrid,482.0
+2023,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Others,106.0
+2023,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,Unknown,8.0
+2023,Sant Martí,Provençals del Poblenou,Diesel,3630.0
+2023,Sant Martí,Provençals del Poblenou,Electric,116.0
+2023,Sant Martí,Provençals del Poblenou,Gasoline,6261.0
+2023,Sant Martí,Provençals del Poblenou,Hybrid,600.0
+2023,Sant Martí,Provençals del Poblenou,Others,206.0
+2023,Sant Martí,Provençals del Poblenou,Unknown,21.0
+2023,Sant Martí,Sant Martí de Provençals,Diesel,3535.0
+2023,Sant Martí,Sant Martí de Provençals,Electric,48.0
+2023,Sant Martí,Sant Martí de Provençals,Gasoline,7318.0
+2023,Sant Martí,Sant Martí de Provençals,Hybrid,560.0
+2023,Sant Martí,Sant Martí de Provençals,Others,210.0
+2023,Sant Martí,Sant Martí de Provençals,Unknown,21.0
+2023,Sant Martí,el Besòs i el Maresme,Diesel,3354.0
+2023,Sant Martí,el Besòs i el Maresme,Electric,31.0
+2023,Sant Martí,el Besòs i el Maresme,Gasoline,5164.0
+2023,Sant Martí,el Besòs i el Maresme,Hybrid,485.0
+2023,Sant Martí,el Besòs i el Maresme,Others,161.0
+2023,Sant Martí,el Besòs i el Maresme,Unknown,23.0
+2023,Sant Martí,el Camp de l'Arpa del Clot,Diesel,4533.0
+2023,Sant Martí,el Camp de l'Arpa del Clot,Electric,74.0
+2023,Sant Martí,el Camp de l'Arpa del Clot,Gasoline,10699.0
+2023,Sant Martí,el Camp de l'Arpa del Clot,Hybrid,899.0
+2023,Sant Martí,el Camp de l'Arpa del Clot,Others,259.0
+2023,Sant Martí,el Camp de l'Arpa del Clot,Unknown,35.0
+2023,Sant Martí,el Clot,Diesel,3501.0
+2023,Sant Martí,el Clot,Electric,49.0
+2023,Sant Martí,el Clot,Gasoline,7576.0
+2023,Sant Martí,el Clot,Hybrid,705.0
+2023,Sant Martí,el Clot,Others,174.0
+2023,Sant Martí,el Clot,Unknown,24.0
+2023,Sant Martí,el Parc i la Llacuna del Poblenou,Diesel,2661.0
+2023,Sant Martí,el Parc i la Llacuna del Poblenou,Electric,1468.0
+2023,Sant Martí,el Parc i la Llacuna del Poblenou,Gasoline,4794.0
+2023,Sant Martí,el Parc i la Llacuna del Poblenou,Hybrid,507.0
+2023,Sant Martí,el Parc i la Llacuna del Poblenou,Others,149.0
+2023,Sant Martí,el Parc i la Llacuna del Poblenou,Unknown,22.0
+2023,Sant Martí,el Poblenou,Diesel,4653.0
+2023,Sant Martí,el Poblenou,Electric,409.0
+2023,Sant Martí,el Poblenou,Gasoline,9621.0
+2023,Sant Martí,el Poblenou,Hybrid,1402.0
+2023,Sant Martí,el Poblenou,Others,292.0
+2023,Sant Martí,el Poblenou,Unknown,36.0
+2023,Sant Martí,la Verneda i la Pau,Diesel,4390.0
+2023,Sant Martí,la Verneda i la Pau,Electric,53.0
+2023,Sant Martí,la Verneda i la Pau,Gasoline,7964.0
+2023,Sant Martí,la Verneda i la Pau,Hybrid,701.0
+2023,Sant Martí,la Verneda i la Pau,Others,209.0
+2023,Sant Martí,la Verneda i la Pau,Unknown,31.0
+2023,Sant Martí,la Vila Olímpica del Poblenou,Diesel,1579.0
+2023,Sant Martí,la Vila Olímpica del Poblenou,Electric,89.0
+2023,Sant Martí,la Vila Olímpica del Poblenou,Gasoline,3428.0
+2023,Sant Martí,la Vila Olímpica del Poblenou,Hybrid,423.0
+2023,Sant Martí,la Vila Olímpica del Poblenou,Others,61.0
+2023,Sant Martí,la Vila Olímpica del Poblenou,Unknown,17.0
+2023,Sants-Montjuïc,Hostafrancs,Diesel,1997.0
+2023,Sants-Montjuïc,Hostafrancs,Electric,48.0
+2023,Sants-Montjuïc,Hostafrancs,Gasoline,4124.0
+2023,Sants-Montjuïc,Hostafrancs,Hybrid,283.0
+2023,Sants-Montjuïc,Hostafrancs,Others,96.0
+2023,Sants-Montjuïc,Hostafrancs,Unknown,25.0
+2023,Sants-Montjuïc,Sants,Diesel,4614.0
+2023,Sants-Montjuïc,Sants,Electric,104.0
+2023,Sants-Montjuïc,Sants,Gasoline,11481.0
+2023,Sants-Montjuïc,Sants,Hybrid,831.0
+2023,Sants-Montjuïc,Sants,Others,211.0
+2023,Sants-Montjuïc,Sants,Unknown,58.0
+2023,Sants-Montjuïc,Sants - Badal,Diesel,2907.0
+2023,Sants-Montjuïc,Sants - Badal,Electric,46.0
+2023,Sants-Montjuïc,Sants - Badal,Gasoline,6526.0
+2023,Sants-Montjuïc,Sants - Badal,Hybrid,458.0
+2023,Sants-Montjuïc,Sants - Badal,Others,119.0
+2023,Sants-Montjuïc,Sants - Badal,Unknown,24.0
+2023,Sants-Montjuïc,el Poble Sec - AEI Parc Montjuïc,Diesel,4214.0
+2023,Sants-Montjuïc,el Poble Sec - AEI Parc Montjuïc,Electric,92.0
+2023,Sants-Montjuïc,el Poble Sec - AEI Parc Montjuïc,Gasoline,9227.0
+2023,Sants-Montjuïc,el Poble Sec - AEI Parc Montjuïc,Hybrid,581.0
+2023,Sants-Montjuïc,el Poble Sec - AEI Parc Montjuïc,Others,189.0
+2023,Sants-Montjuïc,el Poble Sec - AEI Parc Montjuïc,Unknown,39.0
+2023,Sants-Montjuïc,la Bordeta,Diesel,2420.0
+2023,Sants-Montjuïc,la Bordeta,Electric,48.0
+2023,Sants-Montjuïc,la Bordeta,Gasoline,5409.0
+2023,Sants-Montjuïc,la Bordeta,Hybrid,431.0
+2023,Sants-Montjuïc,la Bordeta,Others,137.0
+2023,Sants-Montjuïc,la Bordeta,Unknown,19.0
+2023,Sants-Montjuïc,la Font de la Guatlla,Diesel,1412.0
+2023,Sants-Montjuïc,la Font de la Guatlla,Electric,31.0
+2023,Sants-Montjuïc,la Font de la Guatlla,Gasoline,3170.0
+2023,Sants-Montjuïc,la Font de la Guatlla,Hybrid,244.0
+2023,Sants-Montjuïc,la Font de la Guatlla,Others,68.0
+2023,Sants-Montjuïc,la Font de la Guatlla,Unknown,11.0
+2023,Sants-Montjuïc,la Marina de Port,Diesel,4306.0
+2023,Sants-Montjuïc,la Marina de Port,Electric,69.0
+2023,Sants-Montjuïc,la Marina de Port,Gasoline,8862.0
+2023,Sants-Montjuïc,la Marina de Port,Hybrid,561.0
+2023,Sants-Montjuïc,la Marina de Port,Others,272.0
+2023,Sants-Montjuïc,la Marina de Port,Unknown,26.0
+2023,Sants-Montjuïc,la Marina del Prat Vermell - AEI Zona Franca,Diesel,4677.0
+2023,Sants-Montjuïc,la Marina del Prat Vermell - AEI Zona Franca,Electric,2216.0
+2023,Sants-Montjuïc,la Marina del Prat Vermell - AEI Zona Franca,Gasoline,4364.0
+2023,Sants-Montjuïc,la Marina del Prat Vermell - AEI Zona Franca,Hybrid,1710.0
+2023,Sants-Montjuïc,la Marina del Prat Vermell - AEI Zona Franca,Others,1914.0
+2023,Sants-Montjuïc,la Marina del Prat Vermell - AEI Zona Franca,Unknown,39.0
+2023,Sarrià-St. Gervasi,Sant Gervasi - Galvany,Diesel,7789.0
+2023,Sarrià-St. Gervasi,Sant Gervasi - Galvany,Electric,884.0
+2023,Sarrià-St. Gervasi,Sant Gervasi - Galvany,Gasoline,25191.0
+2023,Sarrià-St. Gervasi,Sant Gervasi - Galvany,Hybrid,2042.0
+2023,Sarrià-St. Gervasi,Sant Gervasi - Galvany,Others,292.0
+2023,Sarrià-St. Gervasi,Sant Gervasi - Galvany,Unknown,103.0
+2023,Sarrià-St. Gervasi,Sant Gervasi - la Bonanova,Diesel,3600.0
+2023,Sarrià-St. Gervasi,Sant Gervasi - la Bonanova,Electric,646.0
+2023,Sarrià-St. Gervasi,Sant Gervasi - la Bonanova,Gasoline,12906.0
+2023,Sarrià-St. Gervasi,Sant Gervasi - la Bonanova,Hybrid,944.0
+2023,Sarrià-St. Gervasi,Sant Gervasi - la Bonanova,Others,101.0
+2023,Sarrià-St. Gervasi,Sant Gervasi - la Bonanova,Unknown,53.0
+2023,Sarrià-St. Gervasi,Sarrià,Diesel,3742.0
+2023,Sarrià-St. Gervasi,Sarrià,Electric,345.0
+2023,Sarrià-St. Gervasi,Sarrià,Gasoline,11619.0
+2023,Sarrià-St. Gervasi,Sarrià,Hybrid,848.0
+2023,Sarrià-St. Gervasi,Sarrià,Others,129.0
+2023,Sarrià-St. Gervasi,Sarrià,Unknown,39.0
+2023,Sarrià-St. Gervasi,"Vallvidrera, el Tibidabo i les Planes",Diesel,882.0
+2023,Sarrià-St. Gervasi,"Vallvidrera, el Tibidabo i les Planes",Electric,74.0
+2023,Sarrià-St. Gervasi,"Vallvidrera, el Tibidabo i les Planes",Gasoline,2187.0
+2023,Sarrià-St. Gervasi,"Vallvidrera, el Tibidabo i les Planes",Hybrid,168.0
+2023,Sarrià-St. Gervasi,"Vallvidrera, el Tibidabo i les Planes",Others,50.0
+2023,Sarrià-St. Gervasi,"Vallvidrera, el Tibidabo i les Planes",Unknown,11.0
+2023,Sarrià-St. Gervasi,el Putxet i el Farró,Diesel,3481.0
+2023,Sarrià-St. Gervasi,el Putxet i el Farró,Electric,188.0
+2023,Sarrià-St. Gervasi,el Putxet i el Farró,Gasoline,12694.0
+2023,Sarrià-St. Gervasi,el Putxet i el Farró,Hybrid,900.0
+2023,Sarrià-St. Gervasi,el Putxet i el Farró,Others,117.0
+2023,Sarrià-St. Gervasi,el Putxet i el Farró,Unknown,34.0
+2023,Sarrià-St. Gervasi,les Tres Torres,Diesel,2557.0
+2023,Sarrià-St. Gervasi,les Tres Torres,Electric,228.0
+2023,Sarrià-St. Gervasi,les Tres Torres,Gasoline,9123.0
+2023,Sarrià-St. Gervasi,les Tres Torres,Hybrid,696.0
+2023,Sarrià-St. Gervasi,les Tres Torres,Others,73.0
+2023,Sarrià-St. Gervasi,les Tres Torres,Unknown,30.0

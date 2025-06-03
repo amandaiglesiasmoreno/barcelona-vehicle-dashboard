@@ -1,0 +1,1 @@
+"""Callbacks package for Barcelona Vehicle Dashboard."""
