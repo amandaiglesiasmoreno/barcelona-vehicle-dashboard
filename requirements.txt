@@ -1,5 +1,5 @@
-dash==2.14.1
-plotly==5.17.0
-pandas==2.1.1
-numpy==1.25.2
+dash==3.0.0
+plotly==5.22.0
+pandas==2.2.2
+numpy==1.26.4
 gunicorn==21.2.0
